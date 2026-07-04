@@ -1,0 +1,51 @@
+seller_name,company_name,email,phone,city,state,joining_date,seller_rating
+Seller 1,UrbanMart Pvt Ltd,seller1@urbanmart.com,9164106885,Delhi,Delhi,2022-12-15,4.8
+Seller 2,ElectroHub Pvt Ltd,seller2@electrohub.com,9585320619,Pune,Maharashtra,2023-01-22,3.6
+Seller 3,ValueMart Pvt Ltd,seller3@valuemart.com,9710122046,Noida,Uttar Pradesh,2023-08-11,4.2
+Seller 4,FashionPoint Pvt Ltd,seller4@fashionpoint.com,9045873989,Bengaluru,Karnataka,2024-04-08,4.9
+Seller 5,MegaStore Pvt Ltd,seller5@megastore.com,9868978658,Delhi,Delhi,2022-02-02,4.8
+Seller 6,ValueMart Pvt Ltd,seller6@valuemart.com,9174255861,Pune,Maharashtra,2024-01-11,4.2
+Seller 7,DigitalWorld Pvt Ltd,seller7@digitalworld.com,9503915053,Chandigarh,Punjab,2023-02-20,4.3
+Seller 8,EliteTraders Pvt Ltd,seller8@elitetraders.com,9473872287,Delhi,Delhi,2023-01-23,4.6
+Seller 9,TechNova Pvt Ltd,seller9@technova.com,9273045466,Delhi,Delhi,2022-01-01,3.7
+Seller 10,SmartBuy Pvt Ltd,seller10@smartbuy.com,9511608618,Mumbai,Maharashtra,2023-12-12,4.5
+Seller 11,PrimeDeals Pvt Ltd,seller11@primedeals.com,9470856502,Delhi,Delhi,2024-06-24,4.9
+Seller 12,ValueMart Pvt Ltd,seller12@valuemart.com,9253108684,Mumbai,Maharashtra,2022-05-30,4.9
+Seller 13,DigitalWorld Pvt Ltd,seller13@digitalworld.com,9652858129,Lucknow,Uttar Pradesh,2023-01-31,4.1
+Seller 14,VisionRetail Pvt Ltd,seller14@visionretail.com,9057746028,Pune,Maharashtra,2022-11-29,4.8
+Seller 15,SmartBuy Pvt Ltd,seller15@smartbuy.com,9258185395,Hyderabad,Telangana,2022-04-06,3.9
+Seller 16,StyleKart Pvt Ltd,seller16@stylekart.com,9354608138,Hyderabad,Telangana,2022-07-24,4.6
+Seller 17,StyleKart Pvt Ltd,seller17@stylekart.com,9493195158,Delhi,Delhi,2023-07-05,3.7
+Seller 18,ElectroHub Pvt Ltd,seller18@electrohub.com,9776049756,Hyderabad,Telangana,2024-07-25,3.8
+Seller 19,HomeNeeds Pvt Ltd,seller19@homeneeds.com,9290997591,Hyderabad,Telangana,2023-12-09,3.6
+Seller 20,PrimeDeals Pvt Ltd,seller20@primedeals.com,9655375326,Bengaluru,Karnataka,2024-09-27,4.7
+Seller 21,MegaStore Pvt Ltd,seller21@megastore.com,9842865141,Ahmedabad,Gujarat,2024-07-19,3.9
+Seller 22,PrimeDeals Pvt Ltd,seller22@primedeals.com,9060964179,Chandigarh,Punjab,2024-02-23,4.9
+Seller 23,StyleKart Pvt Ltd,seller23@stylekart.com,9747995378,Noida,Uttar Pradesh,2023-08-12,4.9
+Seller 24,PrimeDeals Pvt Ltd,seller24@primedeals.com,9021067278,Lucknow,Uttar Pradesh,2022-02-13,4.2
+Seller 25,ElectroHub Pvt Ltd,seller25@electrohub.com,9553907894,Hyderabad,Telangana,2023-12-24,4.4
+Seller 26,PrimeDeals Pvt Ltd,seller26@primedeals.com,9631442656,Delhi,Delhi,2022-02-14,4.4
+Seller 27,EliteTraders Pvt Ltd,seller27@elitetraders.com,9230482834,Bengaluru,Karnataka,2023-05-27,4.8
+Seller 28,StyleKart Pvt Ltd,seller28@stylekart.com,9481179884,Bengaluru,Karnataka,2024-04-06,3.8
+Seller 29,EliteTraders Pvt Ltd,seller29@elitetraders.com,9667109668,Mumbai,Maharashtra,2023-01-01,3.7
+Seller 30,StyleKart Pvt Ltd,seller30@stylekart.com,9330331600,Pune,Maharashtra,2023-02-27,4.5
+Seller 31,TechNova Pvt Ltd,seller31@technova.com,9036424145,Hyderabad,Telangana,2022-08-06,4.3
+Seller 32,DigitalWorld Pvt Ltd,seller32@digitalworld.com,9273638668,Noida,Uttar Pradesh,2022-07-13,4.1
+Seller 33,FashionPoint Pvt Ltd,seller33@fashionpoint.com,9042712175,Bengaluru,Karnataka,2023-07-20,4.4
+Seller 34,SmartBuy Pvt Ltd,seller34@smartbuy.com,9545360181,Bengaluru,Karnataka,2023-08-31,4.5
+Seller 35,DigitalWorld Pvt Ltd,seller35@digitalworld.com,9362627202,Mumbai,Maharashtra,2024-03-18,4.7
+Seller 36,TechNova Pvt Ltd,seller36@technova.com,9123763600,Noida,Uttar Pradesh,2022-06-05,3.7
+Seller 37,ElectroHub Pvt Ltd,seller37@electrohub.com,9057333652,Mumbai,Maharashtra,2022-04-02,4.5
+Seller 38,PrimeDeals Pvt Ltd,seller38@primedeals.com,9653008113,Lucknow,Uttar Pradesh,2022-10-22,3.9
+Seller 39,DigitalWorld Pvt Ltd,seller39@digitalworld.com,9098468552,Hyderabad,Telangana,2024-05-16,4.1
+Seller 40,NextGen Pvt Ltd,seller40@nextgen.com,9455058041,Delhi,Delhi,2023-01-23,4.6
+Seller 41,PrimeDeals Pvt Ltd,seller41@primedeals.com,9719836133,Chandigarh,Punjab,2024-01-10,4.0
+Seller 42,UrbanMart Pvt Ltd,seller42@urbanmart.com,9882604023,Bengaluru,Karnataka,2023-01-10,3.8
+Seller 43,ValueMart Pvt Ltd,seller43@valuemart.com,9914115045,Pune,Maharashtra,2022-05-14,3.9
+Seller 44,NextGen Pvt Ltd,seller44@nextgen.com,9488181544,Mumbai,Maharashtra,2023-03-27,4.9
+Seller 45,ShopEase Pvt Ltd,seller45@shopease.com,9191765226,Delhi,Delhi,2022-01-01,4.1
+Seller 46,HomeNeeds Pvt Ltd,seller46@homeneeds.com,9062128462,Jaipur,Rajasthan,2024-03-07,4.8
+Seller 47,ShopEase Pvt Ltd,seller47@shopease.com,9019649083,Lucknow,Uttar Pradesh,2024-06-15,4.0
+Seller 48,SmartBuy Pvt Ltd,seller48@smartbuy.com,9502443637,Chandigarh,Punjab,2022-02-16,4.1
+Seller 49,ElectroHub Pvt Ltd,seller49@electrohub.com,9083179369,Pune,Maharashtra,2024-01-06,4.7
+Seller 50,ValueMart Pvt Ltd,seller50@valuemart.com,9851317084,Ahmedabad,Gujarat,2023-12-20,3.5

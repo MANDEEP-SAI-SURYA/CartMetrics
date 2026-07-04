@@ -1,0 +1,301 @@
+product_name,category_id,seller_id,brand,price,discount,launch_date
+BrandY Product 1,11,10,BrandY,55398.89,0,2025-01-02
+Lakme Product 2,4,24,Lakme,77342.81,5,2022-03-18
+Pigeon Pressure Cooker,3,28,Pigeon,20607.46,20,2024-05-19
+Nike Jeans,2,37,Nike,53676.71,20,2022-05-07
+BrandY Product 5,19,38,BrandY,4404.22,5,2022-04-06
+BrandY Product 6,18,9,BrandY,35742.41,20,2022-08-30
+BrandZ Product 7,19,20,BrandZ,69407.33,5,2022-07-31
+BrandZ Product 8,19,37,BrandZ,16130.65,0,2025-01-26
+Prestige Mixer Grinder,3,37,Prestige,42295.45,20,2024-05-25
+BrandZ Product 10,11,30,BrandZ,78507.75,10,2023-09-06
+Tata Product 11,8,12,Tata,66329.33,0,2025-03-22
+BrandY Product 12,10,34,BrandY,74411.53,25,2024-07-08
+BrandX Product 13,10,39,BrandX,10211.1,15,2022-12-04
+BrandY Product 14,11,10,BrandY,35959.44,25,2022-06-08
+BrandY Product 15,18,37,BrandY,29041.72,10,2024-10-14
+BrandX Product 16,19,30,BrandX,71429.11,10,2024-08-28
+Milton Cookware Set,3,4,Milton,24332.99,15,2023-12-12
+OnePlus Laptop,1,30,OnePlus,52005.59,15,2022-05-01
+Lego Product 19,7,50,Lego,11167.18,5,2024-03-25
+BrandX Product 20,13,32,BrandX,14307.03,15,2025-01-30
+BrandY Product 21,9,9,BrandY,73465.75,10,2024-04-30
+BrandY Product 22,12,44,BrandY,81415.56,5,2022-06-19
+Penguin Product 23,6,10,Penguin,56041.87,0,2024-09-20
+BrandY Product 24,19,12,BrandY,24107.01,5,2024-05-08
+BrandZ Product 25,18,24,BrandZ,48225.3,5,2024-11-21
+BrandZ Product 26,20,42,BrandZ,62933.49,15,2025-02-19
+BrandY Product 27,13,26,BrandY,33620.77,15,2024-03-31
+Nike Jeans,2,13,Nike,37564.6,0,2023-11-28
+BrandX Product 29,20,4,BrandX,218.78,5,2025-01-03
+Lakme Product 30,4,24,Lakme,6161.83,5,2024-02-10
+Yonex Product 31,5,41,Yonex,81223.64,20,2024-01-16
+BrandX Product 32,16,8,BrandX,72189.7,15,2024-09-10
+BrandX Product 33,16,20,BrandX,12420.31,25,2023-12-03
+BrandZ Product 34,9,31,BrandZ,13889.16,0,2023-02-25
+BrandX Product 35,17,24,BrandX,58717.42,0,2024-12-17
+BrandX Product 36,10,42,BrandX,59237.18,10,2024-11-27
+BrandY Product 37,12,11,BrandY,65660.11,20,2025-01-14
+BrandZ Product 38,17,22,BrandZ,19113.16,30,2023-02-04
+Tata Product 39,8,26,Tata,68321.85,5,2024-11-26
+BrandZ Product 40,16,23,BrandZ,2656.55,0,2023-07-27
+BrandX Product 41,16,17,BrandX,58925.55,10,2024-07-04
+BrandX Product 42,12,24,BrandX,18894.43,5,2024-08-20
+Funskool Product 43,7,22,Funskool,41128.48,20,2022-01-04
+BrandY Product 44,16,42,BrandY,68009.59,0,2022-09-03
+BrandX Product 45,13,46,BrandX,40736.65,5,2024-06-07
+BrandZ Product 46,11,6,BrandZ,33766.5,15,2022-06-23
+Penguin Product 47,6,11,Penguin,2535.17,20,2024-08-11
+Nivia Product 48,5,40,Nivia,83329.92,25,2023-12-19
+Nivia Product 49,5,36,Nivia,11306.56,0,2022-07-30
+BrandX Product 50,17,48,BrandX,36986.47,30,2023-02-03
+Lego Product 51,7,2,Lego,18242.94,20,2023-05-08
+BrandY Product 52,19,21,BrandY,46360.66,30,2022-09-26
+Adidas Jacket,2,48,Adidas,56377.53,30,2024-11-24
+BrandX Product 54,14,33,BrandX,45298.29,20,2024-11-11
+Apple Earbuds,1,29,Apple,532.48,30,2022-11-03
+Arihant Product 56,6,10,Arihant,52699.4,0,2025-02-13
+Zara Sneakers,2,21,Zara,47301.03,30,2022-08-06
+BrandX Product 58,18,4,BrandX,16421.95,0,2022-07-20
+BrandZ Product 59,17,29,BrandZ,2562.04,0,2024-06-26
+BrandZ Product 60,11,40,BrandZ,51600.08,5,2023-07-22
+BrandZ Product 61,15,33,BrandZ,68664.12,20,2023-05-23
+BrandZ Product 62,17,17,BrandZ,75905.51,5,2024-07-05
+Cosco Product 63,5,27,Cosco,33471.89,10,2022-05-29
+Aashirvaad Product 64,8,28,Aashirvaad,18235.31,10,2022-09-08
+Nivia Product 65,5,46,Nivia,56189.41,5,2023-06-03
+Cosco Product 66,5,30,Cosco,63518.39,0,2024-03-26
+BrandZ Product 67,16,11,BrandZ,70791.14,5,2024-06-02
+BrandY Product 68,17,26,BrandY,35923.67,10,2023-10-15
+Milton Pressure Cooker,3,47,Milton,28860.02,15,2024-06-21
+OnePlus Earbuds,1,25,OnePlus,53108.64,20,2022-05-12
+Lakme Product 71,4,15,Lakme,7327.48,10,2022-03-23
+Penguin Product 72,6,18,Penguin,69716.93,30,2023-06-14
+BrandZ Product 73,13,10,BrandZ,78145.66,20,2024-10-09
+BrandY Product 74,11,6,BrandY,5077.31,25,2023-01-11
+BrandY Product 75,14,5,BrandY,79771.99,25,2022-07-01
+BrandZ Product 76,9,6,BrandZ,72808.04,0,2023-06-26
+Lakme Product 77,4,30,Lakme,28959.41,20,2024-05-05
+BrandX Product 78,9,40,BrandX,3862.89,25,2023-05-04
+Nivea Product 79,4,11,Nivea,4471.25,5,2023-10-01
+BrandX Product 80,10,34,BrandX,24787.97,20,2022-12-31
+BrandX Product 81,9,23,BrandX,84533.51,0,2022-02-01
+Dell Earbuds,1,47,Dell,83138.76,20,2024-08-30
+Aashirvaad Product 83,8,29,Aashirvaad,56025.22,25,2024-06-04
+BrandY Product 84,16,35,BrandY,82482.46,10,2023-03-17
+Aashirvaad Product 85,8,22,Aashirvaad,70777.73,25,2022-10-14
+BrandX Product 86,13,23,BrandX,71176.45,0,2022-05-25
+BrandX Product 87,9,28,BrandX,4897.07,25,2024-02-20
+BrandY Product 88,17,43,BrandY,50976.01,25,2023-08-24
+Puma Jeans,2,30,Puma,23013.58,0,2023-06-24
+BrandZ Product 90,12,22,BrandZ,27635.0,0,2023-09-26
+Funskool Product 91,7,23,Funskool,289.65,15,2022-06-21
+BrandZ Product 92,16,18,BrandZ,55829.97,5,2024-10-30
+OnePlus Smartphone,1,6,OnePlus,12398.91,20,2022-03-27
+BrandY Product 94,13,2,BrandY,25999.24,5,2022-06-23
+BrandX Product 95,19,34,BrandX,55959.36,25,2024-03-08
+BrandY Product 96,11,47,BrandY,12873.62,25,2022-10-24
+Zara Jacket,2,46,Zara,62430.39,30,2024-11-01
+Nivia Product 98,5,34,Nivia,48406.63,30,2022-02-02
+BrandZ Product 99,19,46,BrandZ,81275.35,25,2023-04-16
+Prestige Mixer Grinder,3,2,Prestige,54227.4,0,2024-02-11
+BrandX Product 101,15,36,BrandX,53434.28,25,2024-12-24
+Fortune Product 102,8,32,Fortune,480.06,30,2022-05-24
+BrandX Product 103,17,35,BrandX,56108.26,0,2024-08-28
+BrandY Product 104,9,5,BrandY,20109.06,30,2023-02-25
+Tata Product 105,8,48,Tata,82942.31,15,2024-02-23
+Milton Pressure Cooker,3,31,Milton,52519.01,25,2023-02-11
+Philips Water Bottle,3,39,Philips,21733.39,25,2023-09-16
+BrandX Product 108,20,37,BrandX,1256.4,0,2024-09-21
+BrandX Product 109,9,44,BrandX,58896.99,25,2024-09-29
+BrandZ Product 110,10,46,BrandZ,24413.38,15,2024-08-13
+Mamaearth Product 111,4,36,Mamaearth,26629.32,0,2024-08-26
+HP Smartphone,1,19,HP,69727.14,15,2023-07-05
+BrandX Product 113,13,14,BrandX,6526.25,0,2022-10-18
+BrandY Product 114,17,17,BrandY,11444.04,30,2024-11-07
+BrandZ Product 115,9,8,BrandZ,31167.35,15,2024-09-22
+BrandX Product 116,13,2,BrandX,503.48,15,2024-07-12
+BrandZ Product 117,13,20,BrandZ,12131.11,10,2024-02-10
+BrandY Product 118,11,8,BrandY,346.67,30,2023-11-24
+BrandX Product 119,13,8,BrandX,60664.11,25,2023-08-17
+BrandX Product 120,9,24,BrandX,33517.26,30,2022-06-06
+BrandY Product 121,12,28,BrandY,72640.7,10,2022-07-28
+Adidas Jeans,2,43,Adidas,21341.99,10,2024-06-12
+BrandX Product 123,17,21,BrandX,65765.75,30,2024-05-26
+Lenovo Bluetooth Speaker,1,49,Lenovo,77658.26,20,2025-01-29
+Funskool Product 125,7,47,Funskool,4394.62,25,2024-04-21
+BrandX Product 126,15,40,BrandX,54852.46,10,2024-09-21
+Puma Jeans,2,36,Puma,40240.68,10,2023-08-01
+BrandZ Product 128,10,17,BrandZ,62845.34,25,2023-06-17
+BrandX Product 129,13,42,BrandX,25710.22,20,2024-03-18
+Mamaearth Product 130,4,11,Mamaearth,6573.54,20,2024-10-15
+BrandY Product 131,18,15,BrandY,77050.7,30,2024-07-10
+BrandZ Product 132,14,9,BrandZ,16515.31,0,2022-12-24
+BrandX Product 133,11,36,BrandX,27274.92,10,2023-06-14
+BrandX Product 134,19,13,BrandX,63770.71,15,2024-02-24
+BrandZ Product 135,14,48,BrandZ,18007.63,10,2023-11-24
+Adidas Sneakers,2,32,Adidas,82259.68,5,2024-10-27
+BrandX Product 137,17,41,BrandX,8051.42,5,2024-02-27
+BrandY Product 138,13,42,BrandY,36819.18,10,2022-02-14
+Yonex Product 139,5,3,Yonex,60366.31,30,2024-08-27
+BrandX Product 140,19,32,BrandX,6401.17,30,2024-12-17
+BrandX Product 141,15,29,BrandX,66607.27,5,2022-11-13
+Nivia Product 142,5,34,Nivia,9433.02,30,2024-07-25
+Prestige Pressure Cooker,3,36,Prestige,66538.71,5,2025-03-12
+Adidas Jeans,2,42,Adidas,53324.51,20,2024-06-14
+Lakme Product 145,4,7,Lakme,25668.92,20,2023-01-28
+BrandX Product 146,13,17,BrandX,67233.1,0,2022-01-22
+BrandY Product 147,18,20,BrandY,23824.87,10,2023-05-12
+BrandX Product 148,16,34,BrandX,46585.34,0,2024-04-23
+BrandX Product 149,10,4,BrandX,16660.17,25,2024-05-10
+Philips Cookware Set,3,17,Philips,78653.56,5,2024-10-06
+Adidas Jacket,2,45,Adidas,30924.09,15,2023-02-10
+Lenovo Earbuds,1,19,Lenovo,5917.34,15,2023-02-15
+BrandX Product 153,10,50,BrandX,19771.82,5,2023-06-27
+BrandZ Product 154,10,7,BrandZ,42240.34,5,2023-04-03
+BrandZ Product 155,16,27,BrandZ,4983.22,20,2022-10-27
+BrandX Product 156,13,4,BrandX,2202.74,20,2022-10-18
+BrandZ Product 157,14,4,BrandZ,5298.53,15,2024-07-09
+BrandX Product 158,11,47,BrandX,84790.53,5,2023-11-06
+Hamleys Product 159,7,12,Hamleys,79562.69,25,2024-08-15
+Levis Hoodie,2,20,Levis,83726.53,15,2022-12-13
+Lakme Product 161,4,1,Lakme,23926.86,10,2024-05-10
+Mamaearth Product 162,4,36,Mamaearth,32434.38,30,2023-09-25
+BrandX Product 163,14,6,BrandX,60005.46,5,2024-02-03
+BrandX Product 164,18,29,BrandX,27615.94,25,2024-08-29
+HP Laptop,1,41,HP,69042.53,30,2024-04-08
+Nike Jacket,2,25,Nike,5505.84,0,2023-06-11
+Funskool Product 167,7,48,Funskool,76397.09,10,2024-01-14
+BrandZ Product 168,9,22,BrandZ,3895.1,25,2023-10-11
+BrandX Product 169,9,20,BrandX,61389.03,20,2022-05-14
+Samsung Bluetooth Speaker,1,15,Samsung,60880.15,15,2024-03-02
+BrandY Product 171,9,28,BrandY,11452.71,15,2023-01-10
+OnePlus Tablet,1,48,OnePlus,65734.01,20,2023-04-29
+BrandY Product 173,11,21,BrandY,30884.96,30,2022-06-11
+BrandY Product 174,17,13,BrandY,64044.46,5,2024-04-15
+Prestige Cookware Set,3,42,Prestige,47059.58,10,2022-11-26
+BrandX Product 176,14,7,BrandX,22662.05,0,2023-03-03
+L'Oreal Product 177,4,27,L'Oreal,84019.03,15,2022-12-21
+Fortune Product 178,8,9,Fortune,39285.8,25,2023-04-27
+BrandZ Product 179,18,50,BrandZ,64611.01,30,2023-08-25
+BrandZ Product 180,10,18,BrandZ,22897.33,10,2023-06-18
+Funskool Product 181,7,29,Funskool,15949.63,5,2022-11-11
+BrandX Product 182,10,38,BrandX,27872.78,15,2023-05-31
+Tata Product 183,8,33,Tata,19820.34,30,2022-07-25
+BrandX Product 184,15,3,BrandX,579.93,30,2023-04-19
+BrandX Product 185,15,24,BrandX,74559.49,5,2022-09-02
+Zara Sneakers,2,13,Zara,16664.1,0,2024-02-02
+BrandY Product 187,17,12,BrandY,51337.58,30,2022-01-13
+Nivea Product 188,4,41,Nivea,18655.55,10,2023-11-28
+Cosco Product 189,5,3,Cosco,84989.29,0,2023-02-21
+HP Tablet,1,21,HP,31728.8,20,2023-10-02
+Prestige Cookware Set,3,14,Prestige,46673.75,0,2024-04-15
+Mamaearth Product 192,4,26,Mamaearth,54402.27,0,2022-12-02
+BrandY Product 193,13,45,BrandY,34949.51,10,2023-09-22
+BrandY Product 194,14,4,BrandY,63404.37,10,2024-04-28
+BrandY Product 195,14,2,BrandY,54851.4,15,2024-04-09
+Lego Product 196,7,1,Lego,76658.17,15,2022-08-21
+Milton Cookware Set,3,26,Milton,65754.79,5,2022-01-31
+Puma Jacket,2,36,Puma,7748.93,20,2024-01-30
+BrandX Product 199,17,11,BrandX,29705.08,5,2024-12-03
+Penguin Product 200,6,5,Penguin,32740.09,30,2023-02-09
+BrandX Product 201,10,9,BrandX,82926.33,15,2023-10-07
+Levis T-Shirt,2,39,Levis,76877.83,20,2022-11-25
+Fortune Product 203,8,40,Fortune,52328.64,5,2024-08-26
+Penguin Product 204,6,37,Penguin,3736.27,20,2022-11-17
+BrandX Product 205,13,23,BrandX,12873.96,25,2023-01-30
+Nike Hoodie,2,36,Nike,10182.71,20,2024-07-22
+BrandY Product 207,18,41,BrandY,55237.21,10,2025-04-08
+Fortune Product 208,8,28,Fortune,56069.52,15,2024-10-28
+BrandX Product 209,15,12,BrandX,496.49,15,2024-08-10
+Tata Product 210,8,29,Tata,66341.65,15,2023-01-03
+BrandX Product 211,16,26,BrandX,5890.9,10,2024-05-31
+BrandY Product 212,12,6,BrandY,42967.71,25,2022-03-25
+Puma T-Shirt,2,41,Puma,78396.21,10,2024-11-13
+Pigeon Mixer Grinder,3,4,Pigeon,2391.66,0,2022-08-13
+Lego Product 215,7,9,Lego,24611.65,30,2022-12-05
+Fortune Product 216,8,5,Fortune,51965.32,10,2022-11-22
+BrandY Product 217,11,40,BrandY,76949.18,15,2022-10-22
+BrandY Product 218,9,33,BrandY,17865.03,10,2024-11-02
+Fortune Product 219,8,21,Fortune,3322.48,5,2024-04-06
+Arihant Product 220,6,41,Arihant,57836.54,15,2022-12-12
+BrandZ Product 221,9,8,BrandZ,4317.92,30,2024-01-07
+BrandZ Product 222,15,36,BrandZ,49387.28,0,2023-06-01
+BrandY Product 223,18,41,BrandY,62775.62,10,2023-06-27
+BrandZ Product 224,13,24,BrandZ,12596.52,10,2022-06-16
+BrandX Product 225,15,15,BrandX,52383.3,0,2023-08-30
+BrandY Product 226,17,17,BrandY,54407.01,30,2025-04-14
+BrandX Product 227,11,47,BrandX,63555.5,5,2022-11-02
+BrandZ Product 228,10,40,BrandZ,36852.78,20,2024-01-16
+Levis Jeans,2,9,Levis,52141.26,0,2022-02-15
+Zara Hoodie,2,1,Zara,25956.35,20,2024-01-02
+BrandY Product 231,18,15,BrandY,49688.09,20,2022-10-01
+Hamleys Product 232,7,24,Hamleys,70454.23,5,2022-10-03
+Lenovo Laptop,1,16,Lenovo,38431.79,0,2022-10-24
+BrandY Product 234,9,26,BrandY,82213.05,0,2025-02-25
+BrandZ Product 235,12,39,BrandZ,49254.05,20,2024-11-26
+BrandX Product 236,16,16,BrandX,76817.0,0,2022-05-07
+BrandY Product 237,18,2,BrandY,15942.97,5,2022-04-30
+Mamaearth Product 238,4,1,Mamaearth,12263.35,5,2024-11-27
+BrandZ Product 239,20,42,BrandZ,55115.85,15,2022-12-24
+BrandX Product 240,17,20,BrandX,25661.87,0,2024-09-05
+BrandY Product 241,18,1,BrandY,71807.72,25,2024-08-10
+Pigeon Mixer Grinder,3,48,Pigeon,19359.65,0,2023-06-20
+Aashirvaad Product 243,8,42,Aashirvaad,10652.12,25,2023-06-24
+Zara Jacket,2,18,Zara,58349.9,20,2023-06-28
+BrandX Product 245,10,42,BrandX,7442.8,20,2022-02-01
+Penguin Product 246,6,17,Penguin,71577.94,5,2022-11-23
+BrandY Product 247,11,13,BrandY,28060.68,5,2024-02-17
+BrandY Product 248,18,31,BrandY,71407.36,25,2022-01-14
+Lenovo Laptop,1,28,Lenovo,48564.44,10,2023-03-11
+BrandZ Product 250,13,40,BrandZ,6796.72,5,2022-10-24
+Nike T-Shirt,2,2,Nike,52942.61,5,2023-12-08
+Cosco Product 252,5,45,Cosco,2816.8,5,2022-03-29
+Prestige Pressure Cooker,3,48,Prestige,72830.88,30,2024-01-15
+Hamleys Product 254,7,35,Hamleys,5791.49,30,2024-02-26
+Mamaearth Product 255,4,16,Mamaearth,17427.21,0,2022-03-12
+Milton Cookware Set,3,49,Milton,8668.68,0,2023-02-24
+BrandY Product 257,10,21,BrandY,36134.73,0,2023-12-20
+BrandX Product 258,9,19,BrandX,60896.35,10,2023-10-20
+BrandY Product 259,20,33,BrandY,72396.65,20,2022-03-05
+BrandY Product 260,14,2,BrandY,44178.7,0,2023-12-12
+BrandX Product 261,16,46,BrandX,45811.81,5,2022-07-06
+BrandX Product 262,19,19,BrandX,37177.11,20,2023-02-18
+BrandX Product 263,10,49,BrandX,568.87,15,2022-07-15
+BrandX Product 264,16,45,BrandX,82214.81,20,2023-12-13
+BrandZ Product 265,17,17,BrandZ,80240.11,10,2023-03-16
+Aashirvaad Product 266,8,32,Aashirvaad,9520.6,25,2022-06-15
+BrandZ Product 267,16,45,BrandZ,66931.72,25,2023-10-31
+BrandY Product 268,12,7,BrandY,78937.12,25,2022-06-26
+BrandX Product 269,14,42,BrandX,31740.73,10,2023-06-24
+BrandZ Product 270,14,35,BrandZ,14708.86,25,2023-04-24
+BrandZ Product 271,15,9,BrandZ,50578.29,25,2022-03-11
+BrandY Product 272,12,38,BrandY,44442.41,30,2024-07-11
+BrandY Product 273,18,48,BrandY,14577.05,15,2023-06-11
+BrandX Product 274,19,15,BrandX,28527.09,25,2023-05-03
+BrandY Product 275,17,13,BrandY,25767.15,25,2022-11-13
+Nivia Product 276,5,16,Nivia,27891.83,20,2023-12-15
+Arihant Product 277,6,16,Arihant,81251.22,10,2022-07-28
+Penguin Product 278,6,43,Penguin,16771.83,5,2022-10-31
+BrandY Product 279,10,47,BrandY,37080.91,5,2022-08-12
+Mamaearth Product 280,4,18,Mamaearth,75268.93,15,2022-03-11
+HP Tablet,1,26,HP,19063.17,25,2023-08-30
+BrandX Product 282,15,2,BrandX,22010.97,25,2024-04-08
+Apple Bluetooth Speaker,1,48,Apple,59658.23,20,2024-05-12
+Tata Product 284,8,43,Tata,55530.4,30,2025-04-10
+Aashirvaad Product 285,8,44,Aashirvaad,54602.13,15,2024-06-04
+BrandZ Product 286,11,17,BrandZ,59614.84,15,2023-05-12
+BrandZ Product 287,13,46,BrandZ,53590.96,10,2024-05-17
+BrandX Product 288,16,30,BrandX,52908.65,15,2024-11-27
+Arihant Product 289,6,42,Arihant,66189.39,15,2024-09-30
+Nivea Product 290,4,3,Nivea,46276.46,5,2023-02-14
+BrandX Product 291,17,23,BrandX,72038.97,15,2025-01-13
+Lego Product 292,7,46,Lego,43633.32,25,2024-01-28
+BrandY Product 293,17,22,BrandY,63130.66,15,2023-03-07
+Pearson Product 294,6,26,Pearson,64876.86,0,2023-12-30
+Adidas Jacket,2,17,Adidas,34092.62,0,2022-06-03
+BrandZ Product 296,14,27,BrandZ,59411.53,10,2025-04-03
+BrandX Product 297,9,7,BrandX,25935.71,15,2024-12-15
+Fortune Product 298,8,26,Fortune,18177.9,5,2022-05-22
+Hamleys Product 299,7,31,Hamleys,47861.73,5,2022-10-27
+BrandZ Product 300,12,43,BrandZ,70643.11,30,2024-04-26

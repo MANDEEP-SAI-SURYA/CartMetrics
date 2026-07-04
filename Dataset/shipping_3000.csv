@@ -1,0 +1,3001 @@
+order_id,shipping_date,delivery_date,courier_name,shipping_status
+1,2023-08-23,2023-08-27,Ekart,Delivered
+2,2023-10-04,2023-10-10,Blue Dart,Delivered
+3,2024-04-01,2024-04-07,Ekart,Delivered
+4,2024-02-03,2024-02-05,Blue Dart,Delivered
+5,,,DTDC,Pending
+6,2023-04-17,2023-04-19,Ecom Express,Delivered
+7,2024-08-13,2024-08-19,DTDC,Delivered
+8,2023-04-20,2023-04-23,DTDC,Delivered
+9,2024-05-28,,XpressBees,In Transit
+10,2024-08-23,2024-08-27,Ekart,Delivered
+11,2023-06-01,2023-06-03,Ekart,Delivered
+12,2024-07-13,2024-07-20,XpressBees,Delivered
+13,2023-04-07,2023-04-10,Blue Dart,Delivered
+14,2024-03-25,,Ecom Express,In Transit
+15,2024-07-31,2024-08-05,Delhivery,Delivered
+16,2025-04-10,2025-04-17,Blue Dart,Delivered
+17,2024-07-03,2024-07-09,DTDC,Delivered
+18,2023-11-10,,Blue Dart,In Transit
+19,2023-06-26,,Ekart,In Transit
+20,,,XpressBees,Pending
+21,2024-08-23,2024-08-30,DTDC,Delivered
+22,,,Ecom Express,Pending
+23,2023-05-03,2023-05-10,XpressBees,Delivered
+24,2024-01-30,,Ecom Express,In Transit
+25,2024-05-24,2024-05-29,XpressBees,Delivered
+26,2024-03-31,2024-04-07,Ecom Express,Delivered
+27,2024-10-05,2024-10-12,Ekart,Delivered
+28,2024-09-11,2024-09-17,Blue Dart,Delivered
+29,2025-04-21,2025-04-27,Ekart,Delivered
+30,2024-12-14,2024-12-21,DTDC,Delivered
+31,2024-12-21,2024-12-28,XpressBees,Delivered
+32,2023-01-14,2023-01-19,DTDC,Delivered
+33,2024-06-12,2024-06-15,Delhivery,Delivered
+34,,,DTDC,Pending
+35,2023-10-01,2023-10-04,Ekart,Delivered
+36,2024-08-29,2024-09-01,Blue Dart,Delivered
+37,2024-04-17,2024-04-19,DTDC,Delivered
+38,2023-04-10,2023-04-17,Ekart,Delivered
+39,2025-02-01,,Delhivery,In Transit
+40,2024-10-20,2024-10-26,DTDC,Delivered
+41,2024-04-18,2024-04-23,Ekart,Delivered
+42,2024-11-27,2024-12-02,Blue Dart,Delivered
+43,2023-01-12,,DTDC,In Transit
+44,2023-05-25,2023-05-30,XpressBees,Delivered
+45,2025-02-01,2025-02-05,Ecom Express,Delivered
+46,,,Ecom Express,Pending
+47,2024-03-01,2024-03-03,DTDC,Delivered
+48,2023-03-03,2023-03-10,Ekart,Delivered
+49,2023-01-29,,Blue Dart,In Transit
+50,,,Ekart,Pending
+51,2023-07-03,2023-07-08,DTDC,Delivered
+52,2023-07-16,,Blue Dart,In Transit
+53,2024-12-16,2024-12-20,Delhivery,Delivered
+54,2025-05-18,2025-05-23,Delhivery,Delivered
+55,2025-02-26,2025-03-03,Ecom Express,Delivered
+56,2024-11-13,2024-11-15,DTDC,Delivered
+57,2024-01-26,2024-01-30,XpressBees,Delivered
+58,2024-02-01,,Delhivery,In Transit
+59,,,Delhivery,Pending
+60,2024-10-17,2024-10-20,XpressBees,Delivered
+61,2024-02-19,2024-02-21,XpressBees,Delivered
+62,2024-05-05,2024-05-12,DTDC,Delivered
+63,2023-07-25,2023-07-30,XpressBees,Delivered
+64,2025-03-03,2025-03-08,XpressBees,Delivered
+65,,,Ekart,Pending
+66,2023-06-11,2023-06-15,DTDC,Delivered
+67,2025-01-29,2025-02-03,DTDC,Delivered
+68,2023-12-26,2023-12-30,Delhivery,Delivered
+69,2023-06-27,2023-07-01,Ekart,Delivered
+70,2025-05-14,2025-05-17,Delhivery,Delivered
+71,2024-03-09,2024-03-15,DTDC,Delivered
+72,2023-05-02,2023-05-07,Blue Dart,Delivered
+73,2024-09-11,2024-09-16,Delhivery,Delivered
+74,2023-11-30,2023-12-07,XpressBees,Delivered
+75,2025-04-11,2025-04-15,DTDC,Delivered
+76,2023-08-02,2023-08-07,Blue Dart,Delivered
+77,2024-12-04,2024-12-11,Ecom Express,Delivered
+78,2024-05-21,,Delhivery,In Transit
+79,,,Ekart,Pending
+80,2023-11-15,2023-11-22,DTDC,Delivered
+81,2025-03-01,2025-03-08,Ekart,Delivered
+82,2023-03-19,,Ecom Express,In Transit
+83,2025-01-16,,DTDC,In Transit
+84,2024-11-24,,XpressBees,In Transit
+85,2024-11-10,2024-11-12,Blue Dart,Delivered
+86,2024-04-13,2024-04-18,Ecom Express,Delivered
+87,,,DTDC,Pending
+88,2025-06-11,2025-06-14,Blue Dart,Delivered
+89,2025-05-09,2025-05-12,DTDC,Delivered
+90,2024-05-11,2024-05-15,Ecom Express,Delivered
+91,2023-02-07,2023-02-13,Ecom Express,Delivered
+92,2024-03-25,,Ekart,In Transit
+93,2025-02-22,,Ecom Express,In Transit
+94,,,Blue Dart,Pending
+95,2024-03-10,2024-03-16,Ecom Express,Delivered
+96,2023-04-02,2023-04-09,Delhivery,Delivered
+97,2024-02-02,2024-02-09,Blue Dart,Delivered
+98,2023-12-13,2023-12-20,Blue Dart,Delivered
+99,2024-07-22,2024-07-26,DTDC,Delivered
+100,2024-12-09,2024-12-16,Ekart,Delivered
+101,2024-07-02,2024-07-06,Blue Dart,Delivered
+102,2024-03-09,2024-03-12,Blue Dart,Delivered
+103,2025-01-25,2025-01-28,DTDC,Delivered
+104,2024-12-28,2025-01-01,Delhivery,Delivered
+105,2025-03-28,2025-03-30,Blue Dart,Delivered
+106,,,Blue Dart,Pending
+107,2024-03-04,2024-03-08,XpressBees,Delivered
+108,2024-06-27,2024-06-29,Delhivery,Delivered
+109,,,Ecom Express,Pending
+110,2023-07-13,,XpressBees,In Transit
+111,2024-06-15,2024-06-21,Ecom Express,Delivered
+112,2023-10-24,,Ecom Express,In Transit
+113,2024-07-19,2024-07-22,Ecom Express,Delivered
+114,2023-11-11,2023-11-17,Ecom Express,Delivered
+115,2024-01-24,2024-01-27,Ecom Express,Delivered
+116,2024-04-01,2024-04-05,XpressBees,Delivered
+117,2025-03-24,2025-03-27,Ecom Express,Delivered
+118,2024-08-26,2024-09-01,XpressBees,Delivered
+119,2024-09-17,2024-09-24,Blue Dart,Delivered
+120,2023-06-08,,Delhivery,In Transit
+121,2024-12-23,2024-12-27,XpressBees,Delivered
+122,2024-11-18,2024-11-20,Blue Dart,Delivered
+123,2023-12-23,2023-12-30,Blue Dart,Delivered
+124,2023-07-14,2023-07-17,XpressBees,Delivered
+125,2023-11-21,,Delhivery,In Transit
+126,2025-05-16,2025-05-20,Ecom Express,Delivered
+127,2023-01-26,2023-02-01,DTDC,Delivered
+128,2024-11-09,2024-11-11,XpressBees,Delivered
+129,2023-08-09,,DTDC,In Transit
+130,2023-05-02,,Ekart,In Transit
+131,2024-11-06,2024-11-11,Ecom Express,Delivered
+132,2024-12-24,2024-12-27,XpressBees,Delivered
+133,,,DTDC,Pending
+134,2024-08-23,,Ekart,In Transit
+135,2023-09-01,2023-09-04,Delhivery,Delivered
+136,2023-06-09,,Ekart,In Transit
+137,,,DTDC,Pending
+138,2023-10-20,2023-10-27,Ekart,Delivered
+139,2024-06-27,2024-07-04,DTDC,Delivered
+140,2023-01-10,2023-01-17,Ekart,Delivered
+141,2023-02-03,2023-02-10,Ekart,Delivered
+142,2023-06-28,2023-07-03,XpressBees,Delivered
+143,2023-01-30,2023-02-05,DTDC,Delivered
+144,2025-04-21,2025-04-23,DTDC,Delivered
+145,2025-06-06,2025-06-08,Ecom Express,Delivered
+146,2025-02-23,2025-03-01,Delhivery,Delivered
+147,2024-01-01,2024-01-03,XpressBees,Delivered
+148,2023-06-20,2023-06-25,XpressBees,Delivered
+149,,,XpressBees,Pending
+150,,,Delhivery,Pending
+151,2024-08-29,2024-09-04,Ekart,Delivered
+152,2023-10-02,,XpressBees,In Transit
+153,2025-01-26,2025-02-01,Blue Dart,Delivered
+154,2024-08-29,2024-09-01,Ecom Express,Delivered
+155,2024-03-18,2024-03-20,Blue Dart,Delivered
+156,2023-07-27,2023-08-01,XpressBees,Delivered
+157,2024-02-09,,XpressBees,In Transit
+158,2023-11-24,2023-12-01,Delhivery,Delivered
+159,2024-08-30,2024-09-06,Blue Dart,Delivered
+160,2023-07-29,2023-08-04,DTDC,Delivered
+161,,,Delhivery,Pending
+162,2024-06-15,2024-06-19,DTDC,Delivered
+163,2023-05-03,2023-05-08,Ecom Express,Delivered
+164,2025-01-30,,XpressBees,In Transit
+165,2023-09-23,2023-09-26,DTDC,Delivered
+166,2023-01-13,2023-01-18,DTDC,Delivered
+167,2024-01-16,2024-01-23,XpressBees,Delivered
+168,2024-01-30,2024-02-04,XpressBees,Delivered
+169,2023-10-27,2023-10-29,Blue Dart,Delivered
+170,2024-09-12,2024-09-15,Ecom Express,Delivered
+171,2024-05-21,,Delhivery,In Transit
+172,2024-02-15,2024-02-18,XpressBees,Delivered
+173,2023-12-23,,Blue Dart,In Transit
+174,2025-05-26,2025-06-02,Delhivery,Delivered
+175,2024-05-08,2024-05-15,Blue Dart,Delivered
+176,2024-10-14,,DTDC,In Transit
+177,2024-11-17,2024-11-22,Ecom Express,Delivered
+178,2023-07-02,2023-07-06,DTDC,Delivered
+179,2024-12-05,2024-12-07,Ecom Express,Delivered
+180,2024-07-05,2024-07-12,DTDC,Delivered
+181,2024-06-27,2024-07-03,Blue Dart,Delivered
+182,2024-04-07,2024-04-13,Delhivery,Delivered
+183,2024-03-06,2024-03-11,XpressBees,Delivered
+184,2025-02-08,2025-02-15,DTDC,Delivered
+185,2023-04-05,2023-04-11,Blue Dart,Delivered
+186,2024-08-03,2024-08-10,Ekart,Delivered
+187,2024-09-08,2024-09-14,Blue Dart,Delivered
+188,2023-09-21,2023-09-23,Delhivery,Delivered
+189,2023-08-28,2023-09-02,Delhivery,Delivered
+190,2023-06-25,,Ecom Express,In Transit
+191,2023-08-20,,Ekart,In Transit
+192,2024-07-16,2024-07-20,Ecom Express,Delivered
+193,2025-05-24,2025-05-27,Ekart,Delivered
+194,2024-06-11,2024-06-17,Delhivery,Delivered
+195,2025-03-15,,Delhivery,In Transit
+196,2024-11-20,2024-11-22,Ekart,Delivered
+197,2023-09-12,2023-09-18,Delhivery,Delivered
+198,,,Ecom Express,Pending
+199,2024-03-13,2024-03-15,Ecom Express,Delivered
+200,2024-10-12,2024-10-18,XpressBees,Delivered
+201,2023-05-20,2023-05-27,Blue Dart,Delivered
+202,2023-12-29,,Ecom Express,In Transit
+203,,,XpressBees,Pending
+204,2024-05-07,2024-05-12,XpressBees,Delivered
+205,2023-02-11,2023-02-15,DTDC,Delivered
+206,2023-04-23,2023-04-25,XpressBees,Delivered
+207,2024-08-08,2024-08-15,XpressBees,Delivered
+208,2023-03-18,,Delhivery,In Transit
+209,2023-09-10,2023-09-12,XpressBees,Delivered
+210,2024-11-24,2024-11-27,Ecom Express,Delivered
+211,2023-09-04,2023-09-09,Ekart,Delivered
+212,2024-09-15,2024-09-19,XpressBees,Delivered
+213,2023-10-10,2023-10-13,DTDC,Delivered
+214,,,Ekart,Pending
+215,2024-10-08,,Blue Dart,In Transit
+216,2025-06-12,2025-06-15,Delhivery,Delivered
+217,2025-03-13,2025-03-16,DTDC,Delivered
+218,2024-07-24,2024-07-31,Ekart,Delivered
+219,,,Ecom Express,Pending
+220,2024-09-19,2024-09-24,Ecom Express,Delivered
+221,2023-12-27,2024-01-01,Delhivery,Delivered
+222,,,DTDC,Pending
+223,2023-08-29,,Ekart,In Transit
+224,2025-02-11,,Ekart,In Transit
+225,2024-06-02,,Ekart,In Transit
+226,2023-04-04,2023-04-09,Ecom Express,Delivered
+227,,,DTDC,Pending
+228,2024-03-17,2024-03-19,XpressBees,Delivered
+229,2023-02-12,,XpressBees,In Transit
+230,2025-03-22,,Ecom Express,In Transit
+231,2023-04-18,2023-04-20,DTDC,Delivered
+232,2023-03-02,2023-03-06,DTDC,Delivered
+233,,,Blue Dart,Pending
+234,2023-11-27,,XpressBees,In Transit
+235,2024-01-04,,Blue Dart,In Transit
+236,2023-04-10,2023-04-15,Blue Dart,Delivered
+237,2023-06-05,2023-06-09,Ecom Express,Delivered
+238,2023-12-27,2024-01-01,Blue Dart,Delivered
+239,2024-06-13,2024-06-18,Ecom Express,Delivered
+240,2023-07-23,,Blue Dart,In Transit
+241,2025-04-23,2025-04-29,Delhivery,Delivered
+242,2024-12-14,2024-12-17,Ekart,Delivered
+243,2024-04-07,2024-04-13,Ekart,Delivered
+244,2024-06-25,2024-06-28,XpressBees,Delivered
+245,2025-05-01,,Ekart,In Transit
+246,2024-09-25,,DTDC,In Transit
+247,2023-03-31,2023-04-03,DTDC,Delivered
+248,2024-07-06,2024-07-11,Ecom Express,Delivered
+249,2024-09-10,2024-09-13,Delhivery,Delivered
+250,2023-05-15,2023-05-18,Blue Dart,Delivered
+251,2024-08-14,2024-08-18,Delhivery,Delivered
+252,2025-04-04,,DTDC,In Transit
+253,2024-12-14,2024-12-20,Ekart,Delivered
+254,2024-04-21,2024-04-23,Blue Dart,Delivered
+255,2023-01-26,2023-01-30,Delhivery,Delivered
+256,2023-04-06,2023-04-09,Ecom Express,Delivered
+257,2024-10-19,2024-10-23,DTDC,Delivered
+258,2024-06-25,,Blue Dart,In Transit
+259,2024-06-05,2024-06-10,Ecom Express,Delivered
+260,2025-06-11,,DTDC,In Transit
+261,2023-03-20,,Delhivery,In Transit
+262,2024-10-01,2024-10-05,XpressBees,Delivered
+263,2025-03-29,,Ekart,In Transit
+264,2024-12-18,,Ekart,In Transit
+265,2023-06-13,2023-06-15,Delhivery,Delivered
+266,2024-06-17,2024-06-19,Delhivery,Delivered
+267,2023-04-14,,Blue Dart,In Transit
+268,2024-03-11,,Ecom Express,In Transit
+269,2023-01-02,2023-01-05,Ecom Express,Delivered
+270,2023-02-20,2023-02-23,Delhivery,Delivered
+271,2024-10-08,,Ekart,In Transit
+272,2025-01-01,2025-01-05,DTDC,Delivered
+273,2023-12-21,2023-12-26,DTDC,Delivered
+274,2024-12-25,,Delhivery,In Transit
+275,,,DTDC,Pending
+276,2024-02-23,,Ekart,In Transit
+277,,,XpressBees,Pending
+278,2024-03-09,2024-03-13,Ekart,Delivered
+279,2023-01-18,2023-01-24,Ecom Express,Delivered
+280,2023-07-13,2023-07-18,Delhivery,Delivered
+281,2024-08-08,2024-08-15,Ekart,Delivered
+282,2023-11-16,2023-11-22,Ekart,Delivered
+283,2024-02-22,2024-02-28,Ecom Express,Delivered
+284,2023-11-08,2023-11-12,Delhivery,Delivered
+285,2025-02-28,2025-03-02,Blue Dart,Delivered
+286,2023-12-13,,Ekart,In Transit
+287,,,DTDC,Pending
+288,2025-01-01,2025-01-08,Ecom Express,Delivered
+289,2024-03-24,2024-03-28,Ecom Express,Delivered
+290,2024-09-03,2024-09-09,XpressBees,Delivered
+291,2023-12-06,,Ekart,In Transit
+292,2023-07-15,,Delhivery,In Transit
+293,2023-09-22,2023-09-24,XpressBees,Delivered
+294,,,Ekart,Pending
+295,2024-09-24,2024-09-28,Blue Dart,Delivered
+296,2024-12-02,2024-12-09,Ekart,Delivered
+297,2025-04-22,2025-04-28,Ecom Express,Delivered
+298,2024-10-29,2024-11-02,DTDC,Delivered
+299,2023-06-10,2023-06-15,Blue Dart,Delivered
+300,2025-04-26,2025-05-02,Blue Dart,Delivered
+301,2024-11-17,2024-11-20,XpressBees,Delivered
+302,2023-05-09,2023-05-11,Blue Dart,Delivered
+303,2024-09-18,,Ecom Express,In Transit
+304,2024-01-06,2024-01-12,Ecom Express,Delivered
+305,2024-01-10,2024-01-13,Ekart,Delivered
+306,2023-07-15,2023-07-17,XpressBees,Delivered
+307,2025-04-04,2025-04-07,DTDC,Delivered
+308,2024-07-01,,Ecom Express,In Transit
+309,2023-04-10,2023-04-15,XpressBees,Delivered
+310,2024-08-10,2024-08-15,DTDC,Delivered
+311,2024-10-27,2024-10-31,Ecom Express,Delivered
+312,2024-02-12,2024-02-15,Ekart,Delivered
+313,2023-04-14,2023-04-18,Blue Dart,Delivered
+314,,,XpressBees,Pending
+315,,,Ekart,Pending
+316,2024-03-28,2024-04-04,Delhivery,Delivered
+317,2023-01-25,2023-01-28,Delhivery,Delivered
+318,2023-01-14,2023-01-16,XpressBees,Delivered
+319,2025-05-09,2025-05-12,Blue Dart,Delivered
+320,2025-02-11,,DTDC,In Transit
+321,2023-09-12,,Blue Dart,In Transit
+322,2024-06-08,2024-06-14,XpressBees,Delivered
+323,2024-01-17,2024-01-24,Delhivery,Delivered
+324,2025-04-13,2025-04-18,Ecom Express,Delivered
+325,2024-11-08,2024-11-12,Ekart,Delivered
+326,2024-07-09,2024-07-12,XpressBees,Delivered
+327,2024-05-21,,Delhivery,In Transit
+328,2023-03-28,2023-04-04,Delhivery,Delivered
+329,2023-12-03,2023-12-08,DTDC,Delivered
+330,2023-07-11,,Ecom Express,In Transit
+331,2024-03-26,2024-03-29,DTDC,Delivered
+332,,,XpressBees,Pending
+333,2024-10-25,2024-10-28,Delhivery,Delivered
+334,,,Delhivery,Pending
+335,2023-03-01,2023-03-05,Ecom Express,Delivered
+336,,,Blue Dart,Pending
+337,2024-02-18,2024-02-22,XpressBees,Delivered
+338,2023-04-02,,Ecom Express,In Transit
+339,2025-06-19,,XpressBees,In Transit
+340,2023-02-18,2023-02-21,Delhivery,Delivered
+341,2024-04-08,2024-04-11,Blue Dart,Delivered
+342,2023-01-03,2023-01-10,DTDC,Delivered
+343,2025-03-20,,Ecom Express,In Transit
+344,2024-04-26,2024-04-28,Delhivery,Delivered
+345,2024-09-05,2024-09-09,Delhivery,Delivered
+346,,,XpressBees,Pending
+347,2023-10-24,2023-10-31,Ecom Express,Delivered
+348,2023-12-22,2023-12-27,XpressBees,Delivered
+349,2023-11-17,2023-11-21,Ekart,Delivered
+350,2025-02-06,,Ecom Express,In Transit
+351,2024-10-16,2024-10-19,Blue Dart,Delivered
+352,2023-01-24,2023-01-26,Ekart,Delivered
+353,2024-01-31,2024-02-03,Ecom Express,Delivered
+354,2025-02-06,,Ecom Express,In Transit
+355,2024-03-01,2024-03-06,Delhivery,Delivered
+356,2023-01-10,,Ecom Express,In Transit
+357,2025-04-20,,DTDC,In Transit
+358,2024-02-19,2024-02-25,XpressBees,Delivered
+359,2023-08-06,2023-08-08,Delhivery,Delivered
+360,2023-08-31,2023-09-04,XpressBees,Delivered
+361,2023-06-09,,Delhivery,In Transit
+362,2023-08-25,2023-08-30,DTDC,Delivered
+363,2025-04-24,2025-04-26,Ecom Express,Delivered
+364,2024-02-21,,DTDC,In Transit
+365,2023-09-12,2023-09-14,DTDC,Delivered
+366,,,Delhivery,Pending
+367,2024-02-14,2024-02-16,Delhivery,Delivered
+368,2023-06-27,2023-07-04,Blue Dart,Delivered
+369,2025-02-22,2025-02-24,Blue Dart,Delivered
+370,2023-03-07,2023-03-11,Ekart,Delivered
+371,2023-01-10,2023-01-16,Blue Dart,Delivered
+372,2025-06-07,2025-06-13,Blue Dart,Delivered
+373,2024-06-19,2024-06-23,Delhivery,Delivered
+374,2023-11-29,2023-12-02,XpressBees,Delivered
+375,2024-01-03,,Ecom Express,In Transit
+376,2024-06-25,2024-06-27,XpressBees,Delivered
+377,2023-12-30,,Blue Dart,In Transit
+378,2025-05-25,2025-05-27,DTDC,Delivered
+379,2023-06-03,2023-06-06,Ekart,Delivered
+380,,,DTDC,Pending
+381,2023-11-28,,DTDC,In Transit
+382,2024-05-02,2024-05-09,XpressBees,Delivered
+383,2025-04-19,2025-04-21,Ekart,Delivered
+384,2024-10-22,,Delhivery,In Transit
+385,2025-01-26,2025-02-02,Delhivery,Delivered
+386,2025-03-12,,XpressBees,In Transit
+387,2024-04-23,2024-04-25,Blue Dart,Delivered
+388,2023-07-18,2023-07-23,Ecom Express,Delivered
+389,,,Delhivery,Pending
+390,2023-05-06,2023-05-09,Delhivery,Delivered
+391,2023-06-25,2023-06-30,Ekart,Delivered
+392,2025-04-07,,DTDC,In Transit
+393,2023-09-09,2023-09-11,Ekart,Delivered
+394,2024-06-21,,Ecom Express,In Transit
+395,2023-07-22,,Blue Dart,In Transit
+396,2025-06-17,2025-06-19,Ekart,Delivered
+397,2024-09-15,2024-09-20,Blue Dart,Delivered
+398,2024-09-19,,Delhivery,In Transit
+399,2023-06-15,2023-06-17,XpressBees,Delivered
+400,2024-08-27,2024-09-03,XpressBees,Delivered
+401,2024-06-01,,Ecom Express,In Transit
+402,2023-02-01,2023-02-06,XpressBees,Delivered
+403,2025-02-02,2025-02-04,Blue Dart,Delivered
+404,,,DTDC,Pending
+405,,,Ekart,Pending
+406,2024-03-13,2024-03-19,Ecom Express,Delivered
+407,2024-01-31,2024-02-02,XpressBees,Delivered
+408,2025-03-31,2025-04-04,Blue Dart,Delivered
+409,2023-08-15,2023-08-19,Blue Dart,Delivered
+410,2025-05-18,2025-05-25,XpressBees,Delivered
+411,2023-03-20,,Ecom Express,In Transit
+412,2025-03-10,2025-03-12,Blue Dart,Delivered
+413,2023-05-09,2023-05-13,Ecom Express,Delivered
+414,2023-11-27,,Ekart,In Transit
+415,2023-01-24,2023-01-27,DTDC,Delivered
+416,2023-08-02,2023-08-05,Blue Dart,Delivered
+417,2023-05-12,,Ecom Express,In Transit
+418,2023-04-13,2023-04-17,XpressBees,Delivered
+419,2023-03-31,2023-04-03,Ekart,Delivered
+420,2025-05-20,2025-05-23,Ekart,Delivered
+421,2024-06-10,2024-06-15,Delhivery,Delivered
+422,2023-09-05,2023-09-12,XpressBees,Delivered
+423,2023-05-30,2023-06-03,XpressBees,Delivered
+424,2025-01-19,,Delhivery,In Transit
+425,2024-06-30,2024-07-07,Ecom Express,Delivered
+426,2023-06-20,2023-06-23,XpressBees,Delivered
+427,2025-03-01,2025-03-06,DTDC,Delivered
+428,2023-10-26,2023-10-31,Blue Dart,Delivered
+429,2025-03-25,2025-03-28,Ekart,Delivered
+430,2024-08-11,2024-08-15,Ekart,Delivered
+431,2025-01-18,,DTDC,In Transit
+432,2025-04-13,2025-04-19,Ecom Express,Delivered
+433,2025-04-19,,DTDC,In Transit
+434,2025-06-05,2025-06-10,Blue Dart,Delivered
+435,2023-08-15,2023-08-17,Blue Dart,Delivered
+436,2025-02-27,2025-03-01,XpressBees,Delivered
+437,2025-04-29,,Blue Dart,In Transit
+438,2024-04-21,2024-04-23,XpressBees,Delivered
+439,2024-07-05,,DTDC,In Transit
+440,2024-09-04,2024-09-10,XpressBees,Delivered
+441,2023-04-19,2023-04-25,Ekart,Delivered
+442,2023-12-26,2023-12-29,Ekart,Delivered
+443,2024-09-14,2024-09-17,Blue Dart,Delivered
+444,2025-04-16,2025-04-19,Ecom Express,Delivered
+445,2024-07-03,2024-07-06,Delhivery,Delivered
+446,2024-10-30,,Ekart,In Transit
+447,2023-09-26,2023-09-30,Ekart,Delivered
+448,2025-05-15,,Delhivery,In Transit
+449,2023-12-28,,Delhivery,In Transit
+450,,,Blue Dart,Pending
+451,2025-02-26,,Delhivery,In Transit
+452,2023-01-15,,XpressBees,In Transit
+453,2024-06-11,2024-06-14,Ekart,Delivered
+454,2024-08-24,2024-08-30,Ekart,Delivered
+455,2024-09-27,2024-10-01,Delhivery,Delivered
+456,2023-05-27,,DTDC,In Transit
+457,2025-02-19,2025-02-26,Delhivery,Delivered
+458,2024-04-06,2024-04-09,Ecom Express,Delivered
+459,2024-05-07,2024-05-10,Delhivery,Delivered
+460,2024-05-18,2024-05-20,Delhivery,Delivered
+461,2025-02-27,2025-03-06,Ekart,Delivered
+462,2023-07-18,2023-07-23,Ekart,Delivered
+463,2023-02-24,2023-03-02,Blue Dart,Delivered
+464,2024-11-27,2024-11-30,Ekart,Delivered
+465,,,Blue Dart,Pending
+466,2023-02-04,2023-02-10,Delhivery,Delivered
+467,2023-01-04,2023-01-06,Ecom Express,Delivered
+468,2023-08-24,2023-08-26,Ekart,Delivered
+469,2023-12-28,2023-12-31,Ecom Express,Delivered
+470,2024-03-11,2024-03-13,Blue Dart,Delivered
+471,2023-12-21,,Ecom Express,In Transit
+472,2023-02-05,2023-02-09,Delhivery,Delivered
+473,2024-01-21,,DTDC,In Transit
+474,2023-03-07,2023-03-11,DTDC,Delivered
+475,2024-09-01,2024-09-04,Blue Dart,Delivered
+476,2023-03-16,2023-03-20,DTDC,Delivered
+477,2023-08-06,2023-08-13,Ecom Express,Delivered
+478,2025-06-18,2025-06-25,DTDC,Delivered
+479,2023-03-25,2023-03-28,DTDC,Delivered
+480,2023-01-24,2023-01-26,XpressBees,Delivered
+481,,,Ekart,Pending
+482,2023-10-28,2023-11-01,Delhivery,Delivered
+483,2024-10-08,2024-10-14,Delhivery,Delivered
+484,2023-05-05,2023-05-08,Delhivery,Delivered
+485,2023-07-14,2023-07-18,Blue Dart,Delivered
+486,2024-08-12,2024-08-15,Ekart,Delivered
+487,2023-03-20,,Ekart,In Transit
+488,2024-02-24,,Delhivery,In Transit
+489,2025-05-08,2025-05-15,DTDC,Delivered
+490,2023-01-17,2023-01-19,Ecom Express,Delivered
+491,2023-12-31,2024-01-03,Delhivery,Delivered
+492,2023-12-02,2023-12-08,DTDC,Delivered
+493,2023-11-21,2023-11-26,Delhivery,Delivered
+494,2023-10-28,2023-11-01,Ecom Express,Delivered
+495,2023-05-06,,Ekart,In Transit
+496,2023-07-29,2023-08-03,Blue Dart,Delivered
+497,2023-06-11,2023-06-16,Delhivery,Delivered
+498,2023-03-05,2023-03-07,Ecom Express,Delivered
+499,,,Delhivery,Pending
+500,2023-06-06,2023-06-08,Ekart,Delivered
+501,2024-08-21,2024-08-26,Blue Dart,Delivered
+502,2023-07-17,2023-07-23,Ecom Express,Delivered
+503,2024-02-19,2024-02-23,DTDC,Delivered
+504,2024-04-23,2024-04-30,DTDC,Delivered
+505,2024-08-22,,DTDC,In Transit
+506,2023-07-03,,Ekart,In Transit
+507,2023-05-06,2023-05-13,Blue Dart,Delivered
+508,2025-06-13,,Delhivery,In Transit
+509,,,XpressBees,Pending
+510,2023-10-02,2023-10-08,Ecom Express,Delivered
+511,2024-09-06,,Ekart,In Transit
+512,2024-07-26,2024-07-30,Ecom Express,Delivered
+513,2024-10-21,2024-10-26,DTDC,Delivered
+514,2024-07-31,2024-08-07,Blue Dart,Delivered
+515,2023-02-16,,Ecom Express,In Transit
+516,2023-06-20,2023-06-25,XpressBees,Delivered
+517,2023-11-02,2023-11-08,Ekart,Delivered
+518,2023-09-20,,Blue Dart,In Transit
+519,2024-07-05,2024-07-07,Blue Dart,Delivered
+520,2023-09-20,2023-09-26,Ecom Express,Delivered
+521,2025-03-01,2025-03-05,DTDC,Delivered
+522,2024-03-18,2024-03-20,Delhivery,Delivered
+523,2023-05-17,2023-05-20,Delhivery,Delivered
+524,2023-07-31,2023-08-05,Ecom Express,Delivered
+525,2023-12-13,2023-12-19,Blue Dart,Delivered
+526,2024-03-14,2024-03-16,DTDC,Delivered
+527,,,Delhivery,Pending
+528,2023-03-28,2023-03-30,DTDC,Delivered
+529,2023-05-12,,Ekart,In Transit
+530,2024-03-30,2024-04-03,Ecom Express,Delivered
+531,2025-05-29,,DTDC,In Transit
+532,2024-12-25,2024-12-28,XpressBees,Delivered
+533,2023-02-25,2023-02-28,Blue Dart,Delivered
+534,2023-10-17,2023-10-24,Delhivery,Delivered
+535,2023-07-18,,Blue Dart,In Transit
+536,2025-01-19,2025-01-24,Ecom Express,Delivered
+537,2023-04-04,2023-04-06,Ecom Express,Delivered
+538,2023-07-18,2023-07-23,XpressBees,Delivered
+539,2024-01-11,2024-01-15,Delhivery,Delivered
+540,2024-01-08,2024-01-12,Delhivery,Delivered
+541,2023-06-10,2023-06-17,DTDC,Delivered
+542,,,Delhivery,Pending
+543,2023-12-03,,DTDC,In Transit
+544,2024-10-10,2024-10-15,Delhivery,Delivered
+545,2024-06-25,2024-07-02,XpressBees,Delivered
+546,2025-02-27,2025-03-06,XpressBees,Delivered
+547,2023-09-20,,DTDC,In Transit
+548,2024-05-20,2024-05-23,DTDC,Delivered
+549,2024-01-23,,Ecom Express,In Transit
+550,2024-06-07,2024-06-13,Delhivery,Delivered
+551,2025-03-12,2025-03-19,Ecom Express,Delivered
+552,2025-03-01,2025-03-04,Ecom Express,Delivered
+553,2025-04-06,2025-04-08,Blue Dart,Delivered
+554,2024-07-28,2024-08-01,Delhivery,Delivered
+555,2023-05-29,,DTDC,In Transit
+556,2024-07-28,2024-08-02,Ecom Express,Delivered
+557,2023-08-03,,Blue Dart,In Transit
+558,2025-03-16,2025-03-23,Ecom Express,Delivered
+559,2023-07-27,2023-07-30,XpressBees,Delivered
+560,,,XpressBees,Pending
+561,2025-06-13,2025-06-15,Ecom Express,Delivered
+562,2025-03-29,2025-04-03,XpressBees,Delivered
+563,2023-03-29,2023-03-31,Blue Dart,Delivered
+564,2023-06-19,2023-06-22,Ecom Express,Delivered
+565,2024-02-12,2024-02-14,XpressBees,Delivered
+566,2023-01-28,2023-02-03,Delhivery,Delivered
+567,2023-12-05,,Blue Dart,In Transit
+568,2024-05-28,,Ecom Express,In Transit
+569,2024-12-25,2024-12-31,Ecom Express,Delivered
+570,2023-08-08,,Blue Dart,In Transit
+571,2024-08-07,2024-08-14,Delhivery,Delivered
+572,2025-05-01,,XpressBees,In Transit
+573,2025-05-01,2025-05-03,Delhivery,Delivered
+574,,,Ekart,Pending
+575,2025-04-24,2025-04-30,DTDC,Delivered
+576,2023-11-06,2023-11-13,XpressBees,Delivered
+577,2023-12-21,2023-12-23,DTDC,Delivered
+578,2023-05-21,2023-05-25,DTDC,Delivered
+579,2023-12-07,2023-12-14,XpressBees,Delivered
+580,2023-08-21,,XpressBees,In Transit
+581,2024-12-07,2024-12-09,DTDC,Delivered
+582,2024-11-12,2024-11-15,Ekart,Delivered
+583,2023-06-08,,DTDC,In Transit
+584,,,Blue Dart,Pending
+585,2023-09-13,2023-09-18,XpressBees,Delivered
+586,2025-04-20,2025-04-24,Delhivery,Delivered
+587,2025-04-21,2025-04-23,Ecom Express,Delivered
+588,,,Ecom Express,Pending
+589,2024-10-03,2024-10-08,Blue Dart,Delivered
+590,2024-05-29,2024-06-03,XpressBees,Delivered
+591,2023-02-21,2023-02-27,Ecom Express,Delivered
+592,2023-09-17,2023-09-20,Ecom Express,Delivered
+593,2023-05-15,2023-05-22,DTDC,Delivered
+594,2025-05-03,,Delhivery,In Transit
+595,2025-06-19,2025-06-26,XpressBees,Delivered
+596,2024-03-03,2024-03-05,Ekart,Delivered
+597,2023-05-02,,Blue Dart,In Transit
+598,2023-12-26,,Ecom Express,In Transit
+599,2024-02-10,2024-02-12,Delhivery,Delivered
+600,2024-07-30,2024-08-06,Delhivery,Delivered
+601,2023-03-26,2023-04-02,Ecom Express,Delivered
+602,2023-03-08,2023-03-12,Blue Dart,Delivered
+603,2025-02-22,,Ecom Express,In Transit
+604,,,Ekart,Pending
+605,2025-06-19,2025-06-21,XpressBees,Delivered
+606,2023-06-12,2023-06-18,Ecom Express,Delivered
+607,2023-02-05,2023-02-12,Delhivery,Delivered
+608,2023-05-09,2023-05-16,Delhivery,Delivered
+609,,,XpressBees,Pending
+610,2023-05-30,2023-06-05,DTDC,Delivered
+611,2024-01-07,2024-01-14,XpressBees,Delivered
+612,,,Blue Dart,Pending
+613,2025-06-15,,Delhivery,In Transit
+614,2024-07-16,,XpressBees,In Transit
+615,2025-02-08,2025-02-10,DTDC,Delivered
+616,2023-02-24,,Ecom Express,In Transit
+617,2025-01-01,2025-01-03,Ecom Express,Delivered
+618,2025-03-14,2025-03-16,Delhivery,Delivered
+619,2024-02-21,2024-02-24,DTDC,Delivered
+620,2025-04-29,2025-05-03,Blue Dart,Delivered
+621,2023-12-21,2023-12-23,XpressBees,Delivered
+622,2024-09-19,2024-09-26,DTDC,Delivered
+623,2023-10-08,2023-10-13,Ekart,Delivered
+624,2025-01-01,2025-01-08,Ecom Express,Delivered
+625,2025-03-19,2025-03-26,Ecom Express,Delivered
+626,2023-10-28,2023-11-04,Ecom Express,Delivered
+627,2023-05-25,,Ecom Express,In Transit
+628,2023-09-11,2023-09-15,XpressBees,Delivered
+629,2023-02-15,,XpressBees,In Transit
+630,2025-02-12,2025-02-15,Ekart,Delivered
+631,2023-05-26,2023-05-29,Blue Dart,Delivered
+632,2023-08-16,2023-08-18,Ekart,Delivered
+633,2024-07-12,2024-07-14,XpressBees,Delivered
+634,2025-06-15,2025-06-22,Ekart,Delivered
+635,2024-08-29,2024-09-01,Ecom Express,Delivered
+636,2023-05-15,2023-05-18,Delhivery,Delivered
+637,2024-01-10,,Delhivery,In Transit
+638,2023-01-02,2023-01-04,Ecom Express,Delivered
+639,2024-07-09,2024-07-15,Delhivery,Delivered
+640,2023-01-18,2023-01-25,Ecom Express,Delivered
+641,2023-11-01,,XpressBees,In Transit
+642,2024-11-27,,Ekart,In Transit
+643,2024-01-26,,Blue Dart,In Transit
+644,,,XpressBees,Pending
+645,2023-05-01,2023-05-07,Ecom Express,Delivered
+646,2024-09-09,2024-09-15,Ekart,Delivered
+647,2023-03-04,2023-03-11,DTDC,Delivered
+648,2023-05-26,,Delhivery,In Transit
+649,2023-01-25,2023-01-27,Delhivery,Delivered
+650,2023-04-25,2023-05-02,Ecom Express,Delivered
+651,,,XpressBees,Pending
+652,2024-03-02,2024-03-06,Blue Dart,Delivered
+653,2023-11-08,2023-11-12,XpressBees,Delivered
+654,2024-11-02,2024-11-06,Delhivery,Delivered
+655,2023-05-17,2023-05-22,XpressBees,Delivered
+656,2023-07-17,2023-07-21,Ecom Express,Delivered
+657,2024-12-20,2024-12-23,DTDC,Delivered
+658,2024-10-12,2024-10-19,Delhivery,Delivered
+659,2024-02-01,2024-02-08,XpressBees,Delivered
+660,2024-12-17,2024-12-20,Blue Dart,Delivered
+661,2024-11-25,2024-12-02,XpressBees,Delivered
+662,2024-01-23,2024-01-30,Blue Dart,Delivered
+663,2024-04-21,2024-04-27,Blue Dart,Delivered
+664,2023-09-28,,Blue Dart,In Transit
+665,2024-01-02,2024-01-09,DTDC,Delivered
+666,2023-10-22,2023-10-29,DTDC,Delivered
+667,2024-07-01,2024-07-06,Blue Dart,Delivered
+668,2025-01-03,2025-01-08,Ecom Express,Delivered
+669,2024-11-19,2024-11-25,Delhivery,Delivered
+670,2024-06-17,2024-06-19,XpressBees,Delivered
+671,2023-01-30,2023-02-01,Ecom Express,Delivered
+672,2024-03-11,,DTDC,In Transit
+673,2024-02-27,2024-03-04,Blue Dart,Delivered
+674,2024-06-10,,DTDC,In Transit
+675,2024-04-13,2024-04-20,DTDC,Delivered
+676,,,Ekart,Pending
+677,2023-06-27,2023-07-04,Blue Dart,Delivered
+678,2024-10-15,2024-10-18,Blue Dart,Delivered
+679,2023-09-11,,Ecom Express,In Transit
+680,2024-06-05,2024-06-11,Ecom Express,Delivered
+681,2025-02-08,2025-02-13,Ecom Express,Delivered
+682,2024-06-28,2024-07-02,Delhivery,Delivered
+683,2025-06-04,2025-06-11,Blue Dart,Delivered
+684,2024-01-06,2024-01-09,Ekart,Delivered
+685,2023-04-20,2023-04-23,Ecom Express,Delivered
+686,2025-03-29,2025-04-04,Delhivery,Delivered
+687,2023-06-17,2023-06-20,Ekart,Delivered
+688,2025-02-07,2025-02-11,Blue Dart,Delivered
+689,2023-02-18,2023-02-22,Ecom Express,Delivered
+690,2024-10-19,2024-10-22,Ekart,Delivered
+691,2024-06-29,2024-07-03,Ekart,Delivered
+692,2023-06-27,2023-07-03,Delhivery,Delivered
+693,2025-05-27,2025-05-31,Delhivery,Delivered
+694,2025-02-01,2025-02-05,Blue Dart,Delivered
+695,2023-09-30,2023-10-03,Delhivery,Delivered
+696,,,Delhivery,Pending
+697,2023-01-22,,XpressBees,In Transit
+698,2024-02-11,,DTDC,In Transit
+699,2024-07-24,2024-07-27,XpressBees,Delivered
+700,,,Delhivery,Pending
+701,2023-10-16,2023-10-22,Ekart,Delivered
+702,2023-11-04,2023-11-07,Blue Dart,Delivered
+703,,,XpressBees,Pending
+704,2023-08-30,2023-09-02,XpressBees,Delivered
+705,2025-03-13,2025-03-19,Delhivery,Delivered
+706,2023-05-14,2023-05-19,DTDC,Delivered
+707,2024-11-17,,DTDC,In Transit
+708,2023-12-15,2023-12-18,Ecom Express,Delivered
+709,2024-12-01,2024-12-04,XpressBees,Delivered
+710,,,Blue Dart,Pending
+711,2023-04-01,2023-04-03,Ecom Express,Delivered
+712,2023-11-24,2023-11-27,Ekart,Delivered
+713,2024-05-20,2024-05-24,Ekart,Delivered
+714,2023-04-28,2023-05-05,DTDC,Delivered
+715,2025-01-26,2025-01-30,Ecom Express,Delivered
+716,2025-04-16,,Blue Dart,In Transit
+717,2025-06-08,2025-06-10,Ekart,Delivered
+718,2023-04-19,2023-04-26,XpressBees,Delivered
+719,2025-03-17,,Blue Dart,In Transit
+720,2023-03-13,2023-03-17,Delhivery,Delivered
+721,2024-01-25,,XpressBees,In Transit
+722,2023-10-12,2023-10-17,DTDC,Delivered
+723,2023-08-13,,Ecom Express,In Transit
+724,2024-01-18,2024-01-22,XpressBees,Delivered
+725,,,DTDC,Pending
+726,,,Ecom Express,Pending
+727,2024-05-06,,Delhivery,In Transit
+728,2024-01-05,,Delhivery,In Transit
+729,2024-11-18,,Ecom Express,In Transit
+730,2024-08-14,2024-08-21,XpressBees,Delivered
+731,2023-05-15,2023-05-17,DTDC,Delivered
+732,2023-06-28,2023-07-05,Ekart,Delivered
+733,2024-02-29,2024-03-05,XpressBees,Delivered
+734,2023-01-26,,Blue Dart,In Transit
+735,2023-03-01,2023-03-08,Blue Dart,Delivered
+736,,,Delhivery,Pending
+737,,,Ekart,Pending
+738,2024-01-23,,XpressBees,In Transit
+739,2025-05-20,,Delhivery,In Transit
+740,2023-12-04,2023-12-09,Ekart,Delivered
+741,2023-02-13,,Blue Dart,In Transit
+742,2025-03-13,2025-03-20,Delhivery,Delivered
+743,2025-04-18,2025-04-21,DTDC,Delivered
+744,2025-01-24,2025-01-26,XpressBees,Delivered
+745,2025-01-11,2025-01-14,Delhivery,Delivered
+746,2025-06-10,2025-06-17,Blue Dart,Delivered
+747,2025-06-03,2025-06-09,XpressBees,Delivered
+748,2023-05-18,2023-05-25,Blue Dart,Delivered
+749,2024-02-19,2024-02-24,Blue Dart,Delivered
+750,2024-01-10,2024-01-15,XpressBees,Delivered
+751,2025-04-12,2025-04-17,Delhivery,Delivered
+752,2023-10-17,2023-10-24,Ekart,Delivered
+753,2023-10-21,2023-10-23,XpressBees,Delivered
+754,2025-03-30,,Ekart,In Transit
+755,2025-03-24,2025-03-27,Ecom Express,Delivered
+756,2023-08-08,,Ecom Express,In Transit
+757,2025-01-24,2025-01-27,Delhivery,Delivered
+758,2023-12-22,2023-12-24,XpressBees,Delivered
+759,,,XpressBees,Pending
+760,2024-08-06,2024-08-12,Ekart,Delivered
+761,2023-12-13,2023-12-20,Delhivery,Delivered
+762,2024-12-14,2024-12-19,Ecom Express,Delivered
+763,2024-04-24,,Blue Dart,In Transit
+764,2023-06-12,2023-06-15,Blue Dart,Delivered
+765,2023-11-30,2023-12-03,DTDC,Delivered
+766,2023-04-21,2023-04-24,DTDC,Delivered
+767,,,Delhivery,Pending
+768,2024-05-11,2024-05-15,Ekart,Delivered
+769,2024-02-27,2024-03-03,Ecom Express,Delivered
+770,2024-05-08,2024-05-10,DTDC,Delivered
+771,2024-10-13,,Ecom Express,In Transit
+772,2023-03-17,2023-03-22,Ekart,Delivered
+773,2024-06-23,2024-06-30,Ecom Express,Delivered
+774,2025-06-01,2025-06-06,Delhivery,Delivered
+775,2024-02-24,,DTDC,In Transit
+776,2023-02-08,2023-02-11,DTDC,Delivered
+777,2024-01-13,,Ekart,In Transit
+778,2024-03-18,,DTDC,In Transit
+779,2025-03-27,,Delhivery,In Transit
+780,,,Ekart,Pending
+781,2024-04-30,2024-05-05,Delhivery,Delivered
+782,2023-12-08,,Blue Dart,In Transit
+783,2024-04-25,2024-04-29,Ekart,Delivered
+784,2024-11-14,2024-11-19,Ekart,Delivered
+785,2023-10-26,2023-11-02,Blue Dart,Delivered
+786,2024-04-26,2024-04-29,Blue Dart,Delivered
+787,2024-06-23,2024-06-25,Blue Dart,Delivered
+788,2025-01-13,2025-01-16,Ecom Express,Delivered
+789,2023-05-26,2023-05-30,Ecom Express,Delivered
+790,2024-11-08,2024-11-10,Ecom Express,Delivered
+791,2023-01-29,2023-02-02,DTDC,Delivered
+792,2025-04-17,2025-04-23,Delhivery,Delivered
+793,2024-05-19,2024-05-22,DTDC,Delivered
+794,2024-09-27,2024-10-04,Ekart,Delivered
+795,2025-01-26,,Ecom Express,In Transit
+796,2025-01-16,2025-01-22,DTDC,Delivered
+797,2024-04-29,2024-05-06,DTDC,Delivered
+798,2025-06-17,2025-06-20,Ekart,Delivered
+799,2024-10-08,2024-10-15,Blue Dart,Delivered
+800,2023-02-08,2023-02-11,DTDC,Delivered
+801,2023-12-15,2023-12-17,XpressBees,Delivered
+802,2023-04-19,,Blue Dart,In Transit
+803,2024-12-21,2024-12-24,Ecom Express,Delivered
+804,2024-11-22,2024-11-24,DTDC,Delivered
+805,2023-12-28,2024-01-04,Ekart,Delivered
+806,2025-05-07,2025-05-13,Delhivery,Delivered
+807,2023-04-23,,Delhivery,In Transit
+808,2023-09-23,,Ekart,In Transit
+809,2023-08-02,2023-08-09,Ekart,Delivered
+810,2024-01-30,2024-02-06,Ecom Express,Delivered
+811,2023-11-12,2023-11-15,Ecom Express,Delivered
+812,2023-08-25,2023-09-01,Ekart,Delivered
+813,2025-01-24,,Ecom Express,In Transit
+814,2023-05-13,2023-05-15,Ekart,Delivered
+815,2024-05-06,,Delhivery,In Transit
+816,2024-06-11,,Delhivery,In Transit
+817,2024-10-15,2024-10-22,Ekart,Delivered
+818,2025-02-24,2025-02-28,Delhivery,Delivered
+819,2023-11-29,,XpressBees,In Transit
+820,2023-04-07,2023-04-14,Ecom Express,Delivered
+821,2024-01-05,2024-01-10,Blue Dart,Delivered
+822,2024-12-09,2024-12-16,DTDC,Delivered
+823,,,DTDC,Pending
+824,2023-06-23,,DTDC,In Transit
+825,2023-01-29,2023-02-04,Ekart,Delivered
+826,2025-06-04,2025-06-08,Blue Dart,Delivered
+827,2023-02-12,2023-02-18,XpressBees,Delivered
+828,2024-09-01,,XpressBees,In Transit
+829,2025-02-27,,Ecom Express,In Transit
+830,2024-12-27,2025-01-01,Ekart,Delivered
+831,,,Blue Dart,Pending
+832,2023-08-30,2023-09-03,Ekart,Delivered
+833,2024-05-07,2024-05-12,Delhivery,Delivered
+834,2024-08-04,2024-08-07,Blue Dart,Delivered
+835,2024-09-10,2024-09-13,DTDC,Delivered
+836,2023-10-18,2023-10-21,Delhivery,Delivered
+837,2024-10-15,,XpressBees,In Transit
+838,2023-08-09,2023-08-15,Delhivery,Delivered
+839,,,XpressBees,Pending
+840,2023-02-22,2023-02-25,Ecom Express,Delivered
+841,2023-04-04,2023-04-08,DTDC,Delivered
+842,2025-06-11,2025-06-17,Ekart,Delivered
+843,2024-03-17,,Ecom Express,In Transit
+844,2025-05-01,2025-05-04,Ecom Express,Delivered
+845,2025-02-19,2025-02-21,XpressBees,Delivered
+846,2025-06-02,2025-06-06,DTDC,Delivered
+847,2024-01-04,,Blue Dart,In Transit
+848,2025-01-10,2025-01-16,XpressBees,Delivered
+849,2024-11-07,2024-11-09,Blue Dart,Delivered
+850,2023-08-09,,Ekart,In Transit
+851,2024-12-24,,Delhivery,In Transit
+852,2023-01-03,,Blue Dart,In Transit
+853,2024-07-29,2024-08-05,Ecom Express,Delivered
+854,2025-02-06,2025-02-08,Delhivery,Delivered
+855,2024-09-09,2024-09-11,XpressBees,Delivered
+856,2024-02-13,2024-02-17,Blue Dart,Delivered
+857,2023-04-11,2023-04-18,DTDC,Delivered
+858,2024-09-09,2024-09-11,Ecom Express,Delivered
+859,2024-10-14,2024-10-16,Delhivery,Delivered
+860,2023-03-25,2023-03-31,Ekart,Delivered
+861,,,Ekart,Pending
+862,2024-05-02,,Ekart,In Transit
+863,2025-05-16,2025-05-20,Ekart,Delivered
+864,2025-05-28,2025-06-03,Ecom Express,Delivered
+865,2023-07-23,2023-07-28,DTDC,Delivered
+866,2023-08-18,2023-08-25,Blue Dart,Delivered
+867,2024-07-21,,Blue Dart,In Transit
+868,,,Ekart,Pending
+869,2023-06-24,2023-06-27,Blue Dart,Delivered
+870,,,Blue Dart,Pending
+871,2023-10-19,2023-10-25,Blue Dart,Delivered
+872,2024-02-25,2024-03-01,Ekart,Delivered
+873,2024-09-27,2024-09-30,Blue Dart,Delivered
+874,2023-01-31,2023-02-02,Blue Dart,Delivered
+875,2023-08-06,,XpressBees,In Transit
+876,2023-08-26,2023-08-30,Ecom Express,Delivered
+877,2025-06-11,2025-06-16,Ecom Express,Delivered
+878,2025-05-08,2025-05-15,Delhivery,Delivered
+879,2024-11-05,2024-11-10,Blue Dart,Delivered
+880,2025-04-20,,Delhivery,In Transit
+881,2023-04-27,,Ecom Express,In Transit
+882,2023-10-14,,Ekart,In Transit
+883,2023-10-22,2023-10-26,XpressBees,Delivered
+884,2023-05-20,,XpressBees,In Transit
+885,2025-01-17,2025-01-22,Delhivery,Delivered
+886,2025-03-06,2025-03-08,XpressBees,Delivered
+887,2024-05-17,,Ecom Express,In Transit
+888,2023-02-08,2023-02-12,Blue Dart,Delivered
+889,2024-04-03,2024-04-06,Delhivery,Delivered
+890,2025-05-27,2025-05-30,XpressBees,Delivered
+891,2023-03-08,2023-03-15,Ekart,Delivered
+892,2024-07-20,2024-07-27,Ecom Express,Delivered
+893,,,DTDC,Pending
+894,2023-05-16,2023-05-23,Blue Dart,Delivered
+895,2023-02-10,2023-02-12,Blue Dart,Delivered
+896,2024-01-12,2024-01-19,Delhivery,Delivered
+897,2024-06-20,2024-06-25,Ekart,Delivered
+898,2024-06-18,2024-06-22,Ekart,Delivered
+899,2023-09-28,2023-09-30,Ekart,Delivered
+900,,,XpressBees,Pending
+901,2024-09-11,,XpressBees,In Transit
+902,2025-04-01,2025-04-04,XpressBees,Delivered
+903,2024-08-03,2024-08-05,XpressBees,Delivered
+904,2023-06-27,2023-06-29,XpressBees,Delivered
+905,,,XpressBees,Pending
+906,2024-10-20,2024-10-27,Ecom Express,Delivered
+907,2024-10-23,2024-10-27,Ecom Express,Delivered
+908,2024-05-11,,XpressBees,In Transit
+909,2023-06-09,,Ekart,In Transit
+910,2024-08-20,2024-08-25,Delhivery,Delivered
+911,2024-01-16,,Blue Dart,In Transit
+912,2024-10-04,2024-10-06,XpressBees,Delivered
+913,2023-06-18,2023-06-23,XpressBees,Delivered
+914,2025-02-18,2025-02-20,DTDC,Delivered
+915,2024-07-17,2024-07-23,Delhivery,Delivered
+916,2024-05-13,2024-05-18,XpressBees,Delivered
+917,2023-04-17,2023-04-24,DTDC,Delivered
+918,2024-12-08,2024-12-15,Blue Dart,Delivered
+919,2023-08-26,2023-09-02,Delhivery,Delivered
+920,2025-01-18,2025-01-22,XpressBees,Delivered
+921,2024-06-07,,Blue Dart,In Transit
+922,,,DTDC,Pending
+923,2023-04-04,2023-04-06,DTDC,Delivered
+924,2023-08-23,2023-08-27,Blue Dart,Delivered
+925,2024-08-24,2024-08-26,Ecom Express,Delivered
+926,2023-10-18,2023-10-24,DTDC,Delivered
+927,2025-04-05,2025-04-07,XpressBees,Delivered
+928,2023-01-26,2023-01-31,Ecom Express,Delivered
+929,2024-05-01,2024-05-03,Ekart,Delivered
+930,2023-06-01,2023-06-04,Delhivery,Delivered
+931,2024-02-24,2024-02-28,Delhivery,Delivered
+932,2023-01-04,,Ekart,In Transit
+933,,,Ekart,Pending
+934,2024-09-09,2024-09-16,DTDC,Delivered
+935,2024-05-30,,Ekart,In Transit
+936,2024-10-18,,Ekart,In Transit
+937,2025-06-19,2025-06-25,XpressBees,Delivered
+938,,,Ekart,Pending
+939,2023-05-20,,XpressBees,In Transit
+940,2024-09-05,,DTDC,In Transit
+941,2023-02-10,2023-02-13,Delhivery,Delivered
+942,,,DTDC,Pending
+943,2023-10-17,,Delhivery,In Transit
+944,2023-06-27,2023-07-04,Blue Dart,Delivered
+945,2024-07-08,2024-07-15,XpressBees,Delivered
+946,2023-12-05,2023-12-08,Blue Dart,Delivered
+947,2023-12-30,2024-01-06,Ecom Express,Delivered
+948,2024-08-04,,Delhivery,In Transit
+949,,,XpressBees,Pending
+950,,,Blue Dart,Pending
+951,2024-12-30,,DTDC,In Transit
+952,2025-03-01,,XpressBees,In Transit
+953,2023-12-02,2023-12-08,Ekart,Delivered
+954,2024-09-25,2024-10-02,Blue Dart,Delivered
+955,2023-10-20,2023-10-22,XpressBees,Delivered
+956,2023-05-26,2023-05-28,DTDC,Delivered
+957,2024-02-23,,Ekart,In Transit
+958,,,Blue Dart,Pending
+959,2023-08-30,2023-09-05,Ecom Express,Delivered
+960,2023-10-07,2023-10-12,Ekart,Delivered
+961,,,XpressBees,Pending
+962,2024-05-05,2024-05-12,XpressBees,Delivered
+963,2025-05-30,,DTDC,In Transit
+964,2024-10-17,2024-10-19,Blue Dart,Delivered
+965,2023-10-11,2023-10-13,DTDC,Delivered
+966,2023-05-10,,DTDC,In Transit
+967,2023-12-22,2023-12-28,Blue Dart,Delivered
+968,2025-05-13,,Ekart,In Transit
+969,2024-12-31,2025-01-06,DTDC,Delivered
+970,,,Blue Dart,Pending
+971,,,Ekart,Pending
+972,2023-10-18,2023-10-20,Ekart,Delivered
+973,2024-11-04,2024-11-09,Delhivery,Delivered
+974,2023-03-27,2023-04-02,DTDC,Delivered
+975,2023-04-04,2023-04-09,Delhivery,Delivered
+976,2024-09-30,2024-10-02,DTDC,Delivered
+977,2024-01-03,2024-01-06,Ekart,Delivered
+978,2025-03-18,2025-03-21,DTDC,Delivered
+979,2024-09-19,2024-09-25,Blue Dart,Delivered
+980,2023-04-03,2023-04-07,Ecom Express,Delivered
+981,2023-12-23,2023-12-27,DTDC,Delivered
+982,2023-09-01,2023-09-04,XpressBees,Delivered
+983,2025-03-25,,DTDC,In Transit
+984,2024-06-07,,Delhivery,In Transit
+985,2023-01-13,2023-01-15,DTDC,Delivered
+986,,,Delhivery,Pending
+987,2023-04-27,2023-05-04,XpressBees,Delivered
+988,2024-07-03,2024-07-10,XpressBees,Delivered
+989,2023-10-22,2023-10-27,Blue Dart,Delivered
+990,,,Ecom Express,Pending
+991,,,Ekart,Pending
+992,2023-09-08,2023-09-12,Ekart,Delivered
+993,2025-04-17,2025-04-19,Ecom Express,Delivered
+994,2024-10-16,,DTDC,In Transit
+995,2024-08-19,2024-08-26,Delhivery,Delivered
+996,2025-02-07,2025-02-12,DTDC,Delivered
+997,2023-10-29,2023-11-02,Ekart,Delivered
+998,2023-08-01,2023-08-04,Blue Dart,Delivered
+999,2024-10-05,2024-10-07,Ecom Express,Delivered
+1000,2023-03-22,2023-03-27,Ecom Express,Delivered
+1001,,,Blue Dart,Pending
+1002,2024-11-17,2024-11-24,DTDC,Delivered
+1003,2024-09-19,,DTDC,In Transit
+1004,2024-02-21,,Delhivery,In Transit
+1005,2024-09-25,2024-10-01,Ecom Express,Delivered
+1006,2023-03-25,2023-03-28,DTDC,Delivered
+1007,2024-03-23,,XpressBees,In Transit
+1008,2025-02-16,2025-02-19,DTDC,Delivered
+1009,2023-11-25,,Delhivery,In Transit
+1010,2024-01-01,2024-01-06,Ekart,Delivered
+1011,2025-05-04,2025-05-11,Blue Dart,Delivered
+1012,2024-06-28,2024-07-03,Ekart,Delivered
+1013,2024-12-28,2025-01-03,XpressBees,Delivered
+1014,2023-09-14,2023-09-16,Ekart,Delivered
+1015,2025-05-21,,Blue Dart,In Transit
+1016,2023-01-31,,DTDC,In Transit
+1017,2025-02-03,2025-02-05,Ecom Express,Delivered
+1018,2024-08-09,2024-08-11,Delhivery,Delivered
+1019,2024-12-17,2024-12-22,Delhivery,Delivered
+1020,2025-01-26,2025-02-02,Ekart,Delivered
+1021,2024-07-24,2024-07-27,Ecom Express,Delivered
+1022,2024-09-05,2024-09-11,Ecom Express,Delivered
+1023,2024-11-06,2024-11-08,Blue Dart,Delivered
+1024,2023-11-16,,Blue Dart,In Transit
+1025,,,Ekart,Pending
+1026,2024-01-14,2024-01-20,Ekart,Delivered
+1027,,,Ekart,Pending
+1028,2023-03-17,,Ecom Express,In Transit
+1029,2023-12-22,2023-12-27,DTDC,Delivered
+1030,2023-06-09,2023-06-11,Delhivery,Delivered
+1031,2023-07-10,2023-07-15,DTDC,Delivered
+1032,2024-03-10,2024-03-12,Ecom Express,Delivered
+1033,2024-04-16,,Ekart,In Transit
+1034,2024-05-05,,Delhivery,In Transit
+1035,2024-10-29,2024-11-02,Ekart,Delivered
+1036,2024-05-04,2024-05-11,Ecom Express,Delivered
+1037,2024-11-12,,DTDC,In Transit
+1038,2024-06-09,,Delhivery,In Transit
+1039,2024-12-10,2024-12-15,Delhivery,Delivered
+1040,2025-05-08,,XpressBees,In Transit
+1041,2024-06-16,2024-06-23,Ecom Express,Delivered
+1042,2024-02-29,,Ekart,In Transit
+1043,2024-01-12,2024-01-15,DTDC,Delivered
+1044,2024-08-03,2024-08-10,XpressBees,Delivered
+1045,2023-02-17,,DTDC,In Transit
+1046,2025-04-26,2025-04-28,DTDC,Delivered
+1047,2023-07-12,2023-07-18,XpressBees,Delivered
+1048,2024-12-16,2024-12-23,DTDC,Delivered
+1049,2024-01-26,2024-01-29,Blue Dart,Delivered
+1050,2023-03-12,,XpressBees,In Transit
+1051,2025-03-20,2025-03-23,Ecom Express,Delivered
+1052,2024-04-10,,DTDC,In Transit
+1053,2023-11-08,,Ecom Express,In Transit
+1054,2025-03-11,2025-03-16,Ekart,Delivered
+1055,2025-05-24,,Ekart,In Transit
+1056,2025-03-25,,Ekart,In Transit
+1057,2024-03-01,2024-03-03,Delhivery,Delivered
+1058,2023-05-20,2023-05-22,Blue Dart,Delivered
+1059,2024-10-23,2024-10-28,DTDC,Delivered
+1060,,,Delhivery,Pending
+1061,2025-06-13,2025-06-16,Ecom Express,Delivered
+1062,2025-01-21,2025-01-24,DTDC,Delivered
+1063,2024-05-24,2024-05-29,Ecom Express,Delivered
+1064,2024-06-05,2024-06-07,XpressBees,Delivered
+1065,2023-11-26,2023-11-28,Blue Dart,Delivered
+1066,2024-09-02,2024-09-08,Blue Dart,Delivered
+1067,,,DTDC,Pending
+1068,,,Blue Dart,Pending
+1069,2023-11-23,2023-11-25,Blue Dart,Delivered
+1070,2025-05-11,2025-05-15,Ekart,Delivered
+1071,,,Delhivery,Pending
+1072,2025-06-02,,XpressBees,In Transit
+1073,2024-05-27,2024-05-31,Blue Dart,Delivered
+1074,2023-06-29,2023-07-02,DTDC,Delivered
+1075,2023-03-03,,Ekart,In Transit
+1076,2023-05-28,2023-05-30,Ekart,Delivered
+1077,,,Ecom Express,Pending
+1078,2023-04-09,2023-04-16,Ekart,Delivered
+1079,2024-02-24,2024-02-29,XpressBees,Delivered
+1080,2023-05-27,2023-05-29,Ekart,Delivered
+1081,2024-12-29,2025-01-03,Ekart,Delivered
+1082,2024-10-12,2024-10-19,Ekart,Delivered
+1083,2025-01-20,,Ekart,In Transit
+1084,2024-01-07,2024-01-10,Ekart,Delivered
+1085,2025-04-13,2025-04-15,XpressBees,Delivered
+1086,2023-08-19,,Ekart,In Transit
+1087,2023-11-23,2023-11-27,Ecom Express,Delivered
+1088,,,Delhivery,Pending
+1089,2024-06-07,2024-06-12,XpressBees,Delivered
+1090,2024-12-01,2024-12-05,Delhivery,Delivered
+1091,2025-02-07,2025-02-14,Blue Dart,Delivered
+1092,2023-02-17,2023-02-23,DTDC,Delivered
+1093,2024-06-04,2024-06-10,Ecom Express,Delivered
+1094,2023-12-26,2024-01-02,Ecom Express,Delivered
+1095,2024-04-16,2024-04-23,XpressBees,Delivered
+1096,2024-08-08,2024-08-12,Ecom Express,Delivered
+1097,,,Blue Dart,Pending
+1098,,,DTDC,Pending
+1099,,,Blue Dart,Pending
+1100,2025-06-08,2025-06-14,XpressBees,Delivered
+1101,2024-05-17,2024-05-21,Ekart,Delivered
+1102,2024-05-19,2024-05-22,Delhivery,Delivered
+1103,2025-05-28,2025-05-30,Ekart,Delivered
+1104,2025-01-13,,Blue Dart,In Transit
+1105,2025-05-12,2025-05-18,XpressBees,Delivered
+1106,2023-10-27,2023-10-31,Delhivery,Delivered
+1107,2023-03-07,2023-03-13,XpressBees,Delivered
+1108,2024-05-12,2024-05-18,DTDC,Delivered
+1109,2024-12-11,,XpressBees,In Transit
+1110,2024-04-29,,XpressBees,In Transit
+1111,2023-11-16,,Blue Dart,In Transit
+1112,2024-10-26,2024-10-29,Ekart,Delivered
+1113,,,Delhivery,Pending
+1114,2024-09-26,2024-10-01,Blue Dart,Delivered
+1115,2023-11-28,2023-11-30,Ekart,Delivered
+1116,2024-08-26,2024-08-31,Ecom Express,Delivered
+1117,2023-09-29,2023-10-04,Delhivery,Delivered
+1118,2023-12-25,2023-12-30,Delhivery,Delivered
+1119,2025-06-16,,Ekart,In Transit
+1120,2024-08-05,2024-08-08,Blue Dart,Delivered
+1121,2024-01-19,2024-01-23,XpressBees,Delivered
+1122,2023-01-17,2023-01-23,XpressBees,Delivered
+1123,2024-08-28,,Delhivery,In Transit
+1124,2024-04-05,2024-04-10,Delhivery,Delivered
+1125,2023-04-15,2023-04-21,Blue Dart,Delivered
+1126,2023-12-18,,DTDC,In Transit
+1127,2023-12-18,,Ecom Express,In Transit
+1128,2023-06-14,2023-06-17,Ecom Express,Delivered
+1129,2023-11-02,2023-11-07,DTDC,Delivered
+1130,2023-01-17,2023-01-21,Ecom Express,Delivered
+1131,2023-01-13,,Ecom Express,In Transit
+1132,2024-08-25,,Ecom Express,In Transit
+1133,2024-08-27,,DTDC,In Transit
+1134,2023-04-05,2023-04-11,Ecom Express,Delivered
+1135,2024-07-12,,Blue Dart,In Transit
+1136,,,Blue Dart,Pending
+1137,2023-06-16,2023-06-23,DTDC,Delivered
+1138,2024-08-27,2024-09-03,Ecom Express,Delivered
+1139,,,XpressBees,Pending
+1140,2024-10-17,2024-10-21,Ekart,Delivered
+1141,,,Delhivery,Pending
+1142,2024-09-03,2024-09-06,Ekart,Delivered
+1143,2023-12-21,,XpressBees,In Transit
+1144,2025-03-01,2025-03-04,Ecom Express,Delivered
+1145,2024-08-28,2024-08-31,Blue Dart,Delivered
+1146,2024-02-09,2024-02-15,DTDC,Delivered
+1147,2023-02-22,2023-02-25,DTDC,Delivered
+1148,2024-02-05,2024-02-10,DTDC,Delivered
+1149,2024-10-06,2024-10-13,Ecom Express,Delivered
+1150,2024-09-10,2024-09-14,Delhivery,Delivered
+1151,2024-08-18,2024-08-20,Delhivery,Delivered
+1152,2023-01-13,2023-01-19,DTDC,Delivered
+1153,2023-10-03,2023-10-05,Ekart,Delivered
+1154,2024-01-06,2024-01-10,Ecom Express,Delivered
+1155,2025-02-17,2025-02-21,XpressBees,Delivered
+1156,2023-08-16,2023-08-20,Blue Dart,Delivered
+1157,2024-08-22,2024-08-27,Ecom Express,Delivered
+1158,2024-07-30,2024-08-06,Ecom Express,Delivered
+1159,2024-07-21,2024-07-23,Delhivery,Delivered
+1160,2024-08-07,,Delhivery,In Transit
+1161,2025-05-01,,Ecom Express,In Transit
+1162,2023-11-24,2023-11-28,XpressBees,Delivered
+1163,,,Delhivery,Pending
+1164,,,Ecom Express,Pending
+1165,2024-07-02,2024-07-04,XpressBees,Delivered
+1166,2024-12-31,2025-01-06,Ekart,Delivered
+1167,2024-04-30,2024-05-02,Blue Dart,Delivered
+1168,2025-01-18,,Delhivery,In Transit
+1169,2024-01-27,2024-01-31,Delhivery,Delivered
+1170,2023-04-23,2023-04-27,Delhivery,Delivered
+1171,2023-12-19,2023-12-25,Delhivery,Delivered
+1172,2023-02-03,2023-02-08,Delhivery,Delivered
+1173,2023-05-11,2023-05-17,XpressBees,Delivered
+1174,2025-04-19,2025-04-24,DTDC,Delivered
+1175,2023-09-03,,DTDC,In Transit
+1176,2024-12-06,,DTDC,In Transit
+1177,,,Ekart,Pending
+1178,2024-06-09,2024-06-16,Ecom Express,Delivered
+1179,2023-09-11,2023-09-13,Delhivery,Delivered
+1180,2024-08-23,2024-08-28,Delhivery,Delivered
+1181,2025-03-15,,XpressBees,In Transit
+1182,2023-05-26,,Ecom Express,In Transit
+1183,2023-01-05,2023-01-08,Blue Dart,Delivered
+1184,2023-04-22,2023-04-24,Blue Dart,Delivered
+1185,2024-04-19,2024-04-24,Ekart,Delivered
+1186,2023-09-17,2023-09-22,XpressBees,Delivered
+1187,2024-12-15,2024-12-18,DTDC,Delivered
+1188,2025-03-17,,Blue Dart,In Transit
+1189,2025-04-07,2025-04-09,Ecom Express,Delivered
+1190,,,Delhivery,Pending
+1191,2024-11-18,2024-11-25,Ekart,Delivered
+1192,2024-04-23,2024-04-30,XpressBees,Delivered
+1193,,,DTDC,Pending
+1194,2025-03-31,2025-04-06,XpressBees,Delivered
+1195,2024-07-24,2024-07-27,Ecom Express,Delivered
+1196,2023-05-24,2023-05-28,Ecom Express,Delivered
+1197,2023-05-01,2023-05-03,XpressBees,Delivered
+1198,2025-03-18,,Ecom Express,In Transit
+1199,2024-12-25,2024-12-28,Delhivery,Delivered
+1200,2023-02-15,,Blue Dart,In Transit
+1201,2023-10-16,,Delhivery,In Transit
+1202,2024-02-29,2024-03-04,Delhivery,Delivered
+1203,2023-09-12,2023-09-14,Delhivery,Delivered
+1204,2024-10-09,2024-10-12,Ekart,Delivered
+1205,2024-12-29,,Ecom Express,In Transit
+1206,,,DTDC,Pending
+1207,2023-06-12,2023-06-19,Blue Dart,Delivered
+1208,2025-03-28,2025-04-02,Blue Dart,Delivered
+1209,,,XpressBees,Pending
+1210,2024-10-22,2024-10-26,DTDC,Delivered
+1211,2023-07-07,2023-07-09,Ekart,Delivered
+1212,2025-01-01,2025-01-07,DTDC,Delivered
+1213,,,XpressBees,Pending
+1214,2025-01-30,2025-02-01,Delhivery,Delivered
+1215,2025-02-26,2025-03-02,Ekart,Delivered
+1216,2023-04-19,2023-04-22,XpressBees,Delivered
+1217,,,Ecom Express,Pending
+1218,2025-05-24,2025-05-30,DTDC,Delivered
+1219,2023-07-01,2023-07-05,DTDC,Delivered
+1220,2025-04-01,2025-04-05,Delhivery,Delivered
+1221,2024-03-16,,Ekart,In Transit
+1222,2023-02-03,2023-02-05,DTDC,Delivered
+1223,,,Delhivery,Pending
+1224,2024-04-05,2024-04-09,DTDC,Delivered
+1225,2024-10-07,2024-10-11,Blue Dart,Delivered
+1226,2023-11-16,2023-11-18,Blue Dart,Delivered
+1227,2023-03-05,2023-03-12,Ecom Express,Delivered
+1228,,,Delhivery,Pending
+1229,2023-01-07,2023-01-10,Ecom Express,Delivered
+1230,2024-01-05,2024-01-08,XpressBees,Delivered
+1231,2025-04-07,2025-04-10,Ecom Express,Delivered
+1232,2023-07-26,2023-07-29,Blue Dart,Delivered
+1233,2024-04-06,2024-04-13,Ekart,Delivered
+1234,2024-03-27,,Ekart,In Transit
+1235,2024-04-02,2024-04-07,XpressBees,Delivered
+1236,,,XpressBees,Pending
+1237,2023-01-07,2023-01-09,DTDC,Delivered
+1238,2023-03-15,2023-03-19,Delhivery,Delivered
+1239,2024-06-15,2024-06-21,Delhivery,Delivered
+1240,,,XpressBees,Pending
+1241,2024-02-19,2024-02-24,Delhivery,Delivered
+1242,,,Blue Dart,Pending
+1243,2023-07-31,2023-08-06,Delhivery,Delivered
+1244,,,Blue Dart,Pending
+1245,,,XpressBees,Pending
+1246,2025-04-08,2025-04-13,Ecom Express,Delivered
+1247,,,XpressBees,Pending
+1248,2024-01-26,2024-01-28,Ekart,Delivered
+1249,2025-03-13,2025-03-16,Delhivery,Delivered
+1250,2023-07-20,2023-07-26,Ekart,Delivered
+1251,2024-09-05,2024-09-08,XpressBees,Delivered
+1252,2023-08-20,2023-08-26,Ecom Express,Delivered
+1253,,,Delhivery,Pending
+1254,,,Ekart,Pending
+1255,2023-06-07,,Ekart,In Transit
+1256,2023-07-24,2023-07-27,Delhivery,Delivered
+1257,2023-05-03,2023-05-07,Ekart,Delivered
+1258,2024-02-25,2024-03-01,XpressBees,Delivered
+1259,2024-07-12,2024-07-15,Ecom Express,Delivered
+1260,2024-03-09,2024-03-13,Blue Dart,Delivered
+1261,2023-05-10,2023-05-15,Delhivery,Delivered
+1262,2023-01-01,2023-01-03,Ekart,Delivered
+1263,2023-01-25,,XpressBees,In Transit
+1264,2025-05-05,2025-05-12,Blue Dart,Delivered
+1265,2023-03-18,2023-03-20,Blue Dart,Delivered
+1266,2023-12-25,2023-12-27,Ecom Express,Delivered
+1267,2025-03-29,,Ekart,In Transit
+1268,,,Ekart,Pending
+1269,2024-06-29,2024-07-03,Delhivery,Delivered
+1270,2023-06-30,2023-07-03,DTDC,Delivered
+1271,2025-02-14,2025-02-17,Ekart,Delivered
+1272,2023-08-05,2023-08-12,Delhivery,Delivered
+1273,2023-09-29,2023-10-01,XpressBees,Delivered
+1274,,,DTDC,Pending
+1275,2023-02-17,2023-02-21,DTDC,Delivered
+1276,2023-06-28,2023-07-02,Ekart,Delivered
+1277,2024-06-27,2024-06-30,DTDC,Delivered
+1278,2023-08-15,2023-08-22,XpressBees,Delivered
+1279,2025-05-12,2025-05-19,Delhivery,Delivered
+1280,,,Delhivery,Pending
+1281,2023-03-17,,Blue Dart,In Transit
+1282,,,Ecom Express,Pending
+1283,2025-01-22,2025-01-28,Blue Dart,Delivered
+1284,2023-01-07,2023-01-09,Ekart,Delivered
+1285,2024-04-03,2024-04-09,Ekart,Delivered
+1286,2025-01-15,2025-01-17,Delhivery,Delivered
+1287,2024-01-04,2024-01-08,XpressBees,Delivered
+1288,2023-07-30,2023-08-06,XpressBees,Delivered
+1289,,,DTDC,Pending
+1290,2024-07-05,,Ekart,In Transit
+1291,2024-09-10,2024-09-14,XpressBees,Delivered
+1292,2024-07-10,2024-07-15,Delhivery,Delivered
+1293,,,XpressBees,Pending
+1294,2025-01-31,,Blue Dart,In Transit
+1295,2024-01-03,,Blue Dart,In Transit
+1296,2023-04-09,,DTDC,In Transit
+1297,2024-07-22,2024-07-25,Ekart,Delivered
+1298,2024-04-18,,Blue Dart,In Transit
+1299,,,Delhivery,Pending
+1300,2023-10-31,2023-11-04,Ekart,Delivered
+1301,2024-04-07,2024-04-12,XpressBees,Delivered
+1302,2023-06-05,2023-06-09,Ecom Express,Delivered
+1303,2024-05-13,2024-05-18,DTDC,Delivered
+1304,2023-03-24,,Delhivery,In Transit
+1305,2023-05-19,,XpressBees,In Transit
+1306,2024-04-15,2024-04-22,Ecom Express,Delivered
+1307,2024-09-18,,XpressBees,In Transit
+1308,2023-05-30,2023-06-02,XpressBees,Delivered
+1309,2023-06-06,2023-06-12,Ecom Express,Delivered
+1310,2025-04-09,,Delhivery,In Transit
+1311,2023-05-21,2023-05-25,XpressBees,Delivered
+1312,2024-07-19,2024-07-22,Ekart,Delivered
+1313,2023-04-18,2023-04-22,Blue Dart,Delivered
+1314,2024-04-04,,DTDC,In Transit
+1315,2023-10-31,2023-11-02,Ekart,Delivered
+1316,2025-04-03,2025-04-10,Ekart,Delivered
+1317,2025-01-08,2025-01-11,Delhivery,Delivered
+1318,2025-02-21,2025-02-25,Blue Dart,Delivered
+1319,,,XpressBees,Pending
+1320,2024-06-17,2024-06-19,Blue Dart,Delivered
+1321,2023-03-25,2023-03-28,Blue Dart,Delivered
+1322,2025-05-11,2025-05-16,XpressBees,Delivered
+1323,2023-04-27,2023-05-01,Ekart,Delivered
+1324,,,DTDC,Pending
+1325,2025-01-14,2025-01-18,Delhivery,Delivered
+1326,2023-04-12,2023-04-17,DTDC,Delivered
+1327,2023-03-20,2023-03-24,Delhivery,Delivered
+1328,2024-02-24,,Delhivery,In Transit
+1329,2024-02-16,2024-02-22,XpressBees,Delivered
+1330,2024-09-20,2024-09-22,Blue Dart,Delivered
+1331,2023-02-20,2023-02-23,Delhivery,Delivered
+1332,2023-03-19,2023-03-23,DTDC,Delivered
+1333,2023-05-15,2023-05-20,Ecom Express,Delivered
+1334,2023-10-14,2023-10-21,DTDC,Delivered
+1335,2024-11-03,2024-11-10,Delhivery,Delivered
+1336,2023-01-29,2023-02-02,Blue Dart,Delivered
+1337,2024-09-05,,Blue Dart,In Transit
+1338,,,Ekart,Pending
+1339,2024-10-19,2024-10-24,Ekart,Delivered
+1340,2024-04-08,2024-04-10,Delhivery,Delivered
+1341,,,Delhivery,Pending
+1342,2024-07-10,2024-07-14,XpressBees,Delivered
+1343,2025-01-02,2025-01-06,Ekart,Delivered
+1344,2023-05-03,2023-05-07,Ekart,Delivered
+1345,2024-03-09,,Delhivery,In Transit
+1346,2024-12-24,2024-12-26,DTDC,Delivered
+1347,2025-01-27,2025-01-29,DTDC,Delivered
+1348,2023-03-21,2023-03-23,Ekart,Delivered
+1349,2024-09-14,2024-09-19,Blue Dart,Delivered
+1350,2024-03-04,2024-03-09,XpressBees,Delivered
+1351,2023-02-11,2023-02-14,Blue Dart,Delivered
+1352,2024-08-17,2024-08-22,Delhivery,Delivered
+1353,2023-06-28,2023-07-03,XpressBees,Delivered
+1354,2023-04-03,2023-04-08,Blue Dart,Delivered
+1355,2024-11-29,2024-12-04,DTDC,Delivered
+1356,2023-08-15,2023-08-18,XpressBees,Delivered
+1357,2024-05-30,2024-06-01,XpressBees,Delivered
+1358,2023-01-13,2023-01-15,Delhivery,Delivered
+1359,2024-08-11,2024-08-16,Ekart,Delivered
+1360,2024-04-06,,Ecom Express,In Transit
+1361,,,Ecom Express,Pending
+1362,2023-02-19,2023-02-21,Ekart,Delivered
+1363,2023-12-30,2024-01-05,Blue Dart,Delivered
+1364,2023-03-14,2023-03-16,XpressBees,Delivered
+1365,2025-06-10,2025-06-14,XpressBees,Delivered
+1366,2025-05-04,2025-05-08,Ekart,Delivered
+1367,2023-10-08,2023-10-12,Ekart,Delivered
+1368,2024-09-04,2024-09-10,Blue Dart,Delivered
+1369,,,Blue Dart,Pending
+1370,2024-08-31,2024-09-06,DTDC,Delivered
+1371,2023-09-04,2023-09-09,XpressBees,Delivered
+1372,2025-02-03,2025-02-05,Ekart,Delivered
+1373,2024-04-12,,DTDC,In Transit
+1374,2024-02-25,2024-03-03,Blue Dart,Delivered
+1375,2024-12-22,2024-12-24,Blue Dart,Delivered
+1376,2023-03-14,,Blue Dart,In Transit
+1377,2023-03-17,2023-03-23,Ecom Express,Delivered
+1378,2024-07-07,2024-07-11,Ecom Express,Delivered
+1379,2023-10-18,2023-10-25,Ekart,Delivered
+1380,2024-11-24,2024-11-29,Ekart,Delivered
+1381,2024-04-08,2024-04-12,XpressBees,Delivered
+1382,2023-12-08,2023-12-12,DTDC,Delivered
+1383,2024-03-25,2024-03-31,Ekart,Delivered
+1384,2023-08-03,2023-08-07,Ekart,Delivered
+1385,2023-07-04,2023-07-07,XpressBees,Delivered
+1386,2023-11-13,,Blue Dart,In Transit
+1387,2023-10-01,,Delhivery,In Transit
+1388,2024-03-07,,Blue Dart,In Transit
+1389,2025-05-17,,Ecom Express,In Transit
+1390,2023-01-19,2023-01-23,Ekart,Delivered
+1391,2024-06-12,2024-06-17,XpressBees,Delivered
+1392,2024-06-01,2024-06-03,Ekart,Delivered
+1393,2024-01-07,2024-01-09,DTDC,Delivered
+1394,2024-08-03,,Delhivery,In Transit
+1395,2023-10-10,2023-10-13,Blue Dart,Delivered
+1396,2024-03-24,2024-03-29,XpressBees,Delivered
+1397,2024-12-24,2024-12-26,Blue Dart,Delivered
+1398,2023-12-08,2023-12-13,Ecom Express,Delivered
+1399,,,Delhivery,Pending
+1400,2025-04-17,,Delhivery,In Transit
+1401,2023-12-19,2023-12-24,Ekart,Delivered
+1402,,,Ecom Express,Pending
+1403,,,XpressBees,Pending
+1404,2024-06-14,,Ekart,In Transit
+1405,2023-08-12,2023-08-19,XpressBees,Delivered
+1406,2024-11-25,,Blue Dart,In Transit
+1407,2024-05-14,2024-05-19,Ecom Express,Delivered
+1408,2025-02-17,,Blue Dart,In Transit
+1409,2024-11-04,2024-11-06,Ekart,Delivered
+1410,2023-12-25,2023-12-31,DTDC,Delivered
+1411,2025-03-01,,Delhivery,In Transit
+1412,,,Ekart,Pending
+1413,2024-10-01,2024-10-04,XpressBees,Delivered
+1414,2023-09-09,2023-09-15,XpressBees,Delivered
+1415,2023-01-07,,DTDC,In Transit
+1416,,,DTDC,Pending
+1417,2024-11-29,2024-12-04,DTDC,Delivered
+1418,2024-08-12,2024-08-19,Ecom Express,Delivered
+1419,2023-07-12,2023-07-14,Ekart,Delivered
+1420,2025-01-12,,XpressBees,In Transit
+1421,2025-02-28,,DTDC,In Transit
+1422,,,Ecom Express,Pending
+1423,2024-12-23,2024-12-28,DTDC,Delivered
+1424,2023-09-27,2023-10-01,DTDC,Delivered
+1425,,,Ecom Express,Pending
+1426,2024-11-27,2024-11-29,Ekart,Delivered
+1427,2024-02-16,2024-02-20,Delhivery,Delivered
+1428,2024-12-06,2024-12-11,XpressBees,Delivered
+1429,2023-10-06,,Delhivery,In Transit
+1430,2023-10-22,,Ekart,In Transit
+1431,2023-04-14,2023-04-19,Delhivery,Delivered
+1432,2023-12-10,2023-12-15,XpressBees,Delivered
+1433,2023-06-26,2023-06-30,Ecom Express,Delivered
+1434,2023-10-03,2023-10-06,XpressBees,Delivered
+1435,2023-03-28,2023-04-03,Ekart,Delivered
+1436,2024-01-12,2024-01-19,Blue Dart,Delivered
+1437,2024-09-01,,XpressBees,In Transit
+1438,2023-07-16,2023-07-20,Blue Dart,Delivered
+1439,,,XpressBees,Pending
+1440,2023-07-23,2023-07-27,Delhivery,Delivered
+1441,2023-03-03,,Ecom Express,In Transit
+1442,2024-01-06,2024-01-08,Delhivery,Delivered
+1443,2025-01-05,2025-01-12,Blue Dart,Delivered
+1444,2025-01-12,,Delhivery,In Transit
+1445,2023-04-09,,Delhivery,In Transit
+1446,2025-01-23,2025-01-25,XpressBees,Delivered
+1447,2023-02-24,,XpressBees,In Transit
+1448,2024-01-20,2024-01-26,DTDC,Delivered
+1449,2023-03-06,2023-03-10,Ekart,Delivered
+1450,2023-12-26,2023-12-30,DTDC,Delivered
+1451,2023-06-30,2023-07-02,Delhivery,Delivered
+1452,2023-09-17,,XpressBees,In Transit
+1453,2024-03-22,2024-03-26,Delhivery,Delivered
+1454,2023-06-04,2023-06-07,Ecom Express,Delivered
+1455,2023-10-24,2023-10-28,DTDC,Delivered
+1456,2024-05-09,2024-05-14,Ekart,Delivered
+1457,2023-05-31,2023-06-03,XpressBees,Delivered
+1458,2024-07-26,2024-08-01,DTDC,Delivered
+1459,2024-10-16,,Blue Dart,In Transit
+1460,2024-07-20,2024-07-27,Blue Dart,Delivered
+1461,2023-01-21,2023-01-25,Ecom Express,Delivered
+1462,2023-09-15,2023-09-19,Delhivery,Delivered
+1463,2024-12-17,2024-12-21,Blue Dart,Delivered
+1464,,,Ekart,Pending
+1465,2025-01-19,2025-01-23,Ekart,Delivered
+1466,2023-09-03,2023-09-09,Ecom Express,Delivered
+1467,2024-06-06,,DTDC,In Transit
+1468,,,XpressBees,Pending
+1469,2025-05-11,2025-05-15,Delhivery,Delivered
+1470,2025-04-19,2025-04-24,XpressBees,Delivered
+1471,2023-06-10,,DTDC,In Transit
+1472,2024-01-14,2024-01-16,XpressBees,Delivered
+1473,2024-07-02,2024-07-05,DTDC,Delivered
+1474,,,DTDC,Pending
+1475,2023-10-22,2023-10-28,Blue Dart,Delivered
+1476,2024-08-24,,Blue Dart,In Transit
+1477,2024-06-15,,XpressBees,In Transit
+1478,2024-05-22,,DTDC,In Transit
+1479,2023-05-01,2023-05-04,Ekart,Delivered
+1480,2023-09-23,2023-09-28,Ekart,Delivered
+1481,2024-10-05,2024-10-11,Ekart,Delivered
+1482,2023-03-03,2023-03-09,XpressBees,Delivered
+1483,2025-03-16,2025-03-23,Ecom Express,Delivered
+1484,2023-12-06,2023-12-08,Blue Dart,Delivered
+1485,2023-02-12,2023-02-18,Ecom Express,Delivered
+1486,2025-01-20,2025-01-25,Ekart,Delivered
+1487,2024-03-24,2024-03-30,Delhivery,Delivered
+1488,2024-08-19,2024-08-22,Delhivery,Delivered
+1489,2023-01-01,,DTDC,In Transit
+1490,2024-12-19,2024-12-21,DTDC,Delivered
+1491,2024-01-16,2024-01-22,XpressBees,Delivered
+1492,2024-07-31,2024-08-03,Ekart,Delivered
+1493,2025-06-16,2025-06-20,Ecom Express,Delivered
+1494,2025-04-20,,Delhivery,In Transit
+1495,2023-04-12,2023-04-14,DTDC,Delivered
+1496,2025-03-12,2025-03-17,Delhivery,Delivered
+1497,2024-02-10,2024-02-17,Delhivery,Delivered
+1498,2023-09-21,,Ecom Express,In Transit
+1499,2024-10-21,2024-10-28,XpressBees,Delivered
+1500,2024-07-27,2024-07-31,DTDC,Delivered
+1501,2023-02-04,2023-02-07,Ekart,Delivered
+1502,2024-08-21,2024-08-27,Ekart,Delivered
+1503,2024-12-07,2024-12-12,XpressBees,Delivered
+1504,2025-04-26,2025-04-29,Blue Dart,Delivered
+1505,2024-03-24,2024-03-31,DTDC,Delivered
+1506,,,XpressBees,Pending
+1507,2024-02-19,2024-02-25,XpressBees,Delivered
+1508,,,Delhivery,Pending
+1509,,,Delhivery,Pending
+1510,2023-02-18,2023-02-25,Ecom Express,Delivered
+1511,2023-09-24,2023-09-28,XpressBees,Delivered
+1512,2023-07-02,,Delhivery,In Transit
+1513,,,Delhivery,Pending
+1514,2024-05-30,2024-06-03,XpressBees,Delivered
+1515,2024-06-21,2024-06-24,DTDC,Delivered
+1516,2025-03-10,2025-03-16,Ekart,Delivered
+1517,2025-01-29,2025-02-03,Blue Dart,Delivered
+1518,,,XpressBees,Pending
+1519,2025-04-17,2025-04-22,Blue Dart,Delivered
+1520,2023-06-26,2023-06-28,XpressBees,Delivered
+1521,2024-01-26,2024-01-29,Ekart,Delivered
+1522,2024-10-23,2024-10-25,Ecom Express,Delivered
+1523,2023-11-11,2023-11-14,Delhivery,Delivered
+1524,2024-04-06,,Delhivery,In Transit
+1525,2024-09-15,2024-09-18,DTDC,Delivered
+1526,2024-10-08,2024-10-14,XpressBees,Delivered
+1527,2025-02-07,2025-02-13,Blue Dart,Delivered
+1528,2023-09-27,2023-10-03,Blue Dart,Delivered
+1529,2023-09-07,2023-09-09,Ekart,Delivered
+1530,2023-02-01,,Ecom Express,In Transit
+1531,2023-05-22,,XpressBees,In Transit
+1532,,,XpressBees,Pending
+1533,2023-04-13,2023-04-20,Ekart,Delivered
+1534,,,DTDC,Pending
+1535,,,Delhivery,Pending
+1536,2023-12-14,2023-12-19,Delhivery,Delivered
+1537,2024-10-25,2024-10-31,Blue Dart,Delivered
+1538,2024-01-06,2024-01-12,Blue Dart,Delivered
+1539,,,Ekart,Pending
+1540,2024-06-30,2024-07-03,XpressBees,Delivered
+1541,2024-12-27,,Delhivery,In Transit
+1542,2025-05-14,2025-05-21,XpressBees,Delivered
+1543,2023-12-12,2023-12-15,DTDC,Delivered
+1544,2023-01-27,2023-01-30,Blue Dart,Delivered
+1545,2025-04-12,2025-04-15,Delhivery,Delivered
+1546,2023-06-29,2023-07-03,Blue Dart,Delivered
+1547,2025-05-09,2025-05-14,DTDC,Delivered
+1548,2023-03-24,,XpressBees,In Transit
+1549,2024-09-09,2024-09-16,XpressBees,Delivered
+1550,,,Delhivery,Pending
+1551,2023-05-11,2023-05-16,Blue Dart,Delivered
+1552,,,Delhivery,Pending
+1553,,,DTDC,Pending
+1554,2023-03-28,,Ecom Express,In Transit
+1555,2024-01-02,2024-01-05,XpressBees,Delivered
+1556,2023-06-15,2023-06-17,Ecom Express,Delivered
+1557,2023-07-14,2023-07-17,Ekart,Delivered
+1558,2024-06-01,2024-06-08,Blue Dart,Delivered
+1559,2024-07-26,2024-07-29,Delhivery,Delivered
+1560,2024-03-10,2024-03-17,Ecom Express,Delivered
+1561,2025-02-14,,Ekart,In Transit
+1562,2025-04-17,,Ekart,In Transit
+1563,2023-04-18,,Blue Dart,In Transit
+1564,2024-02-20,,DTDC,In Transit
+1565,2023-03-10,,Blue Dart,In Transit
+1566,2024-01-26,2024-02-01,DTDC,Delivered
+1567,2023-05-08,2023-05-10,XpressBees,Delivered
+1568,2023-11-11,2023-11-13,XpressBees,Delivered
+1569,2025-04-11,2025-04-14,XpressBees,Delivered
+1570,2024-10-17,2024-10-19,DTDC,Delivered
+1571,,,Ekart,Pending
+1572,,,Blue Dart,Pending
+1573,,,XpressBees,Pending
+1574,,,Blue Dart,Pending
+1575,2024-02-17,2024-02-22,Ekart,Delivered
+1576,2024-11-23,2024-11-26,Ekart,Delivered
+1577,2024-12-10,2024-12-12,DTDC,Delivered
+1578,2024-12-04,2024-12-09,Blue Dart,Delivered
+1579,2025-01-11,2025-01-15,Ekart,Delivered
+1580,2023-11-22,2023-11-29,Ecom Express,Delivered
+1581,2023-02-22,2023-02-26,Ekart,Delivered
+1582,,,Blue Dart,Pending
+1583,2025-05-17,2025-05-24,Ekart,Delivered
+1584,2024-10-25,2024-11-01,Ekart,Delivered
+1585,2025-03-08,2025-03-14,Delhivery,Delivered
+1586,2023-06-14,2023-06-21,XpressBees,Delivered
+1587,2023-07-30,2023-08-01,Ecom Express,Delivered
+1588,2024-09-21,,Ecom Express,In Transit
+1589,2023-05-30,2023-06-02,Blue Dart,Delivered
+1590,2024-07-15,,DTDC,In Transit
+1591,2025-05-26,2025-05-28,Blue Dart,Delivered
+1592,2025-06-04,2025-06-10,XpressBees,Delivered
+1593,2024-04-26,2024-05-01,Delhivery,Delivered
+1594,2025-04-10,2025-04-14,Ecom Express,Delivered
+1595,2024-11-01,2024-11-06,XpressBees,Delivered
+1596,2024-08-02,2024-08-06,Blue Dart,Delivered
+1597,2024-02-13,2024-02-18,Delhivery,Delivered
+1598,2024-11-29,2024-12-03,DTDC,Delivered
+1599,2023-09-12,2023-09-17,XpressBees,Delivered
+1600,2024-10-04,2024-10-07,Ecom Express,Delivered
+1601,2025-02-15,2025-02-18,Ekart,Delivered
+1602,2024-09-11,,Delhivery,In Transit
+1603,2025-04-03,2025-04-08,Ekart,Delivered
+1604,2023-02-19,2023-02-22,Blue Dart,Delivered
+1605,,,Ecom Express,Pending
+1606,2025-03-21,,Ekart,In Transit
+1607,2025-04-20,2025-04-22,Ekart,Delivered
+1608,2023-10-14,,Ekart,In Transit
+1609,2023-10-15,2023-10-21,DTDC,Delivered
+1610,2023-07-04,,DTDC,In Transit
+1611,2025-02-01,2025-02-03,DTDC,Delivered
+1612,2024-05-25,2024-05-28,Delhivery,Delivered
+1613,2023-09-27,2023-09-29,XpressBees,Delivered
+1614,2024-04-03,2024-04-06,Delhivery,Delivered
+1615,2023-02-11,2023-02-14,Delhivery,Delivered
+1616,2023-01-02,,DTDC,In Transit
+1617,2023-06-13,,Blue Dart,In Transit
+1618,2024-02-22,2024-02-29,Delhivery,Delivered
+1619,2024-09-08,2024-09-13,Delhivery,Delivered
+1620,2025-02-09,2025-02-14,Blue Dart,Delivered
+1621,2023-07-28,2023-08-03,XpressBees,Delivered
+1622,2025-04-21,2025-04-27,Delhivery,Delivered
+1623,2023-09-30,,XpressBees,In Transit
+1624,2023-10-25,,Ecom Express,In Transit
+1625,2024-11-17,2024-11-24,Ecom Express,Delivered
+1626,2025-05-19,2025-05-25,Ecom Express,Delivered
+1627,2025-02-14,,Delhivery,In Transit
+1628,2024-02-02,,Ecom Express,In Transit
+1629,2023-09-23,,Delhivery,In Transit
+1630,2024-01-18,2024-01-20,Delhivery,Delivered
+1631,2023-02-19,2023-02-24,Blue Dart,Delivered
+1632,2025-01-14,2025-01-16,Delhivery,Delivered
+1633,2023-11-19,,DTDC,In Transit
+1634,2024-07-13,2024-07-20,Delhivery,Delivered
+1635,2023-10-31,2023-11-04,DTDC,Delivered
+1636,2025-01-22,2025-01-26,Blue Dart,Delivered
+1637,2025-04-29,2025-05-03,XpressBees,Delivered
+1638,2025-06-17,2025-06-24,XpressBees,Delivered
+1639,2025-03-12,2025-03-14,Ecom Express,Delivered
+1640,2023-08-06,2023-08-11,Ecom Express,Delivered
+1641,2025-02-20,2025-02-25,Delhivery,Delivered
+1642,2024-09-07,2024-09-11,DTDC,Delivered
+1643,2024-11-11,2024-11-18,Ekart,Delivered
+1644,2024-08-06,2024-08-12,DTDC,Delivered
+1645,2023-06-13,2023-06-15,DTDC,Delivered
+1646,2023-05-03,2023-05-08,Ekart,Delivered
+1647,2024-06-26,,Delhivery,In Transit
+1648,2023-07-18,2023-07-24,Delhivery,Delivered
+1649,2023-03-22,2023-03-28,Blue Dart,Delivered
+1650,2023-11-25,2023-11-28,XpressBees,Delivered
+1651,2023-05-11,2023-05-18,Ecom Express,Delivered
+1652,,,Blue Dart,Pending
+1653,2023-08-06,2023-08-12,XpressBees,Delivered
+1654,2024-05-18,2024-05-25,XpressBees,Delivered
+1655,2025-06-15,2025-06-20,DTDC,Delivered
+1656,2024-08-13,2024-08-16,DTDC,Delivered
+1657,2025-04-27,,Blue Dart,In Transit
+1658,2024-02-14,2024-02-21,Ecom Express,Delivered
+1659,2023-12-11,2023-12-15,DTDC,Delivered
+1660,2023-05-02,,Ekart,In Transit
+1661,2024-11-18,2024-11-20,Ekart,Delivered
+1662,2024-08-22,2024-08-25,Ekart,Delivered
+1663,2024-09-03,,Ekart,In Transit
+1664,2025-05-18,2025-05-20,XpressBees,Delivered
+1665,2023-01-13,2023-01-18,Delhivery,Delivered
+1666,2023-08-21,2023-08-26,DTDC,Delivered
+1667,2023-08-28,2023-08-30,Ecom Express,Delivered
+1668,2023-07-04,2023-07-08,DTDC,Delivered
+1669,2024-09-12,,DTDC,In Transit
+1670,2024-08-26,2024-08-31,Blue Dart,Delivered
+1671,2024-09-21,,Ecom Express,In Transit
+1672,2025-02-20,2025-02-25,Blue Dart,Delivered
+1673,,,Delhivery,Pending
+1674,2023-03-14,2023-03-21,Ekart,Delivered
+1675,2025-01-22,2025-01-25,DTDC,Delivered
+1676,2023-08-31,2023-09-03,XpressBees,Delivered
+1677,2025-01-02,2025-01-09,Blue Dart,Delivered
+1678,2023-01-27,2023-02-01,DTDC,Delivered
+1679,2023-03-23,,Blue Dart,In Transit
+1680,2023-07-21,2023-07-23,XpressBees,Delivered
+1681,2023-09-05,2023-09-08,Ekart,Delivered
+1682,2024-08-02,2024-08-05,XpressBees,Delivered
+1683,2025-04-13,2025-04-20,Delhivery,Delivered
+1684,2023-07-02,,XpressBees,In Transit
+1685,2023-10-10,,Ecom Express,In Transit
+1686,2023-06-21,2023-06-28,XpressBees,Delivered
+1687,2024-09-30,2024-10-04,XpressBees,Delivered
+1688,2024-03-31,,Ekart,In Transit
+1689,2024-08-24,2024-08-28,Ekart,Delivered
+1690,2023-07-31,2023-08-07,Ecom Express,Delivered
+1691,2024-09-27,,Delhivery,In Transit
+1692,2024-10-30,2024-11-05,DTDC,Delivered
+1693,2025-04-05,2025-04-12,Delhivery,Delivered
+1694,2025-05-27,2025-05-29,Ekart,Delivered
+1695,2024-07-21,2024-07-23,XpressBees,Delivered
+1696,2025-04-23,,XpressBees,In Transit
+1697,2024-10-04,2024-10-11,Ecom Express,Delivered
+1698,2024-10-08,2024-10-12,Delhivery,Delivered
+1699,2024-01-18,2024-01-23,DTDC,Delivered
+1700,2023-06-26,,XpressBees,In Transit
+1701,2024-08-17,2024-08-21,Delhivery,Delivered
+1702,2024-11-28,,XpressBees,In Transit
+1703,2023-11-25,2023-11-27,Ecom Express,Delivered
+1704,,,Ecom Express,Pending
+1705,2024-01-24,2024-01-29,Ekart,Delivered
+1706,2024-01-24,2024-01-28,Ecom Express,Delivered
+1707,,,XpressBees,Pending
+1708,2023-10-26,2023-11-02,DTDC,Delivered
+1709,2025-03-22,2025-03-27,Ekart,Delivered
+1710,2024-06-02,,Delhivery,In Transit
+1711,,,Ecom Express,Pending
+1712,2025-01-26,,DTDC,In Transit
+1713,2023-04-02,2023-04-05,XpressBees,Delivered
+1714,2024-07-26,2024-07-29,DTDC,Delivered
+1715,2023-08-22,2023-08-24,XpressBees,Delivered
+1716,2023-03-23,2023-03-27,Ekart,Delivered
+1717,2024-02-24,2024-03-02,Ecom Express,Delivered
+1718,2024-06-10,2024-06-16,Blue Dart,Delivered
+1719,2023-07-31,2023-08-04,DTDC,Delivered
+1720,,,Ekart,Pending
+1721,2024-07-23,,DTDC,In Transit
+1722,2025-03-08,2025-03-14,Delhivery,Delivered
+1723,2023-01-17,,XpressBees,In Transit
+1724,2024-03-20,2024-03-25,Ecom Express,Delivered
+1725,2023-10-21,,Delhivery,In Transit
+1726,2024-11-22,2024-11-26,XpressBees,Delivered
+1727,,,DTDC,Pending
+1728,2025-03-10,,XpressBees,In Transit
+1729,2023-04-05,2023-04-11,Ekart,Delivered
+1730,,,Ecom Express,Pending
+1731,2023-01-11,2023-01-15,Ekart,Delivered
+1732,2024-03-27,,Ekart,In Transit
+1733,2025-01-11,2025-01-17,Blue Dart,Delivered
+1734,2023-11-29,,Delhivery,In Transit
+1735,2024-04-09,2024-04-14,DTDC,Delivered
+1736,2023-10-25,2023-10-29,Blue Dart,Delivered
+1737,2024-01-25,2024-02-01,XpressBees,Delivered
+1738,2025-03-26,2025-04-01,Blue Dart,Delivered
+1739,2025-03-19,2025-03-24,Delhivery,Delivered
+1740,2023-04-21,,Ekart,In Transit
+1741,2025-04-17,2025-04-23,Blue Dart,Delivered
+1742,2023-05-26,,Blue Dart,In Transit
+1743,2025-05-06,,Ecom Express,In Transit
+1744,2024-12-02,,DTDC,In Transit
+1745,2023-05-15,2023-05-17,Ecom Express,Delivered
+1746,2025-04-30,2025-05-04,Ecom Express,Delivered
+1747,2023-05-03,2023-05-07,DTDC,Delivered
+1748,2025-01-30,,Ecom Express,In Transit
+1749,2024-12-10,2024-12-13,Delhivery,Delivered
+1750,2023-03-26,2023-04-02,DTDC,Delivered
+1751,,,Delhivery,Pending
+1752,,,Ecom Express,Pending
+1753,,,Ekart,Pending
+1754,,,DTDC,Pending
+1755,2023-08-09,2023-08-15,DTDC,Delivered
+1756,,,Ekart,Pending
+1757,2024-12-28,,Ekart,In Transit
+1758,2023-09-27,2023-10-03,Ecom Express,Delivered
+1759,2023-01-02,2023-01-04,Blue Dart,Delivered
+1760,2024-11-04,2024-11-07,Blue Dart,Delivered
+1761,,,XpressBees,Pending
+1762,2024-08-21,2024-08-26,DTDC,Delivered
+1763,2024-11-29,,Ecom Express,In Transit
+1764,2023-08-10,,Ecom Express,In Transit
+1765,2024-11-12,2024-11-19,Ecom Express,Delivered
+1766,2023-07-07,2023-07-11,Ekart,Delivered
+1767,2023-02-17,2023-02-20,XpressBees,Delivered
+1768,2024-10-03,2024-10-08,DTDC,Delivered
+1769,2024-05-26,,DTDC,In Transit
+1770,2024-06-09,,Delhivery,In Transit
+1771,2025-01-31,2025-02-07,Blue Dart,Delivered
+1772,2025-01-13,2025-01-16,Ecom Express,Delivered
+1773,2025-05-27,2025-06-02,Ecom Express,Delivered
+1774,,,DTDC,Pending
+1775,2025-03-03,2025-03-05,XpressBees,Delivered
+1776,2024-09-08,,XpressBees,In Transit
+1777,2025-06-05,2025-06-11,Ecom Express,Delivered
+1778,2024-05-22,,Blue Dart,In Transit
+1779,2024-06-03,2024-06-08,DTDC,Delivered
+1780,2023-01-29,2023-02-02,Blue Dart,Delivered
+1781,2023-02-13,2023-02-18,Ekart,Delivered
+1782,2023-06-20,2023-06-23,DTDC,Delivered
+1783,2023-08-19,2023-08-21,XpressBees,Delivered
+1784,2024-05-21,2024-05-27,DTDC,Delivered
+1785,2023-03-27,2023-04-03,Ekart,Delivered
+1786,2023-10-08,2023-10-11,Ekart,Delivered
+1787,2024-10-29,,XpressBees,In Transit
+1788,2023-11-06,,Blue Dart,In Transit
+1789,2024-06-09,,Delhivery,In Transit
+1790,2023-12-22,,DTDC,In Transit
+1791,2023-11-19,2023-11-22,XpressBees,Delivered
+1792,2023-11-23,,Blue Dart,In Transit
+1793,,,XpressBees,Pending
+1794,2023-12-19,,XpressBees,In Transit
+1795,,,Ecom Express,Pending
+1796,2023-10-05,2023-10-11,Ecom Express,Delivered
+1797,2025-06-08,2025-06-11,XpressBees,Delivered
+1798,2024-03-22,2024-03-28,Delhivery,Delivered
+1799,2023-03-15,2023-03-22,Blue Dart,Delivered
+1800,2024-02-18,2024-02-20,Blue Dart,Delivered
+1801,2024-05-05,2024-05-12,Blue Dart,Delivered
+1802,2023-11-08,2023-11-14,DTDC,Delivered
+1803,2024-09-07,2024-09-10,DTDC,Delivered
+1804,2023-07-11,,Blue Dart,In Transit
+1805,2024-10-25,2024-11-01,Ekart,Delivered
+1806,2024-09-01,2024-09-03,DTDC,Delivered
+1807,2024-01-12,,XpressBees,In Transit
+1808,,,DTDC,Pending
+1809,2025-05-04,2025-05-08,XpressBees,Delivered
+1810,2025-01-04,2025-01-07,Blue Dart,Delivered
+1811,2025-01-16,2025-01-22,Ekart,Delivered
+1812,2025-05-19,2025-05-26,Ecom Express,Delivered
+1813,2025-06-16,2025-06-20,XpressBees,Delivered
+1814,2024-06-28,2024-07-03,Blue Dart,Delivered
+1815,2023-11-25,2023-11-28,Blue Dart,Delivered
+1816,2024-12-31,2025-01-02,XpressBees,Delivered
+1817,2025-06-15,2025-06-22,XpressBees,Delivered
+1818,2024-09-08,2024-09-13,Blue Dart,Delivered
+1819,2023-02-24,2023-02-28,Ecom Express,Delivered
+1820,2024-10-21,2024-10-24,Ekart,Delivered
+1821,2025-04-12,2025-04-19,Ecom Express,Delivered
+1822,2023-01-12,,DTDC,In Transit
+1823,2024-06-08,,XpressBees,In Transit
+1824,2024-09-24,,Ekart,In Transit
+1825,2023-09-09,2023-09-13,XpressBees,Delivered
+1826,2024-02-11,2024-02-18,DTDC,Delivered
+1827,2023-08-13,2023-08-20,Delhivery,Delivered
+1828,2024-03-05,2024-03-10,Delhivery,Delivered
+1829,2025-05-16,2025-05-21,Blue Dart,Delivered
+1830,2024-09-30,2024-10-06,Blue Dart,Delivered
+1831,2025-03-16,2025-03-22,Ekart,Delivered
+1832,2024-08-12,2024-08-14,Ecom Express,Delivered
+1833,2023-06-24,,Ekart,In Transit
+1834,,,Blue Dart,Pending
+1835,2024-03-13,2024-03-17,Delhivery,Delivered
+1836,2024-07-30,2024-08-04,Ecom Express,Delivered
+1837,2024-03-08,2024-03-10,XpressBees,Delivered
+1838,2023-07-17,2023-07-23,Blue Dart,Delivered
+1839,2023-08-31,2023-09-04,Ecom Express,Delivered
+1840,2023-12-14,2023-12-21,XpressBees,Delivered
+1841,2023-06-30,2023-07-04,XpressBees,Delivered
+1842,2025-01-27,,Blue Dart,In Transit
+1843,2025-01-20,2025-01-22,DTDC,Delivered
+1844,2023-07-17,,Ecom Express,In Transit
+1845,2023-11-09,2023-11-13,DTDC,Delivered
+1846,2025-01-28,2025-02-03,Delhivery,Delivered
+1847,2025-03-03,,Delhivery,In Transit
+1848,2025-06-05,2025-06-12,DTDC,Delivered
+1849,2024-10-24,2024-10-27,Ecom Express,Delivered
+1850,,,Ecom Express,Pending
+1851,2023-02-27,,XpressBees,In Transit
+1852,2023-02-28,2023-03-02,Ekart,Delivered
+1853,2023-11-12,2023-11-15,Ekart,Delivered
+1854,,,Delhivery,Pending
+1855,2025-03-21,2025-03-27,DTDC,Delivered
+1856,2024-05-17,2024-05-19,XpressBees,Delivered
+1857,2023-05-30,2023-06-04,DTDC,Delivered
+1858,2024-08-17,2024-08-23,Blue Dart,Delivered
+1859,2025-04-17,2025-04-24,XpressBees,Delivered
+1860,2025-01-01,2025-01-04,XpressBees,Delivered
+1861,2025-02-01,2025-02-07,Ecom Express,Delivered
+1862,2024-04-03,2024-04-05,XpressBees,Delivered
+1863,2023-02-17,2023-02-19,Blue Dart,Delivered
+1864,2024-09-04,,XpressBees,In Transit
+1865,2024-04-11,2024-04-15,DTDC,Delivered
+1866,2025-05-20,2025-05-25,Ecom Express,Delivered
+1867,2023-09-30,2023-10-06,Blue Dart,Delivered
+1868,2023-06-14,2023-06-19,Blue Dart,Delivered
+1869,2023-09-29,,Blue Dart,In Transit
+1870,2023-01-22,2023-01-29,Delhivery,Delivered
+1871,2025-06-19,2025-06-23,XpressBees,Delivered
+1872,2024-06-04,,Blue Dart,In Transit
+1873,2025-02-08,2025-02-13,Delhivery,Delivered
+1874,2024-05-11,2024-05-14,Delhivery,Delivered
+1875,2024-07-22,,DTDC,In Transit
+1876,2024-08-19,,XpressBees,In Transit
+1877,2024-06-05,2024-06-12,Delhivery,Delivered
+1878,,,Delhivery,Pending
+1879,2025-01-14,2025-01-19,DTDC,Delivered
+1880,2025-05-10,2025-05-15,Delhivery,Delivered
+1881,2024-01-12,2024-01-15,Ecom Express,Delivered
+1882,2023-10-08,,Delhivery,In Transit
+1883,2023-11-18,2023-11-23,Delhivery,Delivered
+1884,2024-01-20,2024-01-24,Blue Dart,Delivered
+1885,2023-08-01,,DTDC,In Transit
+1886,,,Delhivery,Pending
+1887,2025-02-04,,Delhivery,In Transit
+1888,2023-10-25,2023-10-28,Ekart,Delivered
+1889,2025-01-09,2025-01-15,Ecom Express,Delivered
+1890,2025-02-15,,Delhivery,In Transit
+1891,2023-10-23,2023-10-25,XpressBees,Delivered
+1892,2023-10-08,2023-10-12,Ecom Express,Delivered
+1893,2024-10-20,2024-10-23,Ecom Express,Delivered
+1894,2023-10-22,,DTDC,In Transit
+1895,2023-11-26,2023-11-28,DTDC,Delivered
+1896,2023-06-02,2023-06-07,Ecom Express,Delivered
+1897,2025-03-15,2025-03-20,Delhivery,Delivered
+1898,2023-11-06,,DTDC,In Transit
+1899,2023-12-25,2023-12-28,XpressBees,Delivered
+1900,2023-09-24,2023-09-29,Ecom Express,Delivered
+1901,2024-01-08,,XpressBees,In Transit
+1902,2023-03-13,2023-03-20,Delhivery,Delivered
+1903,2024-04-14,2024-04-16,Ekart,Delivered
+1904,,,DTDC,Pending
+1905,2023-04-17,2023-04-21,Blue Dart,Delivered
+1906,2025-01-23,2025-01-27,XpressBees,Delivered
+1907,2023-12-01,2023-12-03,Blue Dart,Delivered
+1908,2025-02-23,2025-03-01,Delhivery,Delivered
+1909,2024-06-21,2024-06-23,Ecom Express,Delivered
+1910,2023-12-07,2023-12-10,Ekart,Delivered
+1911,2023-11-01,2023-11-07,Delhivery,Delivered
+1912,2023-06-02,2023-06-04,Blue Dart,Delivered
+1913,2024-08-13,2024-08-19,DTDC,Delivered
+1914,2023-03-11,2023-03-16,Ecom Express,Delivered
+1915,2023-07-27,2023-08-02,XpressBees,Delivered
+1916,2024-11-03,2024-11-07,Ekart,Delivered
+1917,2023-11-29,,Ecom Express,In Transit
+1918,2024-11-07,2024-11-10,Ekart,Delivered
+1919,2023-12-29,,DTDC,In Transit
+1920,2024-04-14,2024-04-18,XpressBees,Delivered
+1921,,,Delhivery,Pending
+1922,2024-08-10,2024-08-17,DTDC,Delivered
+1923,2024-11-25,,Delhivery,In Transit
+1924,2023-07-20,2023-07-23,Ekart,Delivered
+1925,2024-04-10,2024-04-13,Delhivery,Delivered
+1926,2024-07-28,,Ekart,In Transit
+1927,2023-01-15,2023-01-20,DTDC,Delivered
+1928,2023-03-20,2023-03-24,Blue Dart,Delivered
+1929,2024-12-24,2024-12-30,Blue Dart,Delivered
+1930,2023-09-30,,DTDC,In Transit
+1931,2023-05-01,2023-05-06,Delhivery,Delivered
+1932,2024-08-31,2024-09-06,Blue Dart,Delivered
+1933,,,Blue Dart,Pending
+1934,2023-09-02,2023-09-08,Blue Dart,Delivered
+1935,2025-04-26,,DTDC,In Transit
+1936,2025-03-31,,Delhivery,In Transit
+1937,2024-06-03,2024-06-09,Delhivery,Delivered
+1938,2024-03-22,,Ecom Express,In Transit
+1939,2024-02-16,2024-02-23,Blue Dart,Delivered
+1940,2024-01-21,2024-01-23,Blue Dart,Delivered
+1941,2023-04-05,2023-04-12,DTDC,Delivered
+1942,2024-06-09,2024-06-15,Ekart,Delivered
+1943,2023-06-06,2023-06-10,Blue Dart,Delivered
+1944,2023-08-10,,XpressBees,In Transit
+1945,2025-05-28,,Delhivery,In Transit
+1946,2023-12-12,2023-12-17,DTDC,Delivered
+1947,2023-02-27,2023-03-03,Delhivery,Delivered
+1948,2024-11-24,2024-11-29,Delhivery,Delivered
+1949,2023-02-26,2023-03-04,XpressBees,Delivered
+1950,2023-04-02,2023-04-08,Ekart,Delivered
+1951,2023-12-12,2023-12-18,DTDC,Delivered
+1952,,,XpressBees,Pending
+1953,2024-10-31,2024-11-05,XpressBees,Delivered
+1954,2024-12-09,,XpressBees,In Transit
+1955,2024-12-14,,XpressBees,In Transit
+1956,2023-12-23,2023-12-26,Delhivery,Delivered
+1957,2023-06-10,,Blue Dart,In Transit
+1958,2024-10-19,,DTDC,In Transit
+1959,2024-03-24,2024-03-31,XpressBees,Delivered
+1960,2023-07-23,2023-07-30,Ekart,Delivered
+1961,2023-12-17,2023-12-23,DTDC,Delivered
+1962,2024-05-10,2024-05-17,XpressBees,Delivered
+1963,2024-03-13,2024-03-18,Delhivery,Delivered
+1964,2024-07-22,2024-07-27,Blue Dart,Delivered
+1965,2024-09-01,,Ekart,In Transit
+1966,2025-04-05,2025-04-08,Delhivery,Delivered
+1967,2024-02-02,,DTDC,In Transit
+1968,2024-11-05,2024-11-09,Blue Dart,Delivered
+1969,,,Delhivery,Pending
+1970,2023-10-23,,Blue Dart,In Transit
+1971,2025-02-19,2025-02-26,Ekart,Delivered
+1972,2023-03-04,,XpressBees,In Transit
+1973,,,Blue Dart,Pending
+1974,,,XpressBees,Pending
+1975,2025-05-17,2025-05-22,DTDC,Delivered
+1976,2023-05-11,2023-05-16,Ekart,Delivered
+1977,2024-10-15,2024-10-22,Delhivery,Delivered
+1978,2023-07-29,2023-07-31,Blue Dart,Delivered
+1979,2025-01-01,2025-01-04,DTDC,Delivered
+1980,2024-05-10,2024-05-14,Blue Dart,Delivered
+1981,2025-04-26,2025-04-29,Blue Dart,Delivered
+1982,2024-11-24,2024-11-28,XpressBees,Delivered
+1983,2023-08-27,2023-08-30,Ekart,Delivered
+1984,2023-09-13,2023-09-16,Blue Dart,Delivered
+1985,2023-03-14,,DTDC,In Transit
+1986,2023-11-08,2023-11-13,Blue Dart,Delivered
+1987,2023-01-19,,Delhivery,In Transit
+1988,2025-02-25,2025-02-28,Blue Dart,Delivered
+1989,2025-05-31,2025-06-03,XpressBees,Delivered
+1990,,,Ekart,Pending
+1991,2024-12-20,2024-12-23,XpressBees,Delivered
+1992,2023-05-22,2023-05-25,DTDC,Delivered
+1993,2023-11-21,2023-11-24,DTDC,Delivered
+1994,2023-03-30,2023-04-04,Delhivery,Delivered
+1995,2024-08-21,2024-08-27,Delhivery,Delivered
+1996,2023-11-04,2023-11-07,DTDC,Delivered
+1997,2025-01-11,2025-01-17,Ekart,Delivered
+1998,,,Delhivery,Pending
+1999,2025-05-31,2025-06-06,Blue Dart,Delivered
+2000,2023-04-21,2023-04-28,Blue Dart,Delivered
+2001,2025-03-15,2025-03-18,Delhivery,Delivered
+2002,,,Ecom Express,Pending
+2003,2024-02-04,2024-02-08,DTDC,Delivered
+2004,2023-12-27,2023-12-30,Blue Dart,Delivered
+2005,2024-01-17,2024-01-23,Ekart,Delivered
+2006,2023-03-13,2023-03-20,XpressBees,Delivered
+2007,2025-03-06,2025-03-13,Blue Dart,Delivered
+2008,2023-05-25,2023-05-27,Delhivery,Delivered
+2009,2023-12-13,2023-12-16,Ekart,Delivered
+2010,2023-10-11,2023-10-13,XpressBees,Delivered
+2011,2025-01-22,,Ekart,In Transit
+2012,2025-05-10,2025-05-15,Blue Dart,Delivered
+2013,2025-03-27,,DTDC,In Transit
+2014,2024-12-25,,Ekart,In Transit
+2015,2023-08-28,2023-09-04,Delhivery,Delivered
+2016,2023-05-13,2023-05-19,DTDC,Delivered
+2017,2024-10-31,2024-11-03,DTDC,Delivered
+2018,2025-04-05,2025-04-12,Ecom Express,Delivered
+2019,2023-11-22,2023-11-27,XpressBees,Delivered
+2020,,,DTDC,Pending
+2021,2025-02-07,2025-02-11,Blue Dart,Delivered
+2022,2023-03-14,2023-03-18,DTDC,Delivered
+2023,2024-05-31,2024-06-05,Delhivery,Delivered
+2024,2023-05-13,2023-05-17,XpressBees,Delivered
+2025,,,XpressBees,Pending
+2026,2025-01-18,2025-01-24,Delhivery,Delivered
+2027,2024-06-23,2024-06-30,DTDC,Delivered
+2028,2025-02-05,2025-02-07,Delhivery,Delivered
+2029,2023-05-27,,Delhivery,In Transit
+2030,2023-10-11,2023-10-17,Ekart,Delivered
+2031,2024-11-08,,Blue Dart,In Transit
+2032,2025-04-16,2025-04-22,Delhivery,Delivered
+2033,2025-03-12,2025-03-18,Delhivery,Delivered
+2034,2024-05-20,2024-05-22,DTDC,Delivered
+2035,2024-11-07,2024-11-09,Ecom Express,Delivered
+2036,2024-08-26,2024-09-02,XpressBees,Delivered
+2037,2024-02-17,2024-02-23,XpressBees,Delivered
+2038,2024-05-16,2024-05-19,Delhivery,Delivered
+2039,2023-09-03,2023-09-07,Ekart,Delivered
+2040,2024-07-22,2024-07-24,DTDC,Delivered
+2041,,,Delhivery,Pending
+2042,2023-10-15,2023-10-17,DTDC,Delivered
+2043,2025-02-16,2025-02-23,Delhivery,Delivered
+2044,2023-12-19,2023-12-21,Blue Dart,Delivered
+2045,2024-06-03,2024-06-08,Delhivery,Delivered
+2046,2024-10-01,2024-10-06,DTDC,Delivered
+2047,2024-08-08,2024-08-12,Ecom Express,Delivered
+2048,2024-11-03,,XpressBees,In Transit
+2049,,,Ekart,Pending
+2050,,,Ekart,Pending
+2051,2025-06-03,,DTDC,In Transit
+2052,2025-03-24,2025-03-26,Delhivery,Delivered
+2053,2025-01-18,,DTDC,In Transit
+2054,2024-06-20,2024-06-26,Ecom Express,Delivered
+2055,2024-11-27,2024-11-30,XpressBees,Delivered
+2056,2024-06-14,2024-06-20,Ecom Express,Delivered
+2057,2024-05-22,,Blue Dart,In Transit
+2058,2025-04-25,2025-05-02,Ekart,Delivered
+2059,,,Blue Dart,Pending
+2060,2024-11-06,2024-11-10,Ecom Express,Delivered
+2061,2023-01-01,2023-01-05,XpressBees,Delivered
+2062,2025-01-03,2025-01-08,XpressBees,Delivered
+2063,2023-10-18,2023-10-25,Ecom Express,Delivered
+2064,2023-03-14,2023-03-17,Delhivery,Delivered
+2065,2025-05-26,2025-05-30,Ekart,Delivered
+2066,,,Delhivery,Pending
+2067,2025-03-09,2025-03-12,XpressBees,Delivered
+2068,2023-07-02,2023-07-08,XpressBees,Delivered
+2069,2024-10-19,2024-10-25,DTDC,Delivered
+2070,2023-09-01,2023-09-05,DTDC,Delivered
+2071,2023-05-06,2023-05-08,DTDC,Delivered
+2072,2024-02-10,2024-02-15,DTDC,Delivered
+2073,2023-10-12,,XpressBees,In Transit
+2074,2024-07-24,2024-07-26,Ecom Express,Delivered
+2075,,,DTDC,Pending
+2076,,,Blue Dart,Pending
+2077,2024-01-31,2024-02-06,Ecom Express,Delivered
+2078,2024-08-10,2024-08-15,DTDC,Delivered
+2079,2024-08-23,2024-08-28,DTDC,Delivered
+2080,2024-01-10,2024-01-16,Blue Dart,Delivered
+2081,2024-08-09,,DTDC,In Transit
+2082,2023-09-29,2023-10-04,Ekart,Delivered
+2083,2025-04-11,2025-04-13,DTDC,Delivered
+2084,2024-09-29,,Delhivery,In Transit
+2085,2023-08-24,,DTDC,In Transit
+2086,2025-01-30,,Ecom Express,In Transit
+2087,2023-09-27,2023-10-02,Delhivery,Delivered
+2088,2025-02-04,2025-02-09,Delhivery,Delivered
+2089,2024-06-07,,Ekart,In Transit
+2090,2023-05-31,2023-06-02,Delhivery,Delivered
+2091,2024-09-24,2024-09-29,Ecom Express,Delivered
+2092,2024-12-09,2024-12-13,Ecom Express,Delivered
+2093,2024-12-27,2024-12-30,DTDC,Delivered
+2094,2024-04-22,,Blue Dart,In Transit
+2095,,,Ekart,Pending
+2096,2024-04-11,2024-04-14,Blue Dart,Delivered
+2097,2025-06-04,2025-06-09,DTDC,Delivered
+2098,2025-05-10,2025-05-14,DTDC,Delivered
+2099,2024-09-19,2024-09-24,XpressBees,Delivered
+2100,2023-05-05,2023-05-11,Blue Dart,Delivered
+2101,2023-05-28,2023-05-31,Delhivery,Delivered
+2102,2025-04-16,2025-04-18,Blue Dart,Delivered
+2103,,,Ekart,Pending
+2104,2023-07-12,2023-07-16,DTDC,Delivered
+2105,2025-06-09,2025-06-16,DTDC,Delivered
+2106,2023-08-29,2023-09-05,DTDC,Delivered
+2107,2024-11-13,2024-11-17,Ecom Express,Delivered
+2108,2024-02-01,2024-02-03,Delhivery,Delivered
+2109,2023-03-24,2023-03-26,Ekart,Delivered
+2110,,,Ekart,Pending
+2111,2023-08-19,2023-08-23,Ekart,Delivered
+2112,2024-05-09,2024-05-14,Delhivery,Delivered
+2113,2024-09-23,,Blue Dart,In Transit
+2114,2024-02-15,2024-02-20,Ecom Express,Delivered
+2115,2023-03-20,2023-03-24,Ecom Express,Delivered
+2116,2023-11-13,2023-11-20,Blue Dart,Delivered
+2117,2023-09-02,2023-09-07,DTDC,Delivered
+2118,2025-02-12,2025-02-17,Ecom Express,Delivered
+2119,2024-07-10,2024-07-17,Blue Dart,Delivered
+2120,2024-12-05,2024-12-08,XpressBees,Delivered
+2121,2024-08-29,2024-09-01,Ecom Express,Delivered
+2122,,,Blue Dart,Pending
+2123,2024-01-01,2024-01-07,Blue Dart,Delivered
+2124,2023-12-30,2024-01-05,Delhivery,Delivered
+2125,,,DTDC,Pending
+2126,,,XpressBees,Pending
+2127,2024-02-02,2024-02-04,Delhivery,Delivered
+2128,2024-02-06,2024-02-12,Ecom Express,Delivered
+2129,2023-10-16,,DTDC,In Transit
+2130,2023-07-13,2023-07-20,Blue Dart,Delivered
+2131,2024-08-31,2024-09-04,Ecom Express,Delivered
+2132,,,Delhivery,Pending
+2133,2023-12-28,,Delhivery,In Transit
+2134,2023-02-04,2023-02-07,Blue Dart,Delivered
+2135,2024-03-14,,Ekart,In Transit
+2136,2023-04-15,2023-04-19,Blue Dart,Delivered
+2137,,,Ekart,Pending
+2138,2023-12-18,2023-12-22,XpressBees,Delivered
+2139,2025-02-24,2025-03-01,XpressBees,Delivered
+2140,2023-05-09,2023-05-11,Delhivery,Delivered
+2141,2024-05-04,2024-05-08,Blue Dart,Delivered
+2142,2024-04-05,,XpressBees,In Transit
+2143,2025-02-26,,Ekart,In Transit
+2144,2024-04-01,,Ecom Express,In Transit
+2145,2024-07-04,2024-07-10,Delhivery,Delivered
+2146,,,Ekart,Pending
+2147,2024-11-11,2024-11-18,Delhivery,Delivered
+2148,2023-01-23,,Blue Dart,In Transit
+2149,2024-02-01,2024-02-06,Delhivery,Delivered
+2150,2023-06-16,2023-06-21,Delhivery,Delivered
+2151,2023-04-25,2023-04-29,XpressBees,Delivered
+2152,2024-08-24,2024-08-27,Delhivery,Delivered
+2153,2024-02-06,2024-02-10,Blue Dart,Delivered
+2154,2025-01-16,2025-01-18,XpressBees,Delivered
+2155,2025-02-08,2025-02-13,Ecom Express,Delivered
+2156,2023-02-21,2023-02-24,DTDC,Delivered
+2157,2024-05-22,2024-05-29,Delhivery,Delivered
+2158,2024-08-23,,XpressBees,In Transit
+2159,2024-11-07,,DTDC,In Transit
+2160,2025-01-04,,Ecom Express,In Transit
+2161,2023-12-17,2023-12-19,Ecom Express,Delivered
+2162,2023-08-09,2023-08-15,Delhivery,Delivered
+2163,2024-09-07,,Ekart,In Transit
+2164,2023-08-28,2023-08-31,Delhivery,Delivered
+2165,,,Ecom Express,Pending
+2166,2024-08-08,2024-08-12,Delhivery,Delivered
+2167,2023-04-19,2023-04-26,Blue Dart,Delivered
+2168,2025-03-27,2025-04-01,DTDC,Delivered
+2169,,,Blue Dart,Pending
+2170,2023-08-30,,Ekart,In Transit
+2171,2024-01-19,2024-01-22,Ekart,Delivered
+2172,2024-06-12,,XpressBees,In Transit
+2173,2023-10-04,2023-10-08,DTDC,Delivered
+2174,2023-11-07,2023-11-13,Ekart,Delivered
+2175,2023-08-17,2023-08-24,Delhivery,Delivered
+2176,2023-11-25,2023-12-01,Ekart,Delivered
+2177,2024-06-20,,XpressBees,In Transit
+2178,2024-01-09,2024-01-15,Delhivery,Delivered
+2179,2024-04-11,2024-04-17,Blue Dart,Delivered
+2180,2023-01-21,,Blue Dart,In Transit
+2181,2023-09-13,2023-09-18,Ecom Express,Delivered
+2182,2024-03-03,2024-03-09,Blue Dart,Delivered
+2183,2025-04-25,2025-04-30,Blue Dart,Delivered
+2184,2023-10-09,2023-10-12,Ekart,Delivered
+2185,2024-05-26,2024-05-31,XpressBees,Delivered
+2186,2023-02-11,2023-02-13,Blue Dart,Delivered
+2187,2023-07-07,2023-07-14,Ekart,Delivered
+2188,2025-02-17,2025-02-22,DTDC,Delivered
+2189,2024-01-28,,DTDC,In Transit
+2190,2024-10-17,2024-10-23,DTDC,Delivered
+2191,2024-02-21,2024-02-23,Delhivery,Delivered
+2192,2024-04-17,2024-04-24,Ecom Express,Delivered
+2193,,,XpressBees,Pending
+2194,2023-12-22,2023-12-25,Blue Dart,Delivered
+2195,,,XpressBees,Pending
+2196,2023-09-25,,Delhivery,In Transit
+2197,2024-10-26,2024-10-30,XpressBees,Delivered
+2198,2023-03-02,2023-03-06,DTDC,Delivered
+2199,2024-05-21,2024-05-23,Ecom Express,Delivered
+2200,2024-01-07,,Ecom Express,In Transit
+2201,2025-01-02,2025-01-05,Delhivery,Delivered
+2202,2023-12-25,,Ecom Express,In Transit
+2203,2023-12-22,2023-12-28,Ekart,Delivered
+2204,2024-02-05,2024-02-12,Ekart,Delivered
+2205,2023-06-30,,DTDC,In Transit
+2206,2023-01-09,,Delhivery,In Transit
+2207,2023-01-26,2023-02-01,Delhivery,Delivered
+2208,2024-07-19,,Ecom Express,In Transit
+2209,2023-06-16,2023-06-22,Ekart,Delivered
+2210,2023-07-28,2023-07-31,Ekart,Delivered
+2211,2024-01-09,2024-01-14,DTDC,Delivered
+2212,2023-05-28,2023-06-03,DTDC,Delivered
+2213,2023-10-18,2023-10-25,Blue Dart,Delivered
+2214,2024-08-14,2024-08-21,Blue Dart,Delivered
+2215,2024-01-21,2024-01-28,DTDC,Delivered
+2216,2024-07-12,2024-07-17,Ekart,Delivered
+2217,2023-05-30,2023-06-03,Delhivery,Delivered
+2218,2023-08-10,2023-08-14,DTDC,Delivered
+2219,2023-04-19,2023-04-21,Ecom Express,Delivered
+2220,2023-05-08,2023-05-11,Ecom Express,Delivered
+2221,2023-06-27,2023-06-30,Blue Dart,Delivered
+2222,2023-12-14,2023-12-17,Delhivery,Delivered
+2223,2023-02-04,2023-02-10,DTDC,Delivered
+2224,2024-09-18,2024-09-25,DTDC,Delivered
+2225,2025-01-16,2025-01-22,Delhivery,Delivered
+2226,2024-05-13,2024-05-16,DTDC,Delivered
+2227,2023-07-17,2023-07-21,DTDC,Delivered
+2228,2025-01-20,2025-01-27,XpressBees,Delivered
+2229,2024-12-07,2024-12-10,Ekart,Delivered
+2230,,,Blue Dart,Pending
+2231,2023-03-16,2023-03-21,Delhivery,Delivered
+2232,2025-03-03,,Ekart,In Transit
+2233,2025-03-23,2025-03-25,Delhivery,Delivered
+2234,2024-04-07,2024-04-12,Ecom Express,Delivered
+2235,2023-04-12,,Ekart,In Transit
+2236,,,Blue Dart,Pending
+2237,2024-04-20,2024-04-25,XpressBees,Delivered
+2238,2025-03-30,2025-04-06,Delhivery,Delivered
+2239,,,Delhivery,Pending
+2240,2024-06-03,2024-06-10,Ecom Express,Delivered
+2241,2024-06-22,2024-06-28,Blue Dart,Delivered
+2242,2023-02-04,,XpressBees,In Transit
+2243,2025-06-10,,XpressBees,In Transit
+2244,2024-07-22,2024-07-27,Delhivery,Delivered
+2245,2023-02-15,2023-02-20,Delhivery,Delivered
+2246,2023-09-30,,DTDC,In Transit
+2247,2024-07-04,2024-07-10,XpressBees,Delivered
+2248,2024-10-13,2024-10-20,Blue Dart,Delivered
+2249,2024-03-03,2024-03-10,XpressBees,Delivered
+2250,2024-01-18,2024-01-23,Delhivery,Delivered
+2251,2024-07-22,2024-07-24,DTDC,Delivered
+2252,2023-03-31,2023-04-03,DTDC,Delivered
+2253,2023-08-27,,DTDC,In Transit
+2254,2023-01-29,,Delhivery,In Transit
+2255,2023-12-09,2023-12-12,DTDC,Delivered
+2256,2023-12-21,,Ekart,In Transit
+2257,2024-12-08,2024-12-13,Blue Dart,Delivered
+2258,2024-11-26,,Blue Dart,In Transit
+2259,2024-09-10,2024-09-16,Ekart,Delivered
+2260,2024-12-25,2024-12-28,Blue Dart,Delivered
+2261,2023-05-17,,Blue Dart,In Transit
+2262,2023-09-27,,DTDC,In Transit
+2263,2024-08-11,2024-08-16,Ecom Express,Delivered
+2264,2024-02-12,2024-02-15,XpressBees,Delivered
+2265,2024-08-25,2024-08-31,XpressBees,Delivered
+2266,2023-10-29,,DTDC,In Transit
+2267,2023-06-27,2023-06-30,Ecom Express,Delivered
+2268,2024-11-08,2024-11-13,Ekart,Delivered
+2269,2024-07-09,2024-07-16,Ecom Express,Delivered
+2270,2024-03-01,2024-03-04,Ecom Express,Delivered
+2271,2024-06-18,,Blue Dart,In Transit
+2272,2025-03-10,2025-03-12,DTDC,Delivered
+2273,2024-09-03,2024-09-10,Delhivery,Delivered
+2274,2023-01-03,2023-01-05,XpressBees,Delivered
+2275,2024-07-11,2024-07-13,XpressBees,Delivered
+2276,2024-11-21,,Blue Dart,In Transit
+2277,2024-11-20,,Blue Dart,In Transit
+2278,2024-08-25,,Ekart,In Transit
+2279,2024-08-09,2024-08-16,XpressBees,Delivered
+2280,2024-11-03,2024-11-09,Delhivery,Delivered
+2281,2024-06-21,2024-06-27,Delhivery,Delivered
+2282,2023-10-18,2023-10-22,Blue Dart,Delivered
+2283,2024-10-11,2024-10-18,Delhivery,Delivered
+2284,2024-06-06,,Ekart,In Transit
+2285,2024-03-06,2024-03-11,Ecom Express,Delivered
+2286,2023-02-21,2023-02-27,Blue Dart,Delivered
+2287,,,Delhivery,Pending
+2288,2024-03-03,,Ecom Express,In Transit
+2289,,,Ekart,Pending
+2290,2023-10-11,2023-10-15,Ekart,Delivered
+2291,2023-03-28,2023-03-30,DTDC,Delivered
+2292,,,Ecom Express,Pending
+2293,2023-05-16,2023-05-22,Ekart,Delivered
+2294,2024-10-25,2024-10-29,Ekart,Delivered
+2295,2023-11-07,,Ecom Express,In Transit
+2296,2024-05-19,,Delhivery,In Transit
+2297,2024-08-11,,Delhivery,In Transit
+2298,,,Delhivery,Pending
+2299,,,Ekart,Pending
+2300,,,Ecom Express,Pending
+2301,2024-01-23,,Ekart,In Transit
+2302,2023-07-30,,DTDC,In Transit
+2303,2024-12-04,2024-12-09,DTDC,Delivered
+2304,2023-06-20,2023-06-24,Delhivery,Delivered
+2305,2025-01-09,,Ekart,In Transit
+2306,2023-05-26,2023-05-31,DTDC,Delivered
+2307,2024-04-07,2024-04-11,DTDC,Delivered
+2308,2023-09-18,,DTDC,In Transit
+2309,2025-04-29,2025-05-04,Ecom Express,Delivered
+2310,2023-09-30,2023-10-03,DTDC,Delivered
+2311,2023-07-22,2023-07-27,Ecom Express,Delivered
+2312,2023-03-09,2023-03-14,Delhivery,Delivered
+2313,2024-12-03,,Delhivery,In Transit
+2314,2023-06-03,2023-06-09,Ecom Express,Delivered
+2315,,,DTDC,Pending
+2316,2024-04-22,2024-04-29,Ecom Express,Delivered
+2317,2023-03-13,2023-03-19,Blue Dart,Delivered
+2318,2024-11-07,2024-11-13,Delhivery,Delivered
+2319,2024-03-16,2024-03-21,Blue Dart,Delivered
+2320,2024-05-23,2024-05-29,Delhivery,Delivered
+2321,2025-01-12,2025-01-18,Ecom Express,Delivered
+2322,2024-05-25,2024-05-27,Delhivery,Delivered
+2323,2024-08-01,2024-08-03,Delhivery,Delivered
+2324,2023-06-05,2023-06-07,Ecom Express,Delivered
+2325,2023-01-23,2023-01-25,Blue Dart,Delivered
+2326,2023-09-18,,Delhivery,In Transit
+2327,2023-03-16,2023-03-20,Ecom Express,Delivered
+2328,2024-04-17,2024-04-23,Ekart,Delivered
+2329,2023-01-29,,DTDC,In Transit
+2330,2024-07-09,2024-07-14,DTDC,Delivered
+2331,2023-10-21,2023-10-26,Blue Dart,Delivered
+2332,2024-11-20,2024-11-27,Blue Dart,Delivered
+2333,2024-05-10,2024-05-13,XpressBees,Delivered
+2334,2023-12-26,2024-01-02,Delhivery,Delivered
+2335,2023-11-10,2023-11-15,DTDC,Delivered
+2336,2025-06-10,2025-06-12,DTDC,Delivered
+2337,2025-04-24,2025-04-26,Delhivery,Delivered
+2338,2025-01-10,2025-01-12,DTDC,Delivered
+2339,2023-09-28,2023-10-04,Ecom Express,Delivered
+2340,2023-02-21,,Ekart,In Transit
+2341,2024-11-05,2024-11-08,XpressBees,Delivered
+2342,2024-07-24,,Ecom Express,In Transit
+2343,2023-09-16,2023-09-18,Delhivery,Delivered
+2344,2023-07-26,2023-08-01,Ecom Express,Delivered
+2345,2024-10-19,,DTDC,In Transit
+2346,2025-03-10,2025-03-15,XpressBees,Delivered
+2347,2025-02-10,2025-02-17,Ekart,Delivered
+2348,2024-11-23,2024-11-29,Ecom Express,Delivered
+2349,2023-09-04,2023-09-09,XpressBees,Delivered
+2350,2023-06-15,2023-06-19,Ecom Express,Delivered
+2351,2023-10-02,2023-10-08,Ekart,Delivered
+2352,2023-05-18,2023-05-23,DTDC,Delivered
+2353,2023-03-10,2023-03-13,Delhivery,Delivered
+2354,2024-07-01,2024-07-04,Ekart,Delivered
+2355,2023-12-15,,Ecom Express,In Transit
+2356,,,Delhivery,Pending
+2357,,,DTDC,Pending
+2358,2023-05-12,2023-05-18,Delhivery,Delivered
+2359,2025-01-17,2025-01-20,Ekart,Delivered
+2360,2025-05-22,2025-05-29,Blue Dart,Delivered
+2361,2024-10-26,2024-10-30,DTDC,Delivered
+2362,2023-06-19,,Delhivery,In Transit
+2363,2023-11-06,,Delhivery,In Transit
+2364,2024-02-16,2024-02-23,XpressBees,Delivered
+2365,2025-04-09,2025-04-12,Ekart,Delivered
+2366,2025-01-21,2025-01-24,Ekart,Delivered
+2367,2024-02-19,2024-02-22,DTDC,Delivered
+2368,2025-03-25,2025-03-29,XpressBees,Delivered
+2369,,,DTDC,Pending
+2370,,,Blue Dart,Pending
+2371,2023-11-20,,DTDC,In Transit
+2372,,,XpressBees,Pending
+2373,2023-08-25,2023-08-31,Delhivery,Delivered
+2374,2023-11-28,2023-12-05,DTDC,Delivered
+2375,2024-01-31,,Ekart,In Transit
+2376,2024-03-08,2024-03-10,DTDC,Delivered
+2377,2024-11-02,2024-11-09,Ekart,Delivered
+2378,,,DTDC,Pending
+2379,2024-09-30,2024-10-07,DTDC,Delivered
+2380,2023-10-17,2023-10-19,Blue Dart,Delivered
+2381,2023-12-03,2023-12-08,XpressBees,Delivered
+2382,2023-05-12,2023-05-18,Blue Dart,Delivered
+2383,2025-03-10,2025-03-16,XpressBees,Delivered
+2384,2024-05-06,2024-05-09,Ecom Express,Delivered
+2385,2024-01-07,2024-01-12,Ecom Express,Delivered
+2386,2024-02-04,2024-02-06,DTDC,Delivered
+2387,2024-05-08,2024-05-15,DTDC,Delivered
+2388,2024-05-06,,XpressBees,In Transit
+2389,2024-08-20,,DTDC,In Transit
+2390,,,Ecom Express,Pending
+2391,2023-09-30,2023-10-07,DTDC,Delivered
+2392,2024-09-27,2024-09-29,Blue Dart,Delivered
+2393,2025-06-19,2025-06-26,XpressBees,Delivered
+2394,,,Ecom Express,Pending
+2395,2023-08-28,2023-08-31,Delhivery,Delivered
+2396,2024-08-01,2024-08-08,XpressBees,Delivered
+2397,2024-01-20,2024-01-22,XpressBees,Delivered
+2398,,,DTDC,Pending
+2399,2023-01-16,2023-01-18,Blue Dart,Delivered
+2400,2023-01-07,2023-01-11,Blue Dart,Delivered
+2401,2023-08-05,2023-08-07,XpressBees,Delivered
+2402,2025-01-24,2025-01-27,XpressBees,Delivered
+2403,,,Ekart,Pending
+2404,2023-01-06,2023-01-10,Delhivery,Delivered
+2405,2025-06-15,2025-06-19,Blue Dart,Delivered
+2406,2023-09-19,2023-09-23,Ekart,Delivered
+2407,2024-03-02,,Ekart,In Transit
+2408,2024-05-16,2024-05-19,DTDC,Delivered
+2409,2023-08-30,2023-09-01,DTDC,Delivered
+2410,2023-06-11,,Blue Dart,In Transit
+2411,2023-08-31,2023-09-07,Ecom Express,Delivered
+2412,2024-08-18,2024-08-24,Blue Dart,Delivered
+2413,2025-02-03,2025-02-09,Blue Dart,Delivered
+2414,2024-03-07,,Ecom Express,In Transit
+2415,2024-04-29,2024-05-03,Ekart,Delivered
+2416,2024-02-07,2024-02-11,Ekart,Delivered
+2417,2024-10-28,,Ecom Express,In Transit
+2418,2024-09-13,2024-09-16,Ecom Express,Delivered
+2419,2023-08-29,2023-09-03,Delhivery,Delivered
+2420,2024-11-11,2024-11-17,Ecom Express,Delivered
+2421,2024-07-24,2024-07-26,Delhivery,Delivered
+2422,2023-06-30,2023-07-05,Ecom Express,Delivered
+2423,2023-04-18,,Delhivery,In Transit
+2424,2025-03-05,2025-03-08,XpressBees,Delivered
+2425,2024-05-16,2024-05-18,Ekart,Delivered
+2426,,,Delhivery,Pending
+2427,2024-05-26,2024-06-02,Ekart,Delivered
+2428,2024-08-01,2024-08-03,Blue Dart,Delivered
+2429,,,DTDC,Pending
+2430,2023-06-14,2023-06-18,XpressBees,Delivered
+2431,2024-07-24,2024-07-27,Ecom Express,Delivered
+2432,2025-01-18,,Ekart,In Transit
+2433,2025-03-31,2025-04-06,DTDC,Delivered
+2434,2024-12-17,,Ekart,In Transit
+2435,2025-06-11,2025-06-16,Ekart,Delivered
+2436,2023-12-02,,Blue Dart,In Transit
+2437,2024-05-28,2024-06-04,XpressBees,Delivered
+2438,2024-10-22,2024-10-28,Ekart,Delivered
+2439,2025-04-12,2025-04-18,Ecom Express,Delivered
+2440,2025-03-14,2025-03-17,Blue Dart,Delivered
+2441,2024-01-20,2024-01-26,Ecom Express,Delivered
+2442,2023-05-17,2023-05-22,Ekart,Delivered
+2443,2023-11-28,2023-11-30,Ecom Express,Delivered
+2444,2024-02-14,,Blue Dart,In Transit
+2445,2024-08-11,2024-08-13,Blue Dart,Delivered
+2446,2023-03-03,2023-03-07,DTDC,Delivered
+2447,2025-02-14,2025-02-17,Ekart,Delivered
+2448,,,Ekart,Pending
+2449,2024-10-12,,Delhivery,In Transit
+2450,2025-01-19,2025-01-23,Ecom Express,Delivered
+2451,2025-01-05,2025-01-07,DTDC,Delivered
+2452,2024-11-03,2024-11-08,XpressBees,Delivered
+2453,2024-09-05,2024-09-10,DTDC,Delivered
+2454,2023-07-04,,Ecom Express,In Transit
+2455,,,XpressBees,Pending
+2456,,,DTDC,Pending
+2457,2024-10-18,,Delhivery,In Transit
+2458,2025-04-20,2025-04-27,Ecom Express,Delivered
+2459,2023-01-28,2023-02-01,Ekart,Delivered
+2460,2024-05-06,,Delhivery,In Transit
+2461,2024-11-03,2024-11-07,Ecom Express,Delivered
+2462,2025-01-05,2025-01-11,XpressBees,Delivered
+2463,2023-10-17,2023-10-20,Ecom Express,Delivered
+2464,,,Blue Dart,Pending
+2465,2024-05-12,,Blue Dart,In Transit
+2466,2025-02-14,,Delhivery,In Transit
+2467,2024-06-09,2024-06-12,DTDC,Delivered
+2468,2023-10-27,2023-10-31,Ekart,Delivered
+2469,2023-06-01,,Ecom Express,In Transit
+2470,2024-11-16,2024-11-19,DTDC,Delivered
+2471,2023-08-07,2023-08-11,Delhivery,Delivered
+2472,2025-03-03,,Ekart,In Transit
+2473,,,XpressBees,Pending
+2474,2023-11-07,2023-11-12,Delhivery,Delivered
+2475,2023-10-18,2023-10-21,DTDC,Delivered
+2476,2023-08-24,2023-08-28,Delhivery,Delivered
+2477,2023-03-09,2023-03-14,DTDC,Delivered
+2478,2023-01-06,2023-01-10,Blue Dart,Delivered
+2479,2023-08-12,,Ecom Express,In Transit
+2480,2023-09-10,,XpressBees,In Transit
+2481,,,Delhivery,Pending
+2482,2024-01-30,2024-02-01,XpressBees,Delivered
+2483,2025-02-25,,Ecom Express,In Transit
+2484,2023-02-27,2023-03-02,Delhivery,Delivered
+2485,,,DTDC,Pending
+2486,2024-09-22,2024-09-24,Blue Dart,Delivered
+2487,2024-01-06,2024-01-12,Ecom Express,Delivered
+2488,2025-04-05,2025-04-09,Delhivery,Delivered
+2489,2024-03-25,2024-03-27,Blue Dart,Delivered
+2490,,,XpressBees,Pending
+2491,2024-03-03,2024-03-06,DTDC,Delivered
+2492,2023-03-09,,Ekart,In Transit
+2493,2023-11-15,2023-11-21,Blue Dart,Delivered
+2494,2025-04-01,,Ekart,In Transit
+2495,,,XpressBees,Pending
+2496,2024-12-28,2025-01-02,Ecom Express,Delivered
+2497,,,DTDC,Pending
+2498,2024-10-04,2024-10-06,XpressBees,Delivered
+2499,,,Ekart,Pending
+2500,,,Ekart,Pending
+2501,2025-03-13,2025-03-17,Delhivery,Delivered
+2502,2024-03-27,,Delhivery,In Transit
+2503,2023-11-15,2023-11-18,Ecom Express,Delivered
+2504,2024-11-05,,XpressBees,In Transit
+2505,,,XpressBees,Pending
+2506,2024-02-29,2024-03-05,Ekart,Delivered
+2507,2025-06-09,2025-06-13,XpressBees,Delivered
+2508,2023-07-12,2023-07-19,DTDC,Delivered
+2509,2024-03-30,2024-04-03,Ecom Express,Delivered
+2510,2024-02-25,2024-03-02,Delhivery,Delivered
+2511,2023-06-07,2023-06-10,XpressBees,Delivered
+2512,2025-05-10,2025-05-16,DTDC,Delivered
+2513,2023-09-05,2023-09-07,Delhivery,Delivered
+2514,2024-07-11,2024-07-15,Delhivery,Delivered
+2515,2024-01-17,2024-01-24,XpressBees,Delivered
+2516,2024-12-12,2024-12-15,Ecom Express,Delivered
+2517,2025-06-06,2025-06-13,Ecom Express,Delivered
+2518,2023-02-23,2023-02-25,DTDC,Delivered
+2519,2024-10-21,2024-10-24,DTDC,Delivered
+2520,2023-04-15,2023-04-19,Ekart,Delivered
+2521,2023-03-12,2023-03-15,Ekart,Delivered
+2522,2023-02-19,2023-02-24,Blue Dart,Delivered
+2523,2023-07-23,2023-07-28,Ecom Express,Delivered
+2524,2025-05-11,2025-05-15,XpressBees,Delivered
+2525,2024-09-12,2024-09-15,Ecom Express,Delivered
+2526,2024-06-12,2024-06-19,Delhivery,Delivered
+2527,2024-07-02,2024-07-08,XpressBees,Delivered
+2528,2025-03-10,2025-03-17,Blue Dart,Delivered
+2529,2024-05-27,2024-05-29,Delhivery,Delivered
+2530,2024-03-16,,Ecom Express,In Transit
+2531,2024-02-17,2024-02-21,Blue Dart,Delivered
+2532,2023-11-28,2023-12-05,Ecom Express,Delivered
+2533,2023-02-12,2023-02-14,XpressBees,Delivered
+2534,2025-05-18,2025-05-20,Ekart,Delivered
+2535,2023-02-15,2023-02-21,Blue Dart,Delivered
+2536,2024-09-08,2024-09-10,Ecom Express,Delivered
+2537,2024-12-06,2024-12-10,Delhivery,Delivered
+2538,2023-03-18,2023-03-24,DTDC,Delivered
+2539,2023-12-25,2023-12-27,Ekart,Delivered
+2540,2025-02-23,2025-03-02,XpressBees,Delivered
+2541,2024-05-23,,Delhivery,In Transit
+2542,2023-12-20,2023-12-23,Ekart,Delivered
+2543,2023-09-21,2023-09-27,Ecom Express,Delivered
+2544,2025-03-02,2025-03-09,DTDC,Delivered
+2545,2023-05-20,2023-05-26,XpressBees,Delivered
+2546,2024-08-09,,Delhivery,In Transit
+2547,2023-10-20,2023-10-22,DTDC,Delivered
+2548,2023-07-07,,DTDC,In Transit
+2549,2024-03-19,2024-03-24,Ekart,Delivered
+2550,2024-07-18,2024-07-25,XpressBees,Delivered
+2551,2023-11-11,2023-11-14,Blue Dart,Delivered
+2552,,,DTDC,Pending
+2553,2023-04-16,2023-04-18,Ecom Express,Delivered
+2554,,,Ecom Express,Pending
+2555,2023-07-17,2023-07-22,Ecom Express,Delivered
+2556,2025-04-19,2025-04-24,XpressBees,Delivered
+2557,,,Ecom Express,Pending
+2558,2023-07-16,2023-07-21,Delhivery,Delivered
+2559,2025-03-03,2025-03-10,Blue Dart,Delivered
+2560,2024-07-08,2024-07-14,XpressBees,Delivered
+2561,2024-09-10,2024-09-17,Blue Dart,Delivered
+2562,2023-11-17,,DTDC,In Transit
+2563,2023-02-22,2023-03-01,XpressBees,Delivered
+2564,2023-09-27,2023-09-30,Ekart,Delivered
+2565,,,Blue Dart,Pending
+2566,2024-06-30,2024-07-05,Ecom Express,Delivered
+2567,2024-05-15,2024-05-19,DTDC,Delivered
+2568,2024-12-16,2024-12-23,Blue Dart,Delivered
+2569,2024-07-03,2024-07-06,DTDC,Delivered
+2570,2023-08-15,2023-08-18,DTDC,Delivered
+2571,2024-12-22,2024-12-27,DTDC,Delivered
+2572,2024-11-18,2024-11-20,DTDC,Delivered
+2573,2023-08-16,,Blue Dart,In Transit
+2574,2023-10-15,2023-10-17,Blue Dart,Delivered
+2575,2025-04-15,2025-04-19,Delhivery,Delivered
+2576,2024-09-19,2024-09-21,XpressBees,Delivered
+2577,,,Ekart,Pending
+2578,2024-08-28,,Delhivery,In Transit
+2579,2024-05-16,2024-05-21,DTDC,Delivered
+2580,,,Delhivery,Pending
+2581,2024-03-30,2024-04-01,Ecom Express,Delivered
+2582,2023-07-27,2023-08-03,Ekart,Delivered
+2583,2024-06-10,2024-06-15,DTDC,Delivered
+2584,2024-01-28,2024-02-04,Blue Dart,Delivered
+2585,2024-12-02,2024-12-06,XpressBees,Delivered
+2586,2024-07-08,2024-07-14,Ekart,Delivered
+2587,2023-08-08,2023-08-13,Blue Dart,Delivered
+2588,2023-09-17,2023-09-23,DTDC,Delivered
+2589,2024-06-11,,DTDC,In Transit
+2590,2024-12-31,2025-01-06,DTDC,Delivered
+2591,2025-01-16,,Blue Dart,In Transit
+2592,2023-03-27,2023-04-01,Blue Dart,Delivered
+2593,2023-03-17,2023-03-21,XpressBees,Delivered
+2594,2023-05-31,2023-06-04,Ecom Express,Delivered
+2595,2024-11-21,2024-11-26,Ekart,Delivered
+2596,2023-10-10,2023-10-16,Ecom Express,Delivered
+2597,2024-02-24,2024-02-26,Ekart,Delivered
+2598,2023-08-09,2023-08-16,Ekart,Delivered
+2599,2024-11-18,2024-11-24,Delhivery,Delivered
+2600,2024-12-17,2024-12-22,XpressBees,Delivered
+2601,2023-12-30,2024-01-02,Delhivery,Delivered
+2602,2023-10-22,2023-10-28,XpressBees,Delivered
+2603,2024-10-27,2024-11-03,XpressBees,Delivered
+2604,2025-06-02,2025-06-08,Ecom Express,Delivered
+2605,2023-02-01,2023-02-04,Blue Dart,Delivered
+2606,2024-01-05,,DTDC,In Transit
+2607,2025-05-07,,Delhivery,In Transit
+2608,2024-06-21,2024-06-26,Blue Dart,Delivered
+2609,2023-08-21,2023-08-25,Delhivery,Delivered
+2610,2024-11-08,2024-11-10,Ecom Express,Delivered
+2611,2025-03-07,2025-03-13,Ekart,Delivered
+2612,2023-07-20,,Ecom Express,In Transit
+2613,2024-08-21,2024-08-26,Delhivery,Delivered
+2614,2023-08-16,2023-08-18,Ekart,Delivered
+2615,2023-10-30,,XpressBees,In Transit
+2616,2023-09-08,2023-09-11,DTDC,Delivered
+2617,2025-02-27,2025-03-01,DTDC,Delivered
+2618,2024-09-19,2024-09-23,Ecom Express,Delivered
+2619,2024-05-03,2024-05-10,Ekart,Delivered
+2620,2025-01-08,2025-01-11,Ecom Express,Delivered
+2621,2024-12-11,2024-12-14,DTDC,Delivered
+2622,,,Blue Dart,Pending
+2623,,,XpressBees,Pending
+2624,2024-03-17,2024-03-20,Blue Dart,Delivered
+2625,2023-12-06,2023-12-12,Delhivery,Delivered
+2626,2023-12-03,2023-12-06,Ekart,Delivered
+2627,2024-05-22,2024-05-29,Ekart,Delivered
+2628,2025-01-05,2025-01-11,Blue Dart,Delivered
+2629,2023-02-26,2023-03-04,XpressBees,Delivered
+2630,2025-02-03,2025-02-08,Ecom Express,Delivered
+2631,2023-02-28,2023-03-04,Ecom Express,Delivered
+2632,2023-05-03,2023-05-08,Ecom Express,Delivered
+2633,,,XpressBees,Pending
+2634,2023-06-15,2023-06-18,Blue Dart,Delivered
+2635,2024-07-06,2024-07-13,Ekart,Delivered
+2636,2025-06-02,2025-06-07,DTDC,Delivered
+2637,2023-10-25,2023-10-29,Ekart,Delivered
+2638,2024-12-18,2024-12-25,XpressBees,Delivered
+2639,2024-11-28,2024-12-02,XpressBees,Delivered
+2640,2024-01-08,2024-01-13,XpressBees,Delivered
+2641,2024-04-02,2024-04-08,Ekart,Delivered
+2642,2024-04-14,2024-04-16,Ecom Express,Delivered
+2643,2024-12-29,2025-01-04,Delhivery,Delivered
+2644,2023-12-28,2023-12-30,XpressBees,Delivered
+2645,2024-03-27,2024-04-03,DTDC,Delivered
+2646,2025-02-18,,Blue Dart,In Transit
+2647,2023-10-27,2023-10-30,Ecom Express,Delivered
+2648,2025-05-13,2025-05-16,Delhivery,Delivered
+2649,2024-11-11,2024-11-18,Delhivery,Delivered
+2650,2023-12-17,2023-12-24,Ekart,Delivered
+2651,2025-06-16,2025-06-20,XpressBees,Delivered
+2652,2024-01-05,2024-01-11,Ecom Express,Delivered
+2653,2024-05-05,2024-05-08,Blue Dart,Delivered
+2654,2025-04-12,2025-04-16,XpressBees,Delivered
+2655,2023-04-07,2023-04-10,Delhivery,Delivered
+2656,2024-04-26,2024-05-03,DTDC,Delivered
+2657,,,Delhivery,Pending
+2658,2023-07-26,2023-07-30,Ecom Express,Delivered
+2659,2024-11-27,2024-11-29,DTDC,Delivered
+2660,2024-06-01,2024-06-03,Ekart,Delivered
+2661,2024-01-19,2024-01-22,Delhivery,Delivered
+2662,2023-12-12,2023-12-17,DTDC,Delivered
+2663,2023-10-08,2023-10-12,XpressBees,Delivered
+2664,2024-12-25,2024-12-29,XpressBees,Delivered
+2665,2025-04-14,,DTDC,In Transit
+2666,2023-11-29,2023-12-01,Ekart,Delivered
+2667,,,Ecom Express,Pending
+2668,2025-05-17,2025-05-21,Blue Dart,Delivered
+2669,2023-03-09,2023-03-15,Delhivery,Delivered
+2670,2024-11-05,2024-11-12,Blue Dart,Delivered
+2671,2025-03-28,2025-04-02,DTDC,Delivered
+2672,2023-05-28,,XpressBees,In Transit
+2673,2023-10-05,2023-10-08,Blue Dart,Delivered
+2674,2024-01-22,2024-01-27,Ekart,Delivered
+2675,2024-08-12,2024-08-16,Delhivery,Delivered
+2676,2025-06-13,2025-06-17,Delhivery,Delivered
+2677,2024-06-07,,Blue Dart,In Transit
+2678,2023-01-22,2023-01-29,Blue Dart,Delivered
+2679,2024-03-03,2024-03-06,Blue Dart,Delivered
+2680,2023-07-06,2023-07-10,Blue Dart,Delivered
+2681,2024-02-18,2024-02-21,Blue Dart,Delivered
+2682,2024-06-06,,Ekart,In Transit
+2683,2023-07-13,,Ecom Express,In Transit
+2684,2023-06-25,2023-06-28,Ecom Express,Delivered
+2685,2025-01-28,,XpressBees,In Transit
+2686,2025-03-08,2025-03-13,Delhivery,Delivered
+2687,2025-02-15,,Ekart,In Transit
+2688,2024-07-21,2024-07-27,XpressBees,Delivered
+2689,2025-05-27,2025-05-31,XpressBees,Delivered
+2690,2025-05-07,2025-05-09,XpressBees,Delivered
+2691,2023-09-07,,DTDC,In Transit
+2692,2024-04-28,2024-05-01,Delhivery,Delivered
+2693,2023-12-02,2023-12-08,Blue Dart,Delivered
+2694,2024-06-10,2024-06-14,XpressBees,Delivered
+2695,2023-02-26,,DTDC,In Transit
+2696,2025-01-16,2025-01-18,XpressBees,Delivered
+2697,2023-11-05,2023-11-07,Ecom Express,Delivered
+2698,2024-10-09,2024-10-13,Ekart,Delivered
+2699,2023-11-26,2023-11-30,Delhivery,Delivered
+2700,2024-05-02,2024-05-07,Ecom Express,Delivered
+2701,2023-05-11,2023-05-15,Ecom Express,Delivered
+2702,2024-08-09,,Ekart,In Transit
+2703,2024-12-26,,XpressBees,In Transit
+2704,2024-02-26,,Delhivery,In Transit
+2705,2023-04-03,2023-04-06,Delhivery,Delivered
+2706,2024-11-06,2024-11-12,XpressBees,Delivered
+2707,2023-07-14,2023-07-20,XpressBees,Delivered
+2708,2023-04-19,2023-04-21,DTDC,Delivered
+2709,2024-04-04,,XpressBees,In Transit
+2710,2024-01-10,2024-01-15,XpressBees,Delivered
+2711,2024-06-08,2024-06-14,Delhivery,Delivered
+2712,2023-02-27,,DTDC,In Transit
+2713,2023-10-31,2023-11-06,XpressBees,Delivered
+2714,,,XpressBees,Pending
+2715,2024-04-23,,XpressBees,In Transit
+2716,,,Delhivery,Pending
+2717,2023-01-12,,Ecom Express,In Transit
+2718,2024-01-17,,Ekart,In Transit
+2719,2025-03-19,2025-03-23,XpressBees,Delivered
+2720,2024-05-26,,Delhivery,In Transit
+2721,2023-12-01,2023-12-03,Ecom Express,Delivered
+2722,2023-02-08,,Blue Dart,In Transit
+2723,2025-04-28,2025-05-03,DTDC,Delivered
+2724,2024-01-02,2024-01-04,Ekart,Delivered
+2725,2025-03-01,2025-03-06,Ecom Express,Delivered
+2726,2023-05-12,2023-05-17,Delhivery,Delivered
+2727,2023-03-25,,Ekart,In Transit
+2728,2025-06-06,,Ekart,In Transit
+2729,2024-10-23,2024-10-27,Ekart,Delivered
+2730,2023-11-19,2023-11-21,Ecom Express,Delivered
+2731,2024-08-20,,Ecom Express,In Transit
+2732,,,XpressBees,Pending
+2733,2025-01-31,2025-02-04,DTDC,Delivered
+2734,2023-07-09,2023-07-11,Ekart,Delivered
+2735,2023-05-13,,Ekart,In Transit
+2736,2024-09-29,2024-10-06,Ekart,Delivered
+2737,2024-12-11,2024-12-16,Ecom Express,Delivered
+2738,2024-06-09,2024-06-13,Ecom Express,Delivered
+2739,2023-11-30,2023-12-03,DTDC,Delivered
+2740,,,Blue Dart,Pending
+2741,2023-03-31,2023-04-05,Ecom Express,Delivered
+2742,2024-03-19,2024-03-23,XpressBees,Delivered
+2743,,,Delhivery,Pending
+2744,,,Blue Dart,Pending
+2745,2024-01-01,2024-01-08,XpressBees,Delivered
+2746,2025-01-09,,DTDC,In Transit
+2747,2024-09-12,,XpressBees,In Transit
+2748,2024-04-06,2024-04-10,Delhivery,Delivered
+2749,2024-08-15,2024-08-17,Delhivery,Delivered
+2750,2023-06-11,2023-06-13,Ecom Express,Delivered
+2751,2024-06-27,2024-07-02,Delhivery,Delivered
+2752,2024-11-12,2024-11-16,Ecom Express,Delivered
+2753,2023-09-17,2023-09-23,Blue Dart,Delivered
+2754,2025-04-17,2025-04-19,Ecom Express,Delivered
+2755,2025-01-02,2025-01-05,Delhivery,Delivered
+2756,2024-06-19,2024-06-26,Ekart,Delivered
+2757,2024-09-10,,Delhivery,In Transit
+2758,2025-01-07,2025-01-09,Blue Dart,Delivered
+2759,2024-01-05,,Ecom Express,In Transit
+2760,2024-10-26,2024-10-30,DTDC,Delivered
+2761,,,Ecom Express,Pending
+2762,2025-04-21,2025-04-25,Ecom Express,Delivered
+2763,2023-11-25,,Delhivery,In Transit
+2764,,,Blue Dart,Pending
+2765,2025-04-27,2025-05-03,DTDC,Delivered
+2766,,,Blue Dart,Pending
+2767,2024-06-25,2024-07-02,Ekart,Delivered
+2768,2023-09-10,,XpressBees,In Transit
+2769,2024-02-11,2024-02-17,Ecom Express,Delivered
+2770,2024-02-13,2024-02-17,Ecom Express,Delivered
+2771,2024-05-26,2024-05-30,DTDC,Delivered
+2772,2023-09-25,2023-09-30,XpressBees,Delivered
+2773,2024-05-20,,Ekart,In Transit
+2774,,,XpressBees,Pending
+2775,2023-05-10,,Ecom Express,In Transit
+2776,2024-02-12,,Ekart,In Transit
+2777,2025-03-31,2025-04-07,XpressBees,Delivered
+2778,2023-09-16,2023-09-20,XpressBees,Delivered
+2779,2025-04-11,,Ekart,In Transit
+2780,2023-11-16,,DTDC,In Transit
+2781,2023-06-23,,Blue Dart,In Transit
+2782,2024-11-21,2024-11-24,XpressBees,Delivered
+2783,2024-08-16,2024-08-20,Ecom Express,Delivered
+2784,2025-01-27,2025-02-03,Ecom Express,Delivered
+2785,2024-09-20,2024-09-23,Blue Dart,Delivered
+2786,2025-04-23,,Delhivery,In Transit
+2787,2025-04-06,2025-04-09,Blue Dart,Delivered
+2788,2024-10-20,2024-10-26,DTDC,Delivered
+2789,2023-10-28,2023-11-01,DTDC,Delivered
+2790,2023-12-07,2023-12-13,DTDC,Delivered
+2791,2023-04-10,2023-04-15,Blue Dart,Delivered
+2792,2023-02-04,,Ekart,In Transit
+2793,2024-08-29,2024-09-02,Ecom Express,Delivered
+2794,,,Delhivery,Pending
+2795,2023-01-16,2023-01-23,XpressBees,Delivered
+2796,2024-05-31,2024-06-07,Blue Dart,Delivered
+2797,2023-03-20,2023-03-22,Blue Dart,Delivered
+2798,,,Ekart,Pending
+2799,2023-02-20,2023-02-22,XpressBees,Delivered
+2800,2024-11-29,2024-12-03,Ekart,Delivered
+2801,2023-01-25,2023-02-01,Ekart,Delivered
+2802,2024-07-02,2024-07-06,Ekart,Delivered
+2803,2023-07-04,2023-07-07,DTDC,Delivered
+2804,2023-03-20,,Ekart,In Transit
+2805,2025-02-03,2025-02-10,XpressBees,Delivered
+2806,,,DTDC,Pending
+2807,2024-12-04,2024-12-07,Blue Dart,Delivered
+2808,2023-09-20,2023-09-26,Blue Dart,Delivered
+2809,2024-08-14,2024-08-18,Ekart,Delivered
+2810,2023-12-01,2023-12-08,DTDC,Delivered
+2811,2023-11-26,2023-12-01,Blue Dart,Delivered
+2812,2024-05-03,2024-05-08,Delhivery,Delivered
+2813,2024-11-14,2024-11-21,Delhivery,Delivered
+2814,2024-11-15,2024-11-18,DTDC,Delivered
+2815,2023-01-08,,Delhivery,In Transit
+2816,2024-07-03,2024-07-06,Delhivery,Delivered
+2817,2023-01-28,2023-02-04,Blue Dart,Delivered
+2818,2024-05-13,2024-05-16,DTDC,Delivered
+2819,2023-09-03,,Blue Dart,In Transit
+2820,2024-04-13,2024-04-19,DTDC,Delivered
+2821,2023-02-17,2023-02-23,DTDC,Delivered
+2822,2024-04-30,2024-05-06,DTDC,Delivered
+2823,2024-12-30,2025-01-06,DTDC,Delivered
+2824,2024-08-11,2024-08-15,Delhivery,Delivered
+2825,2024-09-24,,Ekart,In Transit
+2826,2024-05-02,2024-05-07,Delhivery,Delivered
+2827,2024-03-07,,Ekart,In Transit
+2828,2024-03-17,,XpressBees,In Transit
+2829,2024-09-25,2024-10-01,XpressBees,Delivered
+2830,2023-04-17,2023-04-22,Ekart,Delivered
+2831,2025-02-20,2025-02-24,XpressBees,Delivered
+2832,2023-04-02,2023-04-08,DTDC,Delivered
+2833,2025-04-09,2025-04-12,Blue Dart,Delivered
+2834,,,Delhivery,Pending
+2835,,,Delhivery,Pending
+2836,2024-08-25,2024-08-27,Ekart,Delivered
+2837,2023-08-30,,Ekart,In Transit
+2838,2023-11-30,2023-12-02,XpressBees,Delivered
+2839,2024-01-14,,Blue Dart,In Transit
+2840,,,Ecom Express,Pending
+2841,2024-07-21,2024-07-27,Blue Dart,Delivered
+2842,2024-03-15,,Delhivery,In Transit
+2843,2024-09-16,2024-09-20,DTDC,Delivered
+2844,2023-05-28,2023-06-01,Ekart,Delivered
+2845,2023-05-18,2023-05-23,Delhivery,Delivered
+2846,2023-09-17,,XpressBees,In Transit
+2847,2023-02-18,,XpressBees,In Transit
+2848,2024-12-01,,DTDC,In Transit
+2849,2024-10-18,2024-10-21,Delhivery,Delivered
+2850,,,Blue Dart,Pending
+2851,2024-10-22,2024-10-28,XpressBees,Delivered
+2852,2024-07-14,,DTDC,In Transit
+2853,2023-09-26,2023-10-01,DTDC,Delivered
+2854,2023-07-02,2023-07-04,DTDC,Delivered
+2855,2023-05-09,,Blue Dart,In Transit
+2856,2024-12-21,,DTDC,In Transit
+2857,2024-07-05,2024-07-11,Ecom Express,Delivered
+2858,2025-01-24,,Blue Dart,In Transit
+2859,2023-07-25,,Ekart,In Transit
+2860,2024-03-17,,Ekart,In Transit
+2861,2023-11-26,2023-11-28,Blue Dart,Delivered
+2862,2023-01-22,2023-01-27,Delhivery,Delivered
+2863,2025-02-14,2025-02-18,Ekart,Delivered
+2864,2023-12-03,2023-12-09,XpressBees,Delivered
+2865,2023-04-21,2023-04-24,XpressBees,Delivered
+2866,2023-05-06,2023-05-13,DTDC,Delivered
+2867,2023-02-23,2023-03-02,Ecom Express,Delivered
+2868,2025-05-29,2025-06-01,Blue Dart,Delivered
+2869,2023-08-23,2023-08-30,Ekart,Delivered
+2870,,,Blue Dart,Pending
+2871,2023-11-29,2023-12-06,Ekart,Delivered
+2872,2023-04-16,2023-04-20,Ekart,Delivered
+2873,2025-01-04,2025-01-09,Ecom Express,Delivered
+2874,2023-08-18,,Blue Dart,In Transit
+2875,2024-06-02,2024-06-09,DTDC,Delivered
+2876,2024-04-03,2024-04-09,DTDC,Delivered
+2877,2024-04-09,2024-04-12,Delhivery,Delivered
+2878,2023-11-13,2023-11-18,Delhivery,Delivered
+2879,2025-05-26,2025-05-28,Delhivery,Delivered
+2880,2023-12-03,2023-12-10,Ekart,Delivered
+2881,2025-06-03,2025-06-09,Ecom Express,Delivered
+2882,2023-04-25,2023-04-30,XpressBees,Delivered
+2883,2024-09-24,2024-09-30,XpressBees,Delivered
+2884,2023-03-27,2023-03-31,Ekart,Delivered
+2885,2024-07-22,2024-07-27,Blue Dart,Delivered
+2886,2024-11-07,,Ecom Express,In Transit
+2887,2023-04-19,2023-04-22,DTDC,Delivered
+2888,2023-08-24,2023-08-30,Ekart,Delivered
+2889,2024-08-11,,XpressBees,In Transit
+2890,2023-06-04,,Ekart,In Transit
+2891,2023-12-16,2023-12-18,DTDC,Delivered
+2892,2023-07-20,2023-07-26,Delhivery,Delivered
+2893,,,Blue Dart,Pending
+2894,2024-05-19,,Delhivery,In Transit
+2895,2023-12-06,2023-12-09,Ekart,Delivered
+2896,2024-07-14,2024-07-18,Blue Dart,Delivered
+2897,2023-01-22,2023-01-24,Blue Dart,Delivered
+2898,2024-02-27,2024-03-04,Blue Dart,Delivered
+2899,,,XpressBees,Pending
+2900,2025-05-31,2025-06-07,Ekart,Delivered
+2901,2023-09-22,2023-09-29,Blue Dart,Delivered
+2902,2023-03-15,2023-03-18,XpressBees,Delivered
+2903,,,Delhivery,Pending
+2904,2024-07-07,2024-07-10,Ecom Express,Delivered
+2905,2024-05-17,,Delhivery,In Transit
+2906,2025-04-14,,DTDC,In Transit
+2907,2025-04-09,2025-04-16,XpressBees,Delivered
+2908,2025-02-24,2025-03-02,Blue Dart,Delivered
+2909,2024-08-14,2024-08-20,Ecom Express,Delivered
+2910,2023-08-21,2023-08-23,Delhivery,Delivered
+2911,2024-01-28,2024-02-01,Ecom Express,Delivered
+2912,2023-08-02,2023-08-04,XpressBees,Delivered
+2913,2023-12-16,,DTDC,In Transit
+2914,,,Ecom Express,Pending
+2915,2024-08-04,,Ekart,In Transit
+2916,2024-07-14,,Ecom Express,In Transit
+2917,,,Blue Dart,Pending
+2918,,,Ecom Express,Pending
+2919,2023-02-09,2023-02-11,DTDC,Delivered
+2920,2024-05-24,2024-05-27,DTDC,Delivered
+2921,2024-10-28,2024-10-31,DTDC,Delivered
+2922,2023-07-17,,Ekart,In Transit
+2923,,,Ecom Express,Pending
+2924,2023-11-22,,Ekart,In Transit
+2925,2025-05-03,2025-05-10,XpressBees,Delivered
+2926,2024-09-06,2024-09-10,Delhivery,Delivered
+2927,2024-09-09,2024-09-15,DTDC,Delivered
+2928,2024-01-27,2024-02-01,XpressBees,Delivered
+2929,2024-06-25,2024-06-28,DTDC,Delivered
+2930,2023-05-28,,XpressBees,In Transit
+2931,2024-05-27,,Blue Dart,In Transit
+2932,2023-11-23,2023-11-30,Delhivery,Delivered
+2933,2023-08-12,2023-08-17,DTDC,Delivered
+2934,2024-10-05,2024-10-08,XpressBees,Delivered
+2935,2023-08-13,2023-08-20,XpressBees,Delivered
+2936,2023-12-18,,Ecom Express,In Transit
+2937,,,Delhivery,Pending
+2938,2024-03-04,2024-03-09,Ekart,Delivered
+2939,2023-06-28,2023-07-03,Blue Dart,Delivered
+2940,2025-06-05,,XpressBees,In Transit
+2941,2024-12-20,2024-12-22,Ecom Express,Delivered
+2942,2025-03-08,,Blue Dart,In Transit
+2943,2023-05-05,2023-05-07,XpressBees,Delivered
+2944,2023-05-26,2023-05-29,Ekart,Delivered
+2945,2024-05-14,,Delhivery,In Transit
+2946,2024-12-20,2024-12-23,XpressBees,Delivered
+2947,2024-07-20,,DTDC,In Transit
+2948,2025-02-03,2025-02-09,Blue Dart,Delivered
+2949,2023-02-06,2023-02-11,Ekart,Delivered
+2950,2023-05-02,,Blue Dart,In Transit
+2951,2023-07-05,2023-07-12,Blue Dart,Delivered
+2952,2025-01-19,2025-01-25,DTDC,Delivered
+2953,2024-04-17,,XpressBees,In Transit
+2954,2025-01-23,,DTDC,In Transit
+2955,2023-10-08,,Delhivery,In Transit
+2956,2023-01-03,2023-01-05,Delhivery,Delivered
+2957,2023-07-07,2023-07-12,Ekart,Delivered
+2958,2023-06-24,,Blue Dart,In Transit
+2959,2024-05-03,2024-05-05,Delhivery,Delivered
+2960,2025-04-29,2025-05-03,DTDC,Delivered
+2961,,,Blue Dart,Pending
+2962,2023-12-29,2024-01-02,XpressBees,Delivered
+2963,2023-04-08,2023-04-10,Blue Dart,Delivered
+2964,2023-11-05,2023-11-11,Delhivery,Delivered
+2965,2023-06-02,2023-06-08,Ecom Express,Delivered
+2966,,,DTDC,Pending
+2967,2023-06-27,2023-07-03,XpressBees,Delivered
+2968,,,DTDC,Pending
+2969,2024-01-19,,Blue Dart,In Transit
+2970,2023-09-06,2023-09-11,Ekart,Delivered
+2971,2025-06-04,2025-06-07,DTDC,Delivered
+2972,2023-01-18,,Delhivery,In Transit
+2973,,,XpressBees,Pending
+2974,2023-11-14,,DTDC,In Transit
+2975,2023-08-25,2023-08-29,XpressBees,Delivered
+2976,2024-01-08,2024-01-15,XpressBees,Delivered
+2977,2024-02-03,2024-02-09,Blue Dart,Delivered
+2978,2023-08-12,2023-08-15,Ecom Express,Delivered
+2979,,,DTDC,Pending
+2980,2025-03-12,2025-03-14,XpressBees,Delivered
+2981,2023-05-08,2023-05-13,Blue Dart,Delivered
+2982,2025-06-18,2025-06-20,XpressBees,Delivered
+2983,2023-03-06,,Delhivery,In Transit
+2984,2024-11-16,,Blue Dart,In Transit
+2985,,,Blue Dart,Pending
+2986,2023-12-22,2023-12-27,Ekart,Delivered
+2987,,,Ecom Express,Pending
+2988,2023-04-05,2023-04-09,DTDC,Delivered
+2989,2024-07-14,2024-07-21,Blue Dart,Delivered
+2990,2024-06-03,2024-06-06,XpressBees,Delivered
+2991,2024-11-09,2024-11-13,Ecom Express,Delivered
+2992,2023-07-15,2023-07-19,DTDC,Delivered
+2993,2023-09-16,2023-09-21,Ekart,Delivered
+2994,2023-02-21,2023-02-26,XpressBees,Delivered
+2995,2024-04-02,2024-04-09,DTDC,Delivered
+2996,2024-10-05,2024-10-08,DTDC,Delivered
+2997,2024-12-20,2024-12-23,Delhivery,Delivered
+2998,2023-07-15,2023-07-19,XpressBees,Delivered
+2999,,,DTDC,Pending
+3000,2025-02-08,2025-02-12,DTDC,Delivered
